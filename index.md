@@ -9,7 +9,7 @@ homepage:
   text: cs.cmu.edu/~woden
 ---
 
-#**Nirmala Rao** Dhanawada
+# **Nirmala Rao** Dhanawada
 
 <!--
 include contact information from the front matter
