@@ -26,30 +26,21 @@ Supported arguments:
 ### **University of Melbourne** `2020.2 -`
 
 ```
-Melbourne, [AU](https://www.iso.org/obp/ui/#search)
+Melbourne, AU
 ```
 
-- Graduate Study, [Information Technology](https://handbook.unimelb.edu.au/2021/courses/mc-it) ([Computing](https://handbook.unimelb.edu.au/2021/components/mc-it-spec-1))
+- Graduate Study (Master's Program), [Information Technology](https://handbook.unimelb.edu.au/2021/courses/mc-it) ([Computing](https://handbook.unimelb.edu.au/2021/components/mc-it-spec-1))
 - [NDhanawada@student.unimelb.edu.au](mailto:NDhanawada@student.unimelb.edu.au)
-- Enterprise Architecture, ICT Infrastructure, Digital Ethics and Technology Equity
+- Melbourne School of Engineering Scholarship
+- Enterprise Architecture, ICT Infrastructure, Digital Ethics and Technology Equity & Management
 
 ### **Pondicherry University** `2011.08 - 2015.05`
 
 ```
-Pondicherry, [IN](https://www.iso.org/obp/ui/#search)
+Pondicherry, IN
 ```
 
-- B.S. in Computer Science, _Magna Cum Laude_
-- Vision, Graphics track
-
-### **Dickinson College** `2013.9 - 2016.5`
-
-```
-Carlisle, PA
-```
-
-- B.S. in Computer Science, _Summa Cum Laude_
-- Computer Science Departmental Honors
+- Undergraduate Study (Bachelor's), Computer Science and Engineering
 
 ## Projects
 
