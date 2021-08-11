@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Wode "Nimo" Ni
+title: Nirmala Rao "Nimo" Dhanawada
 email:
   url: mailto:woden@cs.cmu.edu
   text: woden@cs.cmu.edu
@@ -53,11 +53,11 @@ Carlisle, PA
 ## Publications
 
 ### **reCode: A Lightweight Find-and-Replace Interaction in the IDE for Transforming Code by Example**
-**Wode Ni**, Joshua Sunshine, Vu Le, Sumit Gulwani, and Titus Barik.<br> 
+**Wode Ni**, Joshua Sunshine, Vu Le, Sumit Gulwani, and Titus Barik.<br>
 _In Proceedings of the 34th ACM Symposium on User Interface Software and Technology (UIST'21), to appear._ <br>
 
 ### [**Penrose: From Mathematical Notation to Beautiful Diagrams**](http://penrose.ink/media/Penrose_SIGGRAPH2020.pdf)
-Katherine Ye, **Wode Ni**, Max Krieger, Dor Ma'ayan, Joshua Sunshine, Jonathan Aldrich, and Keenan Crane.<br> 
+Katherine Ye, **Wode Ni**, Max Krieger, Dor Ma'ayan, Joshua Sunshine, Jonathan Aldrich, and Keenan Crane.<br>
 _ACM Transactions on Graphics (SIGGRAPH'20)._<br>
 [[PDF](http://penrose.ink/media/Penrose_SIGGRAPH2020.pdf)]
 [[BibTeX]({{ page.homepage.url }}/assets/siggraph20-penrose.txt)]
