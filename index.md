@@ -1,6 +1,7 @@
 ---
 layout: cv
 title: About Nirmal
+pdf: true
 email:
   url: mailto:NDhanawada@student.unimelb.edu.au
   text: NDhanawada@student.unimelb.edu.au
