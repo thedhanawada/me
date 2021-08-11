@@ -96,10 +96,12 @@ _Evaluation and Usability of Programming Languages and Tools (PLATEAU 2019), co-
 ## Experience
 
 ### **Mast Global, L Brands** `2016.10 - 2020.2`
-
+```
+Bangalore, IN
+```
 _Senior Technology Analyst_<br>
 - Analyzed 100+ startups for market viability, technology feasibility, and consumer interest
-- Collaborated with more than 10 startups to define uses cases, wireframe proof of concepts, develop prototypes, and help - -adapt technologies to organizations
+- Collaborated with more than 10 startups to define uses cases, wireframe proof of concepts, develop prototypes, and help adapt technologies to organizations
 - Collaborated with 150+ internal associates from 20 different departments to develop prototypes, solutions, and product ideas - to empower in-house innovation and tech development worth $650k
 - Developed 23 prototypes independently and moved 11 to full production
 
