@@ -10,6 +10,9 @@ homepage:
 country:
   url: https://www.iso.org/iso-3166-country-codes.html
   text: ISO 3166 Country Code
+author:
+  url: https://github.com/wodeni/nimo-markdown-cv
+  text: nimo-markdown-cv
 ---
 
 # **Nirmala Rao** Dhanawada

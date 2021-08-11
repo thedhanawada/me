@@ -2,12 +2,12 @@
 
     {% if page.country %}
     <i class="fas fa-globe-asia" style="margin-left:1em"></i>
-    <a href="{{ page.country.url }}" style="margin-left:0.5em"> {{ page.country.text }}</a>
+    <a href="{{ page.country.url }}" style="margin-left:0.5em" target="_self"> {{ page.country.text }}</a>
     {% endif %}
 
-    {% if page.email %}
-    <i class="fi-mail" style="margin-left:1em"></i>
-    <a href="{{ page.email.url }}" style="margin-left:0.5em">{{ page.email.text }}</a>
+    {% if page.author %}
+    <i class="fas fa-bookmark" style="margin-left:1em"></i>
+    <a href="{{ page.author.url }}" style="margin-left:0.5em" target="_self"> {{ page.author.text }}</a>
     {% endif %}
 
     {% if page.phone %}
