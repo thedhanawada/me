@@ -7,7 +7,7 @@ email:
 homepage:
   url: http://cs.cmu.edu/~woden
   text: cs.cmu.edu/~woden
-country_standard:
+country:
   url: https://www.iso.org/iso-3166-country-codes.html
   text: ISO 3166 Country Code
 ---
