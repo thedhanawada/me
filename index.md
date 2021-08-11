@@ -1,15 +1,15 @@
 ---
 layout: cv
-title: Nirmala Rao "Nimo" Dhanawada
+title: About Nirmal
 email:
-  url: mailto:woden@cs.cmu.edu
-  text: woden@cs.cmu.edu
+  url: mailto:NDhanawada@student.unimelb.edu.au
+  text: NDhanawada@student.unimelb.edu.au
 homepage:
   url: http://cs.cmu.edu/~woden
   text: cs.cmu.edu/~woden
 ---
 
-# Wode **Ni**
+#**Nirmala Rao** Dhanawada
 
 <!--
 include contact information from the front matter
