@@ -30,6 +30,7 @@ Melbourne, VIC
 ```
 
 - Graduate Study, Information Technology (Computing)
+- [NDhanawada@student.unimelb.edu.au](mailto:NDhanawada@student.unimelb.edu.au)
 - Co-advised by [Ken Koedinger](http://pact.cs.cmu.edu/koedinger.html) and [Josh Sunshine](http://www.cs.cmu.edu/~jssunshi/)
 
 ### **Pondicherry University** `2011.08 - 2015.05`
@@ -50,7 +51,7 @@ Carlisle, PA
 - B.S. in Computer Science, _Summa Cum Laude_
 - Computer Science Departmental Honors
 
-## Publications
+## Projects
 
 ### **reCode: A Lightweight Find-and-Replace Interaction in the IDE for Transforming Code by Example**
 **Wode Ni**, Joshua Sunshine, Vu Le, Sumit Gulwani, and Titus Barik.<br>
