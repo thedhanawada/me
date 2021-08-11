@@ -17,9 +17,6 @@ country:
 author:
   url: https://github.com/wodeni/nimo-markdown-cv
   text: nimo-markdown-cv
-socials:
-  url: https://www.linkedin.com/in/thedhanawada/
-  text: LinkedIn
 ---
 
 # **Nirmala Rao** Dhanawada
