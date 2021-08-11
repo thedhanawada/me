@@ -1,7 +1,10 @@
 ---
 layout: cv
 title: About Nirmal
-pdf: true
+pdf:
+  cache: false | directory | default: .asset-cache
+  page_size: A4, Letter, etc. | default: A4
+  layout: layout | default: pdf
 email:
   url: mailto:NDhanawada@student.unimelb.edu.au
   text: NDhanawada@student.unimelb.edu.au
