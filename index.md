@@ -95,10 +95,13 @@ _Evaluation and Usability of Programming Languages and Tools (PLATEAU 2019), co-
 
 ## Experience
 
-### **Microsoft Research** `2020.5 - 2020.8`
+### **Mast Global, L Brands** `2016.10 - 2020.2`
 
-_Research Intern_<br>
-Worked with the [PROSE](https://www.microsoft.com/en-us/research/group/prose/) team (mentored by [Titus Barik](https://www.barik.net/)) on improving developer productivity in Visual Studio Code. I interviewed developers to elicit their needs for code transformation tools in editors. Inspired by the empirical data and relevant work in program synthesis, I designed **reCode**, an interaction model for rapidly performing complex code transformation using the familiar find-and-replace experience.
+_Senior Technology Analyst_<br>
+- Analyzed 100+ startups for market viability, technology feasibility, and consumer interest
+- Collaborated with more than 10 startups to define uses cases, wireframe proof of concepts, develop prototypes, and help - -adapt technologies to organizations
+- Collaborated with 150+ internal associates from 20 different departments to develop prototypes, solutions, and product ideas - to empower in-house innovation and tech development worth $650k
+- Developed 23 prototypes independently and moved 11 to full production
 
 ### **Carnegie Mellon University, Research Experiences for Undergraduate** `2017.5 - 2017.8`
 
