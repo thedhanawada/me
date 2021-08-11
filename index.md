@@ -5,8 +5,8 @@ email:
   url: mailto:NDhanawada@student.unimelb.edu.au
   text: NDhanawada@student.unimelb.edu.au
 homepage:
-  url: http://cs.cmu.edu/~woden
-  text: cs.cmu.edu/~woden
+  url: https://en.wikipedia.org/wiki/Sydney
+  text: Sydney, Australia
 country:
   url: https://www.iso.org/iso-3166-country-codes.html
   text: ISO 3166 Country Code
