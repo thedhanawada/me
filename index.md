@@ -23,13 +23,13 @@ Supported arguments:
 
 ## Education
 
-### **Carnegie Mellon University** `2018.9 -`
+### **University of Melbourne** `2020.2 -`
 
 ```
-Pittsburgh, PA
+Melbourne, VIC
 ```
 
-- Ph.D. in Software Engineering
+- Graduate Study, Information Technology (Computing)
 - Co-advised by [Ken Koedinger](http://pact.cs.cmu.edu/koedinger.html) and [Josh Sunshine](http://www.cs.cmu.edu/~jssunshi/)
 
 ### **Columbia University** `2016.9 - 2018.5`
