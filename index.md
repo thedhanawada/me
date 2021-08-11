@@ -154,6 +154,5 @@ Research Experiences for Undergraduates in Software Engineering Admission Commit
 {% include cv-contact-footer.html %}
 
 <!-- ### Footer
-{% include cv-contact.html %
 
 Last updated: May 2013 -->
