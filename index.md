@@ -32,10 +32,10 @@ Melbourne, VIC
 - Graduate Study, Information Technology (Computing)
 - Co-advised by [Ken Koedinger](http://pact.cs.cmu.edu/koedinger.html) and [Josh Sunshine](http://www.cs.cmu.edu/~jssunshi/)
 
-### **Columbia University** `2016.9 - 2018.5`
+### **Pondicherry University** `2011.08 - 2015.05`
 
 ```
-New York, NY
+Pondicherry, IN
 ```
 
 - B.S. in Computer Science, _Magna Cum Laude_
