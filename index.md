@@ -47,7 +47,7 @@ Pondicherry, IN
 ```
 
 - Undergraduate Study (Bachelor's), Computer Science and Engineering
-- Data Structures, Language Translators, Automata Languages and Computation, Object Oriented Programming Languages and Design and Analysis of Algorithms
+- Data Structures, Automata Languages and Computation, <br> Object Oriented Programming Languages and Design and Analysis of Algorithms
 
 ## Projects
 
