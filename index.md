@@ -102,7 +102,7 @@ _Evaluation and Usability of Programming Languages and Tools (PLATEAU 2019), co-
 
 ## Experience
 
-### **Walter and Eliza Hall Institute of Medical Research** `2021.07 -`
+### **Walter and Eliza Hall Institute of Medical Research** `Currenty Serving`
 ```
 Melbourne, AU
 ```
@@ -110,6 +110,26 @@ _Software Research Intern_<br>
 - work closely with researchers to identify their needs around data visualization and analysis
 - Review and improve the maintainability and extensibility of the database
 - Integrate interactive plots to the website
+
+### **Teaching for Impact** `Currenty Serving`
+```
+Melbourne, AU
+```
+_Director of Marketing and Communications_<br>
+- Developed a marketing and brand strategy to promote Teaching for Impact in Australia and globally.
+- Developed and maintained Teaching for Impact's website
+- Planned and managed $120k AUD Google Ads Budget and oversaw the implementation of the marketing strategy
+- Developed partnerships with Google, Salesforce and Canva and procured technology grants
+- Oversee the implementation of the marketing strategy
+- Part of the executive team managing 30+ volunteers
+
+### **Australian Red Cross** `Currenty Serving`
+```
+Melbourne, AU
+```
+- Participated in sales and customer service as a shop volunteer Created window and visual merchandising displays
+- Prepared donations for sale
+- Contributed skills to help the Red Cross Australia raise funds
 
 ### **Mast Global, L Brands** `2016.10 - 2020.2`
 ```
@@ -122,11 +142,17 @@ _Senior Technology Analyst_<br>
 - Developed 23 prototypes independently and moved 11 to full production
 
 ### **Tata Consultancy Services** `2015.6 - 2016.10`
+```
+Chennai, IN
+```
 
 _Assistant System Engineer_<br>
 - Researched emerging trends, solutions, products, and startup opportunities in retail technologies
 - Created disruptive competitive advantages for retail enterprises by applying new technologies to existing problems
 - Maintained the network code, managed enterprise sandboxes, coordinated the regular activities in the innovation space, and ensuring the technology is always functional
+
+
+
 
 ## Volunteering
 
