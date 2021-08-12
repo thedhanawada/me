@@ -102,6 +102,15 @@ _Evaluation and Usability of Programming Languages and Tools (PLATEAU 2019), co-
 
 ## Experience
 
+### **Walter and Eliza Hall Institute of Medical Research** `2021.07 -`
+```
+Melbourne, AU
+```
+_Software Research Intern_<br>
+- work closely with researchers to identify their needs around data visualization and analysis
+- Review and improve the maintainability and extensibility of the database
+- Integrate interactive plots to the website
+
 ### **Mast Global, L Brands** `2016.10 - 2020.2`
 ```
 Bangalore, IN
@@ -112,17 +121,14 @@ _Senior Technology Analyst_<br>
 - Collaborated with 150+ internal associates from 20 different departments to develop prototypes, solutions, and product ideas - to empower in-house innovation and tech development worth $650k
 - Developed 23 prototypes independently and moved 11 to full production
 
-### **Carnegie Mellon University, Research Experiences for Undergraduate** `2017.5 - 2017.8`
+### **Carnegie Mellon University, Research Experiences for Undergraduate** `2015.6 - 2016.10`
 
-_Research Assistant_<br>
-**Penrose** is a system that automatically visualizes mathematics using two domain-specific languages: **Substance** and **Style**. Co-advised by [Jonathan Aldrich](https://www.cs.cmu.edu/~./aldrich/), [Keenan Crane](https://www.cs.cmu.edu/~kmcrane/), [Joshua Sunshine](http://www.cs.cmu.edu/~jssunshi/), and [Katherine Ye](https://www.cs.cmu.edu/~kqy/), I designed and implemented the Style language, and extended the Substance language to support functions and logically quantified statements.
+_Assistant System Engineer_<br>
+- Researched emerging trends, solutions, products, and startup opportunities in retail technologies
+- Created disruptive competitive advantages for retail enterprises by applying new technologies to existing problems
+- Maintained the network code, managed enterprise sandboxes, coordinated the regular activities in the innovation space, and ensuring the technology is always functional
 
-### **Columbia University, Computer Graphics and User Interfaces Lab** `2017.1 - 2017.5`
-
-_Research Assistant_<br>
-Worked with prof. Steven Feiner, on **Cyber Affordance Visualization in Augumented Reality** project. Developed a Microsoft Hololens application that visualizes the Columbia campus in AR environment.
-
-## Mentoring
+## Volunteering
 
 Hwei-Shin Harriman (Olin College of Engineering, independent research) `CMU, 2021` <br>
 Max Krieger (CMU, independent research & [REUSE](https://www.cmu.edu/scs/isr/reuse/)) `CMU, 2018 - Now` <br>
@@ -144,11 +150,13 @@ Upsilon Pi Epsilon, Computer Science Honor Society `Dickinson, 2016` <br>
 Alpha Lambda Delta, First year Honor Society `Dickinson, 2013`<br>
 John Montgomery Scholarship `Dickinson, 2013` <br>
 
-## Teaching
+## Volunteering
 
-Teaching Assistant, **Programming Languages and Translators (COMS 4115)** `Columbia, 2017 - 2018` <br>
-Teaching Assistant, **Introduction to Java II (COMP 132)** `Dickinson, 2016` <br>
-Peer Tutor, **Data Structures and Problem Solving (COMP 232)** `Dickinson, 2016` <br>
+Director of Marketing and Communications at, **Teaching for Impact** `Australia, 2021 -` <br>
+Store Coordinator at, **Red Cross** `Australia, 2021 -` <br>
+Project Management at, **FoxG1 Foundation** `Australia, 2021 -` <br>
+Director of Marketing at, **Equity Research Association** `Australia, 2020` <br>
+Web Interface, **Richmond Fellowship Society** `Bangalore, 2016 - 2019` <br>
 Computer Lab Consultant `Dickinson, 2014 - 2016` <br>
 
 
