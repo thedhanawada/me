@@ -127,9 +127,20 @@ _Director of Marketing and Communications_<br>
 ```
 Melbourne, AU
 ```
+_Store Coordinator_<br>
 - Participated in sales and customer service as a shop volunteer Created window and visual merchandising displays
 - Prepared donations for sale
 - Contributed skills to help the Red Cross Australia raise funds
+
+### **Equity Research Association** at University of Melboure `2020.05 - 2021.03`
+```
+Melbourne, AU
+```
+_Director of Marketing_<br>
+- Plan and implement promotional calendars, new project introductions, and other marketing events
+- Provide expert advice on advertising, public relations, social media, and event management
+- Manage a marketing team, including hiring, training, workloads, schedules, and deadlines
+
 
 ### **Mast Global, L Brands** `2016.10 - 2020.2`
 ```
@@ -150,7 +161,6 @@ _Assistant System Engineer_<br>
 - Researched emerging trends, solutions, products, and startup opportunities in retail technologies
 - Created disruptive competitive advantages for retail enterprises by applying new technologies to existing problems
 - Maintained the network code, managed enterprise sandboxes, coordinated the regular activities in the innovation space, and ensuring the technology is always functional
-
 
 
 
@@ -176,13 +186,6 @@ Upsilon Pi Epsilon, Computer Science Honor Society `Dickinson, 2016` <br>
 Alpha Lambda Delta, First year Honor Society `Dickinson, 2013`<br>
 John Montgomery Scholarship `Dickinson, 2013` <br>
 
-## Volunteering
-
-Director of Marketing and Communications at **[Teaching for Impact](https://www.teachingforimpact.org/)** `Australia, 2021 -` <br>
-Store Coordinator at **[Red Cross](https://www.redcross.org.au/)** `Australia, 2021 -` <br>
-Project Management at **[FoxG1 Foundation](https://foxg1.org.au/)** `Australia, 2021 -` <br>
-Director of Marketing at **[Equity Research Association](http://eraunimelb.org.au/)** `Australia, 2020` <br>
-Web Team at **Richmond Fellowship Society** `Bangalore, 2016 - 2019` <br>
 
 ## Service
 
