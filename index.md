@@ -152,13 +152,11 @@ John Montgomery Scholarship `Dickinson, 2013` <br>
 
 ## Volunteering
 
-Director of Marketing and Communications at, **[Teaching for Impact](https://www.teachingforimpact.org/)** `Australia, 2021 -` <br>
-Store Coordinator at, **Red Cross** `Australia, 2021 -` <br>
-Project Management at, **FoxG1 Foundation** `Australia, 2021 -` <br>
-Director of Marketing at, **Equity Research Association** `Australia, 2020` <br>
-Web Interface, **Richmond Fellowship Society** `Bangalore, 2016 - 2019` <br>
-Computer Lab Consultant `Dickinson, 2014 - 2016` <br>
-
+Director of Marketing and Communications at **[Teaching for Impact](https://www.teachingforimpact.org/)** `Australia, 2021 -` <br>
+Store Coordinator at **[Red Cross](https://www.redcross.org.au/)** `Australia, 2021 -` <br>
+Project Management at **[FoxG1 Foundation](https://foxg1.org.au/)** `Australia, 2021 -` <br>
+Director of Marketing at **[Equity Research Association](http://eraunimelb.org.au/)** `Australia, 2020` <br>
+Web Team at **Richmond Fellowship Society** `Bangalore, 2016 - 2019` <br>
 
 ## Service
 
