@@ -121,7 +121,7 @@ _Senior Technology Analyst_<br>
 - Collaborated with 150+ internal associates from 20 different departments to develop prototypes, solutions, and product ideas - to empower in-house innovation and tech development worth $650k
 - Developed 23 prototypes independently and moved 11 to full production
 
-### **Carnegie Mellon University, Research Experiences for Undergraduate** `2015.6 - 2016.10`
+### **Tata Consultancy Services** `2015.6 - 2016.10`
 
 _Assistant System Engineer_<br>
 - Researched emerging trends, solutions, products, and startup opportunities in retail technologies
