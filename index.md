@@ -152,7 +152,7 @@ John Montgomery Scholarship `Dickinson, 2013` <br>
 
 ## Volunteering
 
-Director of Marketing and Communications at, **Teaching for Impact** `Australia, 2021 -` <br>
+Director of Marketing and Communications at, **[Teaching for Impact](https://www.teachingforimpact.org/)** `Australia, 2021 -` <br>
 Store Coordinator at, **Red Cross** `Australia, 2021 -` <br>
 Project Management at, **FoxG1 Foundation** `Australia, 2021 -` <br>
 Director of Marketing at, **Equity Research Association** `Australia, 2020` <br>
