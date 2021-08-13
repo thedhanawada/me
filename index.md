@@ -91,7 +91,7 @@ _Director of Marketing_<br>
 - Manage a marketing team, including hiring, training, workloads, schedules, and deadlines
 
 
-### **Mast Global, L Brands** `2016.10 - 2020.2`
+### **[Mast Global, L Brands](https://www.lb.com/){:target="_blank"}** `2016.10 - 2020.2`
 ```
 Bangalore, IN
 ```
@@ -101,7 +101,7 @@ _Senior Technology Analyst_<br>
 - Collaborated with 150+ internal associates from 20 different departments to develop prototypes, solutions, and product ideas - to empower in-house innovation and tech development worth $650k
 - Developed 23 prototypes independently and moved 11 to full production
 
-### **Tata Consultancy Services** `2015.6 - 2016.10`
+### **[Tata Consultancy Services](https://www.tcs.com/){:target="_blank"}** `2015.6 - 2016.10`
 ```
 Chennai, IN
 ```
