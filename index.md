@@ -60,7 +60,7 @@ _Software Research Intern_<br>
 - Review and improve the maintainability and extensibility of the database
 - Integrate interactive plots to the website
 
-### **Teaching for Impact** `Currenty Serving`
+### **[Teaching for Impact](https://www.teachingforimpact.org/){:target="_blank"}** `Currenty Serving`
 ```
 Melbourne, AU
 ```
@@ -72,7 +72,7 @@ _Director of Marketing and Communications_<br>
 - Oversee the implementation of the marketing strategy
 - Part of the executive team managing 30+ volunteers
 
-### **Australian Red Cross** `Currenty Serving`
+### **[Australian Red Cross](https://www.redcross.org.au/){:target="_blank"}** `Currenty Serving`
 ```
 Melbourne, AU
 ```
@@ -81,7 +81,7 @@ _Store Coordinator_<br>
 - Prepared donations for sale
 - Contributed skills to help the Red Cross Australia raise funds
 
-### **Equity Research Association** at University of Melboure `2020.05 - 2021.03`
+### **[Equity Research Association](https://eraunimelb.org.au/){:target="_blank"}** at University of Melboure `2020.05 - 2021.03`
 ```
 Melbourne, AU
 ```
