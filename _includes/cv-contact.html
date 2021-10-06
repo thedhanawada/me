@@ -2,17 +2,22 @@
 
     {% if page.homepage %}
     <i class="fas fa-compass" style="margin-left:1em"></i>
-    <a href="{{ page.homepage.url }}" style="margin-left:0.5em"> {{ page.homepage.text }}</a>
+    <a href="{{ page.homepage.url }}" target="_blank" style="margin-left:0.5em"> {{ page.homepage.text }}</a>
     {% endif %}
 
     {% if page.email %}
     <i class="fas fa-envelope-square" style="margin-left:1em"></i>
-    <a href="{{ page.email.url }}" style="margin-left:0.5em">{{ page.email.text }}</a>
+    <a href="{{ page.email.url }}" target="_blank" style="margin-left:0.5em">{{ page.email.text }}</a>
     {% endif %}
 
     {% if page.github %}
     <i class="fab fa-github-alt" style="margin-left:1em"></i>
     <a href="{{ page.github.url }}" target="_blank" style="margin-left:0.5em">{{ page.github.text }}</a>
+    {% endif %}
+
+    {% if page.linkedin %}
+    <i class="fab fa-linkedin" style="margin-left:1em"></i>
+    <a href="{{ page.linkedin.url }}" target="_blank" style="margin-left:0.5em">{{ page.linkedin.text }}</a>
     {% endif %}
 
 </div>

@@ -16,6 +16,9 @@ author:
 github:
   url: https://github.com/thedhanawada/
   text: Github Profile
+linkedin:
+  url: https://www.linkedin.com/in/thedhanawada/
+  text: LinkedIn Profile
 ---
 
 # **Nirmala Rao** Dhanawada
