@@ -3,7 +3,7 @@ layout: cv
 title: About Nirmal
 email:
   url: mailto:NDhanawada@teachingforimpact.org
-  text: NDhanawada@student.unimelb.edu.au
+  text: NDhanawada@teachingforimpact.org
 homepage:
   url: https://en.wikipedia.org/wiki/Sydney
   text: Sydney, Australia
