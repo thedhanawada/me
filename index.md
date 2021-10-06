@@ -13,6 +13,9 @@ country:
 author:
   url: https://github.com/wodeni/nimo-markdown-cv
   text: nimo-markdown-cv
+github:
+  url: https://github.com/thedhanawada/
+  text: Github Profile
 ---
 
 # **Nirmala Rao** Dhanawada
