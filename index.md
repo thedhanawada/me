@@ -55,7 +55,7 @@ Pondicherry, IN
 ```
 Melbourne, AU
 ```
-_Software Research Intern_<br>
+_University Research Placement Student_<br>
 - work closely with researchers to identify their needs around data visualization and analysis
 - Review and improve the maintainability and extensibility of the database
 - Integrate interactive plots to the website
@@ -123,7 +123,7 @@ _ICARCSET '15: Proceedings of the 2015 International Conference on Advanced Rese
 ## Association
 
 Graduate Student Association, University of Melbourne `Present, Member` <br>
-Running Board Member, 2021
+Running Board Member, 2021 <br>
 University of Melbourne Student Union `Present, Member` <br>
 <br><br>
 {% include cv-contact-footer.html %}
