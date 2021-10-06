@@ -126,7 +126,7 @@ _ICARCSET '15: Proceedings of the 2015 International Conference on Advanced Rese
 ```
 Melbourne, Australia
 ```
-_Running Board Member_<br>
+_[Running Board Member](https://gsa.unimelb.edu.au/profile/nirmala-rao-dhanawada/)_<br>
 
 ### **[University of Melbourne Student Union](https://umsu.unimelb.edu.au/){:target="_blank"}** `Present Member`
 ```
