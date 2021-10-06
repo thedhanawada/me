@@ -97,7 +97,8 @@ _Director of Marketing and Communications_<br>
 Melbourne, AU
 ```
 _Store Coordinator_<br>
-- Participated in sales and customer service as a shop volunteer Created window and visual merchandising displays
+- Participated in sales and customer service as a shop volunteer
+- Created window and visual merchandising displays
 - Prepared donations for sale
 - Contributed skills to help the Red Cross Australia raise funds
 
