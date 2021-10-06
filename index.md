@@ -105,6 +105,7 @@ _Director of Marketing_<br>
 Bangalore, IN
 ```
 _Senior Technology Analyst_<br>
+- <i class="fas fa-award"></i> Recipient of Individual Achievement Award
 - Analyzed 100+ startups for market viability, technology feasibility, and consumer interest
 - Collaborated with more than 10 startups to define uses cases, wireframe proof of concepts, develop prototypes, and help adapt technologies to organizations
 - Collaborated with 150+ internal associates from 20 different departments to develop prototypes, solutions, and product ideas - to empower in-house innovation and tech development worth $650k
@@ -116,6 +117,7 @@ Chennai, IN
 ```
 
 _Assistant System Engineer_<br>
+- <i class="fas fa-award"></i> Recipient of Star of the Learners Group
 - Researched emerging trends, solutions, products, and startup opportunities in retail technologies
 - Created disruptive competitive advantages for retail enterprises by applying new technologies to existing problems
 - Maintained the network code, managed enterprise sandboxes, coordinated the regular activities in the innovation space, and ensuring the technology is always functional
