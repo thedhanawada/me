@@ -122,15 +122,16 @@ _ICARCSET '15: Proceedings of the 2015 International Conference on Advanced Rese
 
 ## Association
 
-### **[Graduate Student Association, University of Melbourne](https://www.lb.com/){:target="_blank"}** `Present Member`
+### **[Graduate Student Association](https://gsa.unimelb.edu.au/){:target="_blank"}** `Present Member`
 ```
 Melbourne, Australia
 ```
 _Running Board Member_<br>
 
-Graduate Student Association, University of Melbourne `Present, Member` <br>
-_Running Board Member_ <br>
-University of Melbourne Student Union `Present, Member` <br>
+### **[University of Melbourne Student Union](https://umsu.unimelb.edu.au/){:target="_blank"}** `Present Member`
+```
+Melbourne, Australia
+```
 <br><br>
 {% include cv-contact-footer.html %}
 
