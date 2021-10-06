@@ -123,6 +123,7 @@ _ICARCSET '15: Proceedings of the 2015 International Conference on Advanced Rese
 ## Association
 
 Graduate Student Association, University of Melbourne `Present, Member` <br>
+Running Board Member, 2021
 University of Melbourne Student Union `Present, Member` <br>
 <br><br>
 {% include cv-contact-footer.html %}
