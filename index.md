@@ -60,14 +60,11 @@ Pondicherry, IN
 
 ## Skills and Technology
 
-1. Programming Languages
  1. Front End (**Bootstrap**, **Vue.js** and **Javascript**)
  2. Backend (**Python** and **C#**)
  3. Mobile (**Android**)
-2. Enterprise Packaged Solutions
- 1. Salesforce, SAP, Oracle HCM, Zoho and Google Workspace
-3. Tools and Systems
- 1. DevOps (Git and Docker), CI/CD (Azure, Travis and Github)
+2. Enterprise Packaged Solutions [Salesforce, SAP, Oracle HCM, Zoho and Google Workspace]
+3. Tools and Systems [DevOps (Git and Docker), CI/CD (Azure, Travis and Github)]
 
 ---
 
