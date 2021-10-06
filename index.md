@@ -2,7 +2,7 @@
 layout: cv
 title: About Nirmal
 email:
-  url: mailto:NDhanawada@student.unimelb.edu.au
+  url: mailto:NDhanawada@teachingforimpact.org
   text: NDhanawada@student.unimelb.edu.au
 homepage:
   url: https://en.wikipedia.org/wiki/Sydney
