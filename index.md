@@ -58,6 +58,19 @@ Pondicherry, IN
 - Undergraduate Study (Bachelor's), Computer Science and Engineering
 - Data Structures, Automata Languages and Computation, <br> Object Oriented Programming Languages and Design and Analysis of Algorithms
 
+## Skills and Technology
+
+1. Programming Languages
+ 1. Front End (**Bootstrap**, **Vue.js** and **Javascript**)
+ 2. Backend (**Python** and **C#**)
+ 3. Mobile (**Android**)
+2. Enterprise Packaged Solutions
+ 1. Salesforce, SAP, Oracle HCM, Zoho and Google Workspace
+3. Tools and Systems
+ 1. DevOps (Git and Docker), CI/CD (Azure, Travis and Github)
+
+---
+
 ## Experience
 
 ### **[Walter and Eliza Hall Institute of Medical Research](https://www.wehi.edu.au/){:target="_blank"}** `Currenty Serving`
