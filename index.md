@@ -149,7 +149,7 @@ Melbourne, Australia
 
 ## References
 
-Jarny Choi
+[Jarny Choi](https://findanexpert.unimelb.edu.au/profile/14179-jarny-choi){:target="_blank"}
 ```
 Contact details available on request
 ```
