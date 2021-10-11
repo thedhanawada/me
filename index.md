@@ -154,7 +154,7 @@ Jarny Choi
 Contact details available on request
 ```
 - Bioinformatics and Systems Biology, Centre for Stem Cell Systems
-- Department of Anatomy and Physiology | Faculty of Medicine, Dentistry and Health Sciences
+- Department of Anatomy and Physiology, Faculty of Medicine, Dentistry and Health Sciences
 - The University of Melbourne
 <br><br>
 {% include cv-contact-footer.html %}
