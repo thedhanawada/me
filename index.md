@@ -149,6 +149,16 @@ Melbourne, Australia
 <br><br>
 {% include cv-contact-footer.html %}
 
+## References
+
+Jarny Choi
+```
+Contact details available on request
+```
+- Bioinformatics and Systems Biology, Centre for Stem Cell Systems
+- Department of Anatomy and Physiology | Faculty of Medicine, Dentistry and Health Sciences
+- The University of Melbourne
+
 <!-- ### Footer
 
 Last updated: May 2013 -->
