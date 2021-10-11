@@ -49,7 +49,6 @@ Melbourne, AU
 ```
 - <i class="fas fa-award"></i> Recipient of [Melbourne School of Engineering Scholarship](https://scholarships.unimelb.edu.au/awards/melbourne-school-of-engineering-foundation-scholarship)
 - Graduate Study (Master's Program), [Information Technology](https://handbook.unimelb.edu.au/2021/courses/mc-it) ([Computing](https://handbook.unimelb.edu.au/2021/components/mc-it-spec-1))
-- [NDhanawada@student.unimelb.edu.au](mailto:NDhanawada@student.unimelb.edu.au)
 - Enterprise Architecture, ICT Infrastructure, Digital Ethics and Technology Equity & Management
 
 ### **Pondicherry University** `2011.08 - 2015.05`
@@ -104,16 +103,6 @@ _Store Coordinator_<br>
 - Created window and visual merchandising displays
 - Prepared donations for sale
 - Contributed skills to help the Red Cross Australia raise funds
-
-### **[Equity Research Association](https://eraunimelb.org.au/){:target="_blank"}** at University of Melboure `2020.05 - 2021.03`
-```
-Melbourne, AU
-```
-_Director of Marketing_<br>
-- Plan and implement promotional calendars, new project introductions, and other marketing events
-- Provide expert advice on advertising, public relations, social media, and event management
-- Manage a marketing team, including hiring, training, workloads, schedules, and deadlines
-
 
 ### **[Mast Global, L Brands](https://www.lb.com/){:target="_blank"}** `2016.10 - 2020.2`
 ```
