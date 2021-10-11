@@ -109,8 +109,8 @@ Bangalore, IN
 ```
 _Senior Technology Analyst_<br>
 - <i class="fas fa-award"></i> Recipient of Individual Achievement Award
-- Analyzed 100+ startups for market viability, technology feasibility, and consumer interest
-- Collaborated with more than 10 startups to define uses cases, wireframe proof of concepts, develop prototypes, and help adapt technologies to organizations
+- Assessed the market viability, technology feasibility, and consumer interest of 100+ startups
+- Lead collaborations with over 10 startups to define uses cases, wireframe proof of concepts, develop prototypes, and helped organizations adopt technologies
 - Collaborated with 150+ internal associates from 20 different departments to develop prototypes, solutions, and product ideas - to empower in-house innovation and tech development worth USD 650k
 - Developed 23 prototypes independently and moved 11 to full production
 
@@ -140,7 +140,7 @@ _ICARCSET '15: Proceedings of the 2015 International Conference on Advanced Rese
 ```
 Melbourne, Australia
 ```
-_[Running Board Member](https://gsa.unimelb.edu.au/profile/nirmala-rao-dhanawada/)_<br>
+_[Running Board Member, 2021](https://gsa.unimelb.edu.au/profile/nirmala-rao-dhanawada/)_<br>
 
 ### **[University of Melbourne Student Union](https://umsu.unimelb.edu.au/){:target="_blank"}** `Present Member`
 ```
