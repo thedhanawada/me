@@ -36,6 +36,10 @@ Supported arguments:
 
 {% include cv-contact.html %}
 
+## Career Objective
+
+A graduate student of Information Technology positioned to contribute significantly in generating innovative market possibilities in enterprises and solve technological challenges. Expertise in collaborating with academia, in-house growth teams, open-source technology stacks, early-stage startups, and legacy enterprises
+
 ## Education
 
 ### **University of Melbourne** `2020.2 -`
