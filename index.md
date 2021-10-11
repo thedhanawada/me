@@ -48,7 +48,7 @@ A graduate student of Information Technology positioned to contribute significan
 Melbourne, AU
 ```
 - <i class="fas fa-award"></i> Recipient of [Melbourne School of Engineering Scholarship](https://scholarships.unimelb.edu.au/awards/melbourne-school-of-engineering-foundation-scholarship)
-- Graduate Study (Master's Program), [Information Technology](https://handbook.unimelb.edu.au/2021/courses/mc-it) ([Computing](https://handbook.unimelb.edu.au/2021/components/mc-it-spec-1))
+- Graduate Study (Master Program), [Information Technology](https://handbook.unimelb.edu.au/2021/courses/mc-it) ([Computing](https://handbook.unimelb.edu.au/2021/components/mc-it-spec-1))
 - Enterprise Architecture, ICT Infrastructure, Digital Ethics and Technology Equity & Management
 
 ### **Pondicherry University** `2011.08 - 2015.05`
@@ -57,7 +57,7 @@ Melbourne, AU
 Pondicherry, IN
 ```
 
-- Undergraduate Study (Bachelor's), Computer Science and Engineering
+- Undergraduate Study (Bachelor Program), Computer Science and Engineering
 - Data Structures, Automata Languages and Computation, <br> Object Oriented Programming Languages and Design and Analysis of Algorithms
 
 ## Skills and Technology
@@ -99,10 +99,9 @@ _Director of Marketing and Communications_<br>
 Melbourne, AU
 ```
 _Store Coordinator_<br>
-- Participated in sales and customer service as a shop volunteer
-- Created window and visual merchandising displays
-- Prepared donations for sale
-- Contributed skills to help the Red Cross Australia raise funds
+- Volunteered to serve customers, which led to an increase in sales and increased customer engagement
+- Created window displays and visual merchandising displays that led to the interest of customers in the merchandise
+- Assisted in the preparation of donations for sale, which helped the organization raise capital for projects and operations
 
 ### **[Mast Global, L Brands](https://www.lb.com/){:target="_blank"}** `2016.10 - 2020.2`
 ```
@@ -112,7 +111,7 @@ _Senior Technology Analyst_<br>
 - <i class="fas fa-award"></i> Recipient of Individual Achievement Award
 - Analyzed 100+ startups for market viability, technology feasibility, and consumer interest
 - Collaborated with more than 10 startups to define uses cases, wireframe proof of concepts, develop prototypes, and help adapt technologies to organizations
-- Collaborated with 150+ internal associates from 20 different departments to develop prototypes, solutions, and product ideas - to empower in-house innovation and tech development worth $650k
+- Collaborated with 150+ internal associates from 20 different departments to develop prototypes, solutions, and product ideas - to empower in-house innovation and tech development worth USD 650k
 - Developed 23 prototypes independently and moved 11 to full production
 
 ### **[Tata Consultancy Services](https://www.tcs.com/){:target="_blank"}** `2015.6 - 2016.10`
