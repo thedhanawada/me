@@ -42,7 +42,7 @@ A graduate student of Information Technology positioned to contribute significan
 
 ## Education
 
-### **University of Melbourne** `2020.2 -`
+### **University of Melbourne** `2020.2 - Currently Pursuing`
 
 ```
 Melbourne, AU
@@ -78,9 +78,10 @@ Pondicherry, IN
 Melbourne, AU
 ```
 _University Research Placement Student_<br>
-- work closely with researchers to identify their needs around data visualization and analysis
-- Review and improve the maintainability and extensibility of the database
-- Integrate interactive plots to the website
+- Identified the needs of the Blood Cells and Blood Cancer Division at WEHI and the Centre for Stem Cell Systems at the University of Melbourne and completed the implementation that expanded the application's functionality.         
+- Documented granular technical details of the implementation to facilitate future understanding and use for the researchers
+- Engaged in constructive discussions with the client to offer ideas and areas of improvement, which prompted an expansion of the application's scope
+- Compiled the new implementation and making it publicly available on NECTAR Research Cloud
 
 ### **[Teaching for Impact](https://www.teachingforimpact.org/){:target="_blank"}** `Currenty Serving`
 ```
@@ -88,11 +89,10 @@ Melbourne, AU
 ```
 _Director of Marketing and Communications_<br>
 - Developed a marketing and brand strategy to promote Teaching for Impact in Australia and globally.
-- Developed and maintained Teaching for Impact's website
-- Planned and managed $120k AUD Google Ads Budget and oversaw the implementation of the marketing strategy
-- Developed partnerships with Google, Salesforce and Canva and procured technology grants
-- Oversee the implementation of the marketing strategy
-- Part of the executive team managing 30+ volunteers
+- Implemented and maintained Teaching for Impact's website, resulting in an improved engagement rate at events
+- Planning and managing AUD 120k Google Ads budget, as well as developing marketing strategies that prove a positive increase in brand awareness
+- Developed partnerships with Google, Salesforce, and Canva, and procured technology grants that enabled the organization to take advantage of these tools to develop new elements in an effective manner
+- Responsible for motivating and directing over 30 volunteers toward achieving the goals and strategies of the organization
 
 ### **[Australian Red Cross](https://www.redcross.org.au/){:target="_blank"}** `Currenty Serving`
 ```
