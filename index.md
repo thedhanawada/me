@@ -146,8 +146,6 @@ _[Running Board Member](https://gsa.unimelb.edu.au/profile/nirmala-rao-dhanawada
 ```
 Melbourne, Australia
 ```
-<br><br>
-{% include cv-contact-footer.html %}
 
 ## References
 
@@ -158,6 +156,8 @@ Contact details available on request
 - Bioinformatics and Systems Biology, Centre for Stem Cell Systems
 - Department of Anatomy and Physiology | Faculty of Medicine, Dentistry and Health Sciences
 - The University of Melbourne
+<br><br>
+{% include cv-contact-footer.html %}
 
 <!-- ### Footer
 
