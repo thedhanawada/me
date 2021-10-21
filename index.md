@@ -147,6 +147,14 @@ _[Running Board Member, 2021](https://gsa.unimelb.edu.au/profile/nirmala-rao-dha
 ```
 Melbourne, Australia
 ```
+### **[Melbourne Biodesign Student Initiative, University of Melbourne](https://www.mbsi.org.au/){:target="_blank"}** `Present Member`
+```
+Melbourne, Australia
+```
+### **[Equity Research Association, University of Melbourne](https://eraunimelb.org.au/){:target="_blank"}** `Present Member`
+```
+Melbourne, Australia
+```
 
 ## References
 
