@@ -67,8 +67,8 @@ Pondicherry, IN
  3. Mobile (**Android**)
 2. Enterprise Packaged Solutions [Salesforce, SAP, Oracle HCM, Zoho and Google Workspace]
 3. Tools and Systems [DevOps (Git and Docker), CI/CD (Azure, Travis and Github)]
-4. Enterprise Architecture
-5. IT Solution Adaption
+4. Enterprise Architecture and ICT Infrastructure Evaluation
+5. Communication
 6. ICT Infrastructure Evaluation
 
 ## Experience
