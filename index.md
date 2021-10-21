@@ -24,7 +24,7 @@ twitter:
   text: Twitter Profile
 ---
 
-# **Nirmala Rao** Dhanawada
+# Nirmala Rao Dhanawada
 
 <!--
 include contact information from the front matter
