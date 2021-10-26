@@ -41,7 +41,7 @@ Supported arguments:
 
 ## Career Objective
 
-A graduate student of Information Technology(IT) positioned to contribute significantly in generating innovative market possibilities in enterprises and solve technological challenges. Expertise in collaborating with academia, in-house growth teams, open-source technology stacks, early-stage startups, and legacy enterprises
+An information technology graduate student with experience in implementing and maintaining enterprise applications. I have experience working with Java and MySQL and am comfortable handling testing in order to help the organization produce quality products. I have a good record of opening lines of communication with third parties and contributing significantly to the decisions my team makes. Passionate about finding challenging positions within an organization and utilizing learning opportunities to develop personally.
 
 ## Education
 
