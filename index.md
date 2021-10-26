@@ -41,7 +41,7 @@ Supported arguments:
 
 ## Career Objective
 
-An information technology graduate student with experience in implementing and maintaining enterprise applications. My experience with Java and MySQL allows me to handle testing efficiently and help the organization produce quality products. In the past, I have been adept at opening communication channels with third parties and participating meaningfully in team decisions. I am dedicated to finding challenging positions in an organization and utilizing my skills and knowledge to accomplish the organization's goals. 
+An Information Technology graduate student with experience in implementing and maintaining enterprise applications. My experience with Java and MySQL allows me to handle testing efficiently and help the organization produce quality products. In the past, I have been adept at opening communication channels with third parties and participating meaningfully in team decisions. I am dedicated to finding challenging positions in an organization and utilizing my skills and knowledge to accomplish the organization's goals. 
 
 ## Education
 
