@@ -69,13 +69,15 @@ Pondicherry, IN
 
 1. Front End (**Bootstrap**, **Vue.js** and **Javascript**)
 2. Backend (**Python**, **Java** and **MySQL**)
-2. Enterprise Packaged Solutions [**Salesforce**, **SAP**, **Oracle HCM**, **Zoho** and **Google Workspace**]
-3. Tools and Systems [DevOps (**Git** and **Docker**), CI/CD & Version Control System (**Azure**, **Travis** and **Github**)]
-4. Enterprise Architecture and ICT Infrastructure Evaluation
+3. Enterprise Packaged Solutions [**Salesforce**, **SAP**, **Oracle HCM**, **Zoho** and **Google Workspace**]
+4. Tools and Systems [DevOps (**Git** and **Docker**), CI/CD & Version Control System (**Azure**, **Travis** and **Github**)]
+5. Enterprise Architecture and ICT Infrastructure Evaluation
 
 ### **Soft Skills**
-1. Communication
-2. ICT Infrastructure Evaluation
+1. Excellent written and verbal communication skills 
+2. Innovative and Design Thinking 
+3. Adaptive and Collaborative 
+4. Proficiency in Intercultural Communication 
 
 ## Experience
 
