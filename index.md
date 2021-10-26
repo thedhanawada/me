@@ -133,8 +133,6 @@ _Assistant System Engineer_<br>
 - Created disruptive competitive advantages for retail enterprises by applying new technologies to existing problems
 - Maintained the network code, managed enterprise sandboxes, coordinated the regular activities in the innovation space, and ensuring the technology is always functional
 
-
-
 ## Research
 
 ### [**Big Data Scalability, Methods and its Implications: A Survey of Current Practice**](https://dl.acm.org/doi/10.1145/2743065.2743121){:target="_blank"}
