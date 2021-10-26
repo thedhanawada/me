@@ -63,16 +63,19 @@ Pondicherry, IN
 - Undergraduate Study (Bachelor Program), Computer Science and Engineering
 - Data Structures, Automata Languages and Computation, <br> Object Oriented Programming Languages and Design and Analysis of Algorithms
 
-## Skills and Technology
+## Skills and Competencies
 
- 1. Front End (**Bootstrap**, **Vue.js** and **Javascript**)
- 2. Backend (**Python** and **C#**)
- 3. Mobile (**Android**)
-2. Enterprise Packaged Solutions [Salesforce, SAP, Oracle HCM, Zoho and Google Workspace]
-3. Tools and Systems [DevOps (Git and Docker), CI/CD (Azure, Travis and Github)]
+### **Technology**
+
+1. Front End (**Bootstrap**, **Vue.js** and **Javascript**)
+2. Backend (**Python**, **Java** and **MySQL**)
+2. Enterprise Packaged Solutions [**Salesforce**, **SAP**, **Oracle HCM**, **Zoho** and **Google Workspace**]
+3. Tools and Systems [DevOps (**Git** and **Docker**), CI/CD & Version Control System (**Azure**, **Travis** and **Github**)]
 4. Enterprise Architecture and ICT Infrastructure Evaluation
-5. Communication
-6. ICT Infrastructure Evaluation
+
+### **Soft Skills**
+1. Communication
+2. ICT Infrastructure Evaluation
 
 ## Experience
 
