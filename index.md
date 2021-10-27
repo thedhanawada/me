@@ -41,7 +41,7 @@ Supported arguments:
 
 ## Career Objective
 
-An Information Technology graduate student with experience in implementing and maintaining enterprise applications. My experience with Java and MySQL allows me to handle testing efficiently and help the organization produce quality products. In the past, I have been adept at opening communication channels with third parties and participating meaningfully in team decisions. I am dedicated to finding challenging positions in an organization and utilizing my skills and knowledge to accomplish the organization's goals. 
+An Information Technology graduate student with experience in implementing and maintaining enterprise applications. My hands-on experience working with Java and MySQL allows me to design and test applications efficiently to help organizations deliver quality products. I am adept at opening communication channels with third parties and participating in team decision-making. In seeking challenging opportunities within an organization, I hope to contribute to the accomplishment of the organization's goals by applying my skills and knowledge.
 
 ## Education
 
@@ -86,21 +86,21 @@ Pondicherry, IN
 Melbourne, AU
 ```
 _University Research Placement Student_<br>
-- Identified the needs of the Blood Cells and Blood Cancer Division at WEHI and the Centre for Stem Cell Systems at the University of Melbourne and completed the implementation that expanded the application's functionality.         
-- Documented granular technical details of the implementation to facilitate future understanding and use for the researchers
-- Engaged in constructive discussions with the client to offer ideas and areas of improvement, which prompted an expansion of the application's scope
-- Compiled the new implementation and making it publicly available on NECTAR Research Cloud
+- Identified the needs of the Blood Cells and Blood Cancer Division at WEHI and the Centre for Stem Cell Systems at the University of Melbourne and carried out the implementation that allowed the application's functionality to be expanded. 
+- Documented granular technical details of the implementation to facilitate future understanding and use for the researchers 
+- Engaged in constructive discussions with the client to offer ideas and areas for improvement, which led to the application's expansion
+- Compiled and published the new implementation on NECTAR Research Cloud to make the application available to researchers
 
 ### **[Teaching for Impact](https://www.teachingforimpact.org/){:target="_blank"}** `Currenty Serving`
 ```
 Melbourne, AU
 ```
 _Director of Marketing and Communications_<br>
-- Developed a marketing and brand strategy to promote Teaching for Impact in Australia and globally.
-- Implemented and maintained Teaching for Impact's website, resulting in an improved engagement rate at events
-- Planning and managing AUD 120k Google Ads budget, as well as developing marketing strategies that prove a positive increase in brand awareness
-- Developed partnerships with Google, Salesforce, and Canva, and procured technology grants that enabled the organization to take advantage of these tools to develop new elements in an effective manner
-- Responsible for motivating and directing over 30 volunteers toward achieving the goals and strategies of the organization
+- Developed a marketing and brand strategy to promote Teaching for Impact in Australia and globally. 
+- Developed and maintained Teaching for Impact's website, which resulted in a higher engagement rate at events 
+- Managed an advertisement budget of 120k AUD through Google Ads, as well as developed marketing strategies that enhanced brand awareness 
+- Developed partnerships with Google, Salesforce, and Canva, and obtained technology grants to enable the organization to take advantage of these tools to develop new content more effectively 
+- Responsible for motivating and directing over 30 volunteers to achieve the goals and strategies of the organization
 
 ### **[Australian Red Cross](https://www.redcross.org.au/){:target="_blank"}** `Currenty Serving`
 ```
@@ -108,8 +108,8 @@ Melbourne, AU
 ```
 _Store Coordinator_<br>
 - Volunteered to serve customers, which led to an increase in sales and increased customer engagement
-- Created window displays and visual merchandising displays that led to the interest of customers in the merchandise
-- Assisted in the preparation of donations for sale, which helped the organization raise capital for projects and operations
+- Created window displays and visual merchandising displays that led to the interest of customers in the merchandise 
+- Assisted in the preparation of donations to be sold, which helped raise capital for the organization's projects and operations
 
 ### **[Mast Global, L Brands](https://www.lb.com/){:target="_blank"}** `2016.10 - 2020.2`
 ```
