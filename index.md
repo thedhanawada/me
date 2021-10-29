@@ -156,7 +156,7 @@ Melbourne, Australia
 
 ## References
 
-### **[Jarny Choi](https://findanexpert.unimelb.edu.au/profile/14179-jarny-choi){:target="_blank"}**
+### **[Dr. Jarny Choi](https://findanexpert.unimelb.edu.au/profile/14179-jarny-choi){:target="_blank"}**
 ```
 Contact details available on request
 ```
@@ -164,13 +164,20 @@ Contact details available on request
 - Department of Anatomy and Physiology, Faculty of Medicine, Dentistry and Health Sciences
 - The University of Melbourne
 
-### **[Jarny Choi](https://findanexpert.unimelb.edu.au/profile/14179-jarny-choi){:target="_blank"}**
+### **[Mr. Rowland Mosbergen](https://au.linkedin.com/in/rowlandm-gaicd){:target="_blank"}**
 ```
 Contact details available on request
 ```
-- Bioinformatics and Systems Biology, Centre for Stem Cell Systems
-- Department of Anatomy and Physiology, Faculty of Medicine, Dentistry and Health Sciences
-- The University of Melbourne
+- Senior Research Computing Engineer, Research Computing Platform
+- Walter and Eliza Hall Institute of Medical Research
+
+
+### **[Dr. Julie Iskander](https://scholar.google.com.au/citations?user=eL3zBpIAAAAJ&hl=en){:target="_blank"}**
+```
+Contact details available on request
+```
+- Senior Research Computing Engineer, Research Computing Platform
+- Walter and Eliza Hall Institute of Medical Research
 
 
 <br><br>
