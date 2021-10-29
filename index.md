@@ -163,6 +163,16 @@ Contact details available on request
 - Bioinformatics and Systems Biology, Centre for Stem Cell Systems
 - Department of Anatomy and Physiology, Faculty of Medicine, Dentistry and Health Sciences
 - The University of Melbourne
+
+### **[Jarny Choi](https://findanexpert.unimelb.edu.au/profile/14179-jarny-choi){:target="_blank"}**
+```
+Contact details available on request
+```
+- Bioinformatics and Systems Biology, Centre for Stem Cell Systems
+- Department of Anatomy and Physiology, Faculty of Medicine, Dentistry and Health Sciences
+- The University of Melbourne
+
+
 <br><br>
 {% include cv-contact-footer.html %}
 
