@@ -176,7 +176,7 @@ Contact details available on request
 Contact details available on request
 ```
 - Bioinformatics and Systems Biology, Centre for Stem Cell Systems
-- Department of Anatomy and Physiology, Faculty of Medicine, Dentistry and Health Sciences
+- Faculty of Medicine, Dentistry and Health Sciences
 - The University of Melbourne
 
 ### **[Mr. Rowland Mosbergen](https://au.linkedin.com/in/rowlandm-gaicd){:target="_blank"}**
