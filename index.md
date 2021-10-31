@@ -41,7 +41,7 @@ Supported arguments:
 
 ## Career Objective
 
-An Information Technology graduate student with experience in implementing and maintaining enterprise applications. My hands-on experience working with Java and MySQL allows me to design and test applications efficiently to help organizations deliver quality products. I am adept at opening communication channels with third parties and participating in team decision-making. In seeking challenging opportunities within an organization, I hope to contribute to the accomplishment of the organization's goals by applying my skills and knowledge.
+An Information Technology graduate student with experience in implementing and maintaining enterprise applications. My hands-on experience working with Java and MySQL allows me to design and test applications efficiently to help organizations deliver quality products. I am adept at opening communication channels with third parties and participating in team decision-making. In seeking challenging opportunities within an organization, I hope to contribute to accomplishing the organization's goals by applying my skills and knowledge.
 
 ## Education
 
@@ -61,7 +61,7 @@ Pondicherry, IN
 ```
 
 - Undergraduate Study (Bachelor Program), Computer Science and Engineering
-- Data Structures, Automata Languages and Computation, <br> Object Oriented Programming Languages and Design and Analysis of Algorithms
+- Data Structures, Automata Languages and Computation, <br> Object-Oriented Programming Languages and Design and Analysis of Algorithms
 
 ## Skills and Competencies
 
@@ -118,9 +118,7 @@ Bangalore, IN
 _Senior Technology Analyst_<br>
 - <i class="fas fa-award"></i> Recipient of Individual Achievement Award
 - Assisted 100+ startups in their market assessment, technology feasibility, and consumer interest and led collaborations <br> with over 10 startups in developing use cases, wireframing proof of concepts, developing prototypes, and helping the organization adopt technology 
-- Lead collaborations with over 10 startups to define uses cases, wireframe proof of concepts, develop prototypes, and helped organizations adopt technologies
-- Collaborated with 150+ internal associates from 20 different departments to develop prototypes, solutions, and product ideas - to empower in-house innovation and tech development worth USD 650k
-- Developed 23 prototypes independently and moved 11 to full production
+- Developed prototypes, solutions, and product ideas with 150+ associates from 20 different departments for <br> empowering in-house innovation and tech development worth USD 650k
 
 ### **[Tata Consultancy Services](https://www.tcs.com/){:target="_blank"}** `2015.6 - 2016.10`
 ```
@@ -129,9 +127,9 @@ Chennai, IN
 
 _Assistant System Engineer_<br>
 - <i class="fas fa-award"></i> Recipient of Star of the Learners Group
-- Researched emerging trends, solutions, products, and startup opportunities in retail technologies
-- Created disruptive competitive advantages for retail enterprises by applying new technologies to existing problems
-- Maintained the network code, managed enterprise sandboxes, coordinated the regular activities in the innovation space, and ensuring the technology is always functional
+- Identified emerging trends, solutions, products, and startup opportunities in retail technologies and provided the organization with the tools it needs to stay on top of the industry
+- Applied new technologies to existing problems to create disruptive competitive advantages for retail enterprises 
+- Ensured that the technology was always operational, maintained the network code, managed enterprise sandboxes, coordinated the regular activities in the innovation space, and managed the enterprise sandboxes
 
 ## Research
 
