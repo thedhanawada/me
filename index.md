@@ -117,7 +117,7 @@ Bangalore, IN
 ```
 _Senior Technology Analyst_<br>
 - <i class="fas fa-award"></i> Recipient of Individual Achievement Award
-- Assessed the market viability, technology feasibility, and consumer interest of 100+ startups
+- Assisted 100+ startups in their market assessment, technology feasibility, and consumer interest and led collaborations <br> with over 10 startups in developing use cases, wireframing proof of concepts, developing prototypes, and helping the organization adopt technology 
 - Lead collaborations with over 10 startups to define uses cases, wireframe proof of concepts, develop prototypes, and helped organizations adopt technologies
 - Collaborated with 150+ internal associates from 20 different departments to develop prototypes, solutions, and product ideas - to empower in-house innovation and tech development worth USD 650k
 - Developed 23 prototypes independently and moved 11 to full production
