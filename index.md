@@ -153,8 +153,22 @@ _[Running Board Member, 2021](https://gsa.unimelb.edu.au/profile/nirmala-rao-dha
 ```
 Melbourne, Australia
 ```
+### **[Melbourne Bioinnovation Student Initiative](https://www.mbsi.org.au/){:target="_blank"}** `Present Member`
+```
+Melbourne, Australia
+```
+
 
 ## References
+
+### **[Ms. Olga Pilipenets](https://infrastructure.eng.unimelb.edu.au/people/research-students){:target="_blank"}**
+```
+Contact details available on request
+```
+- Doctoral Student, Civil Engineering
+- Department of Infrastructure Engineering
+- The University of Melbourne
+
 
 ### **[Dr. Jarny Choi](https://findanexpert.unimelb.edu.au/profile/14179-jarny-choi){:target="_blank"}**
 ```
