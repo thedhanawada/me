@@ -149,10 +149,11 @@ Melbourne, Australia
 ```
 _[Running Board Member, 2021](https://gsa.unimelb.edu.au/profile/nirmala-rao-dhanawada/)_<br>
 
-### **[University of Melbourne Student Union](https://umsu.unimelb.edu.au/){:target="_blank"}** `Present Member`
+### **[University of Melbourne Student Union](https://umsu.unimelb.edu.au/){:target="_blank"}** `Present Member` <br>
 ```
 Melbourne, Australia
 ```
+
 ### **[Melbourne Bioinnovation Student Initiative](https://www.mbsi.org.au/){:target="_blank"}** `Present Member`
 ```
 Melbourne, Australia
