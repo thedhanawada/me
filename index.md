@@ -75,7 +75,7 @@ Pondicherry, IN
 
 ### **Soft Skills**
 1. Excellent written and verbal communication skills 
-2. Innovative and Design Thinking 
+2. Innovative and Design Thinker 
 3. Adaptive and Collaborative 
 4. Proficiency in Intercultural Communication 
 
