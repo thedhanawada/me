@@ -86,7 +86,7 @@ Pondicherry, IN
 Melbourne, AU
 ```
 _University Research Placement Student_<br>
-- Identified the needs of the Blood Cells and Blood Cancer Division at WEHI and the Centre for Stem Cell Systems at the University of Melbourne and carried out the implementation that allowed the application's functionality to be expanded. 
+- Identified the needs of the Blood Cells and Blood Cancer Division at WEHI and the Centre for Stem Cell Systems<br> at the University of Melbourne and carried out the implementation that allowed the application's functionality to be expanded. 
 - Documented granular technical details of the implementation to facilitate future understanding and use for the researchers 
 - Engaged in constructive discussions with the client to offer ideas and areas for improvement, which led to the application's expansion
 - Compiled and published the new implementation on NECTAR Research Cloud to make the application available to researchers
@@ -99,7 +99,7 @@ _Director of Marketing and Communications_<br>
 - Developed a marketing and brand strategy to promote Teaching for Impact in Australia and globally. 
 - Developed and maintained Teaching for Impact's website, which resulted in a higher engagement rate at events 
 - Managed an advertisement budget of 120k AUD through Google Ads, as well as developed marketing strategies that enhanced brand awareness 
-- Developed partnerships with Google, Salesforce, and Canva, and obtained technology grants to enable the organization to take advantage of these tools to develop new content more effectively 
+- Developed partnerships with Google, Salesforce, and Canva, and obtained technology grants <br> to enable the organization to take advantage of these tools to develop new content more effectively 
 - Responsible for motivating and directing over 30 volunteers to achieve the goals and strategies of the organization
 
 ### **[Australian Red Cross](https://www.redcross.org.au/){:target="_blank"}** `Currenty Serving`
@@ -129,7 +129,7 @@ _Assistant System Engineer_<br>
 - <i class="fas fa-award"></i> Recipient of Star of the Learners Group
 - Identified emerging trends, solutions, products, and startup opportunities in retail technologies and provided the organization with the tools it needs to stay on top of the industry
 - Applied new technologies to existing problems to create disruptive competitive advantages for retail enterprises 
-- Ensured that the technology was always operational, maintained the network code, managed enterprise sandboxes, coordinated the regular activities in the innovation space, and managed the enterprise sandboxes
+- Ensured that the technology was always operational, maintained the network code, managed enterprise sandboxes, <br> coordinated the regular activities in the innovation space, and managed the enterprise sandboxes
 
 ## Research
 
