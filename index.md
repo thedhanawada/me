@@ -143,7 +143,7 @@ _ICARCSET '15: Proceedings of the 2015 International Conference on Advanced Rese
 Laura Harman, Smriti Hosur, Praghashkumar Thanasegeren, **Dhanawada Nirmala Rao** and Sarina Moshfegh<br>
 _Melbourne BioInnovation Student Initiative, Biodesign Competition 2021_
 <br>October 2021, Team 2<br>
-[[PDF](https://github.com/thedhanawada/docs-public/raw/master/Pitch%20Deck%20-%20BioDesign%20Competition%20.pdf){:target="_blank"}][Pitch](https://fb.watch/94tni7HeYl/)
+[[PDF](https://github.com/thedhanawada/docs-public/raw/master/Pitch%20Deck%20-%20BioDesign%20Competition%20.pdf){:target="_blank"}][[Pitch](https://fb.watch/94tni7HeYl/)]
 
 ## Association
 
