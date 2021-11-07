@@ -83,7 +83,7 @@ Pondicherry, IN
 
 ### **[Walter and Eliza Hall Institute of Medical Research](https://www.wehi.edu.au/){:target="_blank"}** `2021.07 - 2021.10`
 ```
-Melbourne, AU<br>
+Melbourne, AU
 Not for Profit
 ```
 _University Research Placement Student_<br>
