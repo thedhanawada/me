@@ -133,12 +133,6 @@ _Assistant System Engineer_<br>
 
 ## Research & Projects
 
-### [**Big Data Scalability, Methods and its Implications: A Survey of Current Practice**](https://dl.acm.org/doi/10.1145/2743065.2743121){:target="_blank"}
-J. Amudhavel, D. Sathian, R. S. Raghav, **Dhanawada Nirmala Rao**, P. Dhavachelvan, and K. Prem Kumar<br>
-_ICARCSET '15: Proceedings of the 2015 International Conference on Advanced Research in Computer Science Engineering & Technology (ICARCSET 2015)_
-<br>March 2015 Article No.: 56,ages 1–5<br>
-[[PDF](https://doi.org/10.1145/2743065.2743121){:target="_blank"}]
-
 ### [**Smartoma**](https://github.com/thedhanawada/docs-public/blob/master/Pitch%20Deck%20-%20BioDesign%20Competition%20.pdf){:target="_blank"}
 Laura Harman, Smriti Hosur, Praghashkumar Thanasegeren, **Dhanawada Nirmala Rao** and Sarina Moshfegh<br>
 _Melbourne BioInnovation Student Initiative, Biodesign Competition 2021_
@@ -149,6 +143,12 @@ _Melbourne BioInnovation Student Initiative, Biodesign Competition 2021_
 Sewwandi Perera, **Dhanawada Nirmala Rao** and Daniel Gray of University of Melbourne<br>
 _In Collaboration with the School of Design and Architecture, Swinburne University of Technology_
 <br>June 2020<br>
+
+### [**Big Data Scalability, Methods and its Implications: A Survey of Current Practice**](https://dl.acm.org/doi/10.1145/2743065.2743121){:target="_blank"}
+J. Amudhavel, D. Sathian, R. S. Raghav, **Dhanawada Nirmala Rao**, P. Dhavachelvan, and K. Prem Kumar<br>
+_ICARCSET '15: Proceedings of the 2015 International Conference on Advanced Research in Computer Science Engineering & Technology (ICARCSET 2015)_
+<br>March 2015 Article No.: 56,ages 1–5<br>
+[[PDF](https://doi.org/10.1145/2743065.2743121){:target="_blank"}]
 
 ## Association
 
