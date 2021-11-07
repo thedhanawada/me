@@ -84,7 +84,6 @@ Pondicherry, IN
 ### **[Walter and Eliza Hall Institute of Medical Research](https://www.wehi.edu.au/){:target="_blank"}** `2021.07 - 2021.10`
 ```
 Melbourne, AU
-Not for Profit
 ```
 _University Research Placement Student_<br>
 - Identified the needs of the Blood Cells and Blood Cancer Division at WEHI and the Centre for Stem Cell Systems<br> at the University of Melbourne and carried out the implementation that allowed the application's functionality to be expanded. 
@@ -95,6 +94,7 @@ _University Research Placement Student_<br>
 ### **[Teaching for Impact](https://www.teachingforimpact.org/){:target="_blank"}** `Currenty Serving`
 ```
 Melbourne, AU
+Not for Profit
 ```
 _Director of Marketing and Communications_<br>
 - Developed a marketing and brand strategy to promote Teaching for Impact in Australia and globally. 
@@ -106,6 +106,7 @@ _Director of Marketing and Communications_<br>
 ### **[Australian Red Cross](https://www.redcross.org.au/){:target="_blank"}** `Currenty Serving`
 ```
 Melbourne, AU
+Not for Profit
 ```
 _Store Coordinator_<br>
 - Volunteered to serve customers, which led to an increase in sales and increased customer engagement
@@ -134,6 +135,11 @@ _Assistant System Engineer_<br>
 
 ## Research & Projects
 
+### [**JMO Companion**](https://jmocap.ml/){:target="_blank"}
+Dr. Winston	Dzau, **Dhanawada Nirmala Rao**, Dr. Victor Lin  at Teaching for Impact<br>
+_In Partnership with [JMO Victoria](https://www.pmcv.com.au/jmo-victoria), JMO Victoria is a part of the [Postgraduate Medical Council of Victoria](https://www.pmcv.com.au/)_
+<br>Ongoing Project<br>
+
 ### [**Smartoma**](https://github.com/thedhanawada/docs-public/blob/master/Pitch%20Deck%20-%20BioDesign%20Competition%20.pdf){:target="_blank"}
 Laura Harman, Smriti Hosur, Praghashkumar Thanasegeren, **Dhanawada Nirmala Rao** and Sarina Moshfegh<br>
 _Melbourne BioInnovation Student Initiative, Biodesign Competition 2021_
@@ -141,7 +147,7 @@ _Melbourne BioInnovation Student Initiative, Biodesign Competition 2021_
 [[PDF](https://github.com/thedhanawada/docs-public/raw/master/Pitch%20Deck%20-%20BioDesign%20Competition%20.pdf){:target="_blank"}][[PITCH](https://fb.watch/94tni7HeYl/)]
 
 ### [**Resident Profiles Project**](https://github.com/thedhanawada/docs-public/blob/master/Pitch%20Deck%20-%20BioDesign%20Competition%20.pdf){:target="_blank"}
-Sewwandi Perera, **Dhanawada Nirmala Rao** and Daniel Gray of University of Melbourne<br>
+Sewwandi Perera, **Dhanawada Nirmala Rao** and Daniel Gray at University of Melbourne<br>
 _In Collaboration with the School of Design and Architecture, Swinburne University of Technology_
 <br>June 2020<br>
 
