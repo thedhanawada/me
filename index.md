@@ -81,7 +81,7 @@ Pondicherry, IN
 
 ## Experience
 
-### **[Walter and Eliza Hall Institute of Medical Research](https://www.wehi.edu.au/){:target="_blank"}** `Currenty Serving`
+### **[Walter and Eliza Hall Institute of Medical Research](https://www.wehi.edu.au/){:target="_blank"}** `2021.07 - 2021.10`
 ```
 Melbourne, AU
 ```
