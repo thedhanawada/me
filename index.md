@@ -41,7 +41,7 @@ Supported arguments:
 
 ## Career Objective
 
-An Information Technology graduate student with experience in implementing and maintaining enterprise applications. My hands-on experience working with Java and MySQL allows me to design and test applications efficiently to help organizations deliver quality products. I am adept at opening communication channels with third parties and participating in team decision-making. In seeking challenging opportunities within an organization, I hope to contribute to accomplishing the organization's goals by applying my skills and knowledge.
+A graduate student of Information Technology positioned to contribute significantly in generating innovative market possibilities in enterprises and solve technological challenges. Expertise in collaborating with academia, in-house growth teams, open-source technology stacks, early-stage startups, and legacy enterprises
 
 ## Education
 
@@ -131,7 +131,7 @@ _Assistant System Engineer_<br>
 - Applied new technologies to existing problems to create disruptive competitive advantages for retail enterprises 
 - Ensured that the technology was always operational, maintained the network code, managed enterprise sandboxes, <br> coordinated the regular activities in the innovation space, and managed the enterprise sandboxes
 
-## Research
+## Research & Projects
 
 ### [**Big Data Scalability, Methods and its Implications: A Survey of Current Practice**](https://dl.acm.org/doi/10.1145/2743065.2743121){:target="_blank"}
 J. Amudhavel, D. Sathian, R. S. Raghav, **Dhanawada Nirmala Rao**, P. Dhavachelvan, and K. Prem Kumar<br>
@@ -144,6 +144,11 @@ Laura Harman, Smriti Hosur, Praghashkumar Thanasegeren, **Dhanawada Nirmala Rao*
 _Melbourne BioInnovation Student Initiative, Biodesign Competition 2021_
 <br>October 2021, Team 2<br>
 [[PDF](https://github.com/thedhanawada/docs-public/raw/master/Pitch%20Deck%20-%20BioDesign%20Competition%20.pdf){:target="_blank"}][[PITCH](https://fb.watch/94tni7HeYl/)]
+
+### [**Resident Profiles Project**](https://github.com/thedhanawada/docs-public/blob/master/Pitch%20Deck%20-%20BioDesign%20Competition%20.pdf){:target="_blank"}
+Sewwandi Perera, **Dhanawada Nirmala Rao** and Daniel Gray of University of Melbourne<br>
+_In Collaboration with the School of Design and Architecture, Swinburne University of Technology_
+<br>June 2020<br>
 
 ## Association
 
