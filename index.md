@@ -146,7 +146,7 @@ _Melbourne BioInnovation Student Initiative, Biodesign Competition 2021_
 <br>October 2021, Team 2<br>
 [[PDF](https://github.com/thedhanawada/docs-public/raw/master/Pitch%20Deck%20-%20BioDesign%20Competition%20.pdf){:target="_blank"}][[PITCH](https://fb.watch/94tni7HeYl/)]
 
-### [**Resident Profiles Project**](https://github.com/thedhanawada/docs-public/blob/master/Pitch%20Deck%20-%20BioDesign%20Competition%20.pdf){:target="_blank"}
+### [**Resident Profiles**](https://github.com/thedhanawada/docs-public/blob/master/Pitch%20Deck%20-%20BioDesign%20Competition%20.pdf){:target="_blank"}
 Sewwandi Perera, **Dhanawada Nirmala Rao** and Daniel Gray at University of Melbourne<br>
 _In Collaboration with the School of Design and Architecture, Swinburne University of Technology_
 <br>June 2020<br>
@@ -161,18 +161,18 @@ _ICARCSET '15: Proceedings of the 2015 International Conference on Advanced Rese
 
 ### **[Graduate Student Association](https://gsa.unimelb.edu.au/){:target="_blank"}** `Present Member`
 ```
-Melbourne, Australia
+Melbourne, AU
 ```
 _[Running Board Member, 2021](https://gsa.unimelb.edu.au/profile/nirmala-rao-dhanawada/)_<br>
 
 ### **[University of Melbourne Student Union](https://umsu.unimelb.edu.au/){:target="_blank"}** `Present Member`
 ```
-Melbourne, Australia
+Melbourne, AU
 ```
 <br>
 ### **[Melbourne Bioinnovation Student Initiative](https://www.mbsi.org.au/){:target="_blank"}** `Present Member`
 ```
-Melbourne, Australia
+Melbourne, AU
 ```
 
 ## References
