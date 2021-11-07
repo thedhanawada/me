@@ -83,7 +83,8 @@ Pondicherry, IN
 
 ### **[Walter and Eliza Hall Institute of Medical Research](https://www.wehi.edu.au/){:target="_blank"}** `2021.07 - 2021.10`
 ```
-Melbourne, AU
+Melbourne, AU<br>
+Not for Profit
 ```
 _University Research Placement Student_<br>
 - Identified the needs of the Blood Cells and Blood Cancer Division at WEHI and the Centre for Stem Cell Systems<br> at the University of Melbourne and carried out the implementation that allowed the application's functionality to be expanded. 
