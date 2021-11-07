@@ -137,7 +137,7 @@ _Assistant System Engineer_<br>
 
 ### [**JMO Companion**](https://jmocap.ml/){:target="_blank"}
 Dr. Winston	Dzau, **Dhanawada Nirmala Rao**, Dr. Victor Lin  at Teaching for Impact<br>
-_In Partnership with [JMO Victoria](https://www.pmcv.com.au/jmo-victoria), JMO Victoria is a part of the [Postgraduate Medical Council of Victoria](https://www.pmcv.com.au/)_
+_In Partnership with [JMO Victoria](https://www.pmcv.com.au/jmo-victoria){:target="_blank"}, JMO Victoria is a part of the [Postgraduate Medical Council of Victoria](https://www.pmcv.com.au/){:target="_blank"}_
 <br>Ongoing Project<br>
 
 ### [**Smartoma**](https://github.com/thedhanawada/docs-public/blob/master/Pitch%20Deck%20-%20BioDesign%20Competition%20.pdf){:target="_blank"}
