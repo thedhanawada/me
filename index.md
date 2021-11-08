@@ -81,22 +81,12 @@ Pondicherry, IN
 
 ## Experience
 
-### **[Walter and Eliza Hall Institute of Medical Research](https://www.wehi.edu.au/){:target="_blank"}** `2021.07 - 2021.10`
-```
-Melbourne, AU
-```
-_University Research Placement Student_<br>
-- Identified the needs of the Blood Cells and Blood Cancer Division at WEHI and the Centre for Stem Cell Systems<br> at the University of Melbourne and carried out the implementation that allowed the application's functionality to be expanded. 
-- Documented granular technical details of the implementation to facilitate future understanding and use for the researchers 
-- Engaged in constructive discussions with the client to offer ideas and areas for improvement, which led to the application's expansion
-- Compiled and published the new implementation on NECTAR Research Cloud to make the application available to researchers
-
 ### **[Teaching for Impact](https://www.teachingforimpact.org/){:target="_blank"}** `Currenty Serving`
 ```
 Melbourne, AU
-Not for Profit
 ```
 _Director of Marketing and Communications_<br>
+_Not for Profit_<br>
 - Developed a marketing and brand strategy to promote Teaching for Impact in Australia and globally. 
 - Developed and maintained Teaching for Impact's website, which resulted in a higher engagement rate at events 
 - Managed an advertisement budget of 120k AUD through Google Ads, as well as developed marketing strategies that enhanced brand awareness 
@@ -106,12 +96,22 @@ _Director of Marketing and Communications_<br>
 ### **[Australian Red Cross](https://www.redcross.org.au/){:target="_blank"}** `Currenty Serving`
 ```
 Melbourne, AU
-Not for Profit
 ```
 _Store Coordinator_<br>
+_Not for Profit_<br>
 - Volunteered to serve customers, which led to an increase in sales and increased customer engagement
 - Created window displays and visual merchandising displays that led to the interest of customers in the merchandise 
 - Assisted in the preparation of donations to be sold, which helped raise capital for the organization's projects and operations
+
+### **[Walter and Eliza Hall Institute of Medical Research](https://www.wehi.edu.au/){:target="_blank"}** `2021.07 - 2021.10`
+```
+Melbourne, AU
+```
+_University Research Placement Student_<br>
+- Identified the needs of the Blood Cells and Blood Cancer Division at WEHI and the Centre for Stem Cell Systems<br> at the University of Melbourne and carried out the implementation that allowed the application's functionality to be expanded. 
+- Documented granular technical details of the implementation to facilitate future understanding and use for the researchers 
+- Engaged in constructive discussions with the client to offer ideas and areas for improvement, which led to the application's expansion
+- Compiled and published the new implementation on NECTAR Research Cloud to make the application available to researchers
 
 ### **[Mast Global, L Brands](https://www.lb.com/){:target="_blank"}** `2016.10 - 2020.2`
 ```
@@ -184,7 +184,6 @@ Contact details available on request
 - Doctoral Student, Civil Engineering
 - Department of Infrastructure Engineering
 - The University of Melbourne
-
 
 ### **[Dr. Jarny Choi](https://findanexpert.unimelb.edu.au/profile/14179-jarny-choi){:target="_blank"}**
 ```
