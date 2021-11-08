@@ -41,7 +41,7 @@ Supported arguments:
 
 ## Career Objective
 
-A graduate student of Information Technology with a strong focus on marketing who will provide marketing strategies through a variety of new-age marketing tools and technologies to promote an organization's outreach. Because of my passion for technology and understanding of technology, I am equipped with the skillset to translate technology into the language end users understand and utilize.
+An information technology graduate student who can contribute significantly to the creation of software processes and tools that facilitate innovative marketing possibilities for enterprises. Through my experience in Python, C#, and other programming languages, I am able to design and test applications efficiently to ensure organizations deliver quality products. I am adept at opening communication channels with third parties and participating in team decision-making. In seeking challenging opportunities within an organization, I hope to contribute to accomplishing the organization's goals by applying my skills and knowledge.
 
 ## Education
 
