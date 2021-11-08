@@ -69,7 +69,7 @@ Pondicherry, IN
 ### **Technology**
 
 1. Front End (**Bootstrap**, **Vue.js** and **Javascript**)
-2. Backend (**Python**, **Java** and **MySQL**)
+2. Backend (**Python** and **MySQL**)
 3. Enterprise Packaged Solutions [**Salesforce**, **SAP**, **Oracle HCM**, **Zoho** and **Google Workspace**]
 4. Tools and Systems [DevOps (**Git** and **Docker**), CI/CD & Version Control System (**Azure**, **Travis** and **Github**)]
 5. Enterprise Architecture and ICT Infrastructure Evaluation
@@ -121,7 +121,7 @@ Bangalore, IN
 _Senior Technology Analyst_<br>
 - <i class="fas fa-award"></i> Recipient of Individual Achievement Award
 - Assisted 100+ startups in their market assessment, technology feasibility, and consumer interest and led collaborations <br> with over 10 startups in developing use cases, wireframing proof of concepts, developing prototypes, and helping the organization adopt technology 
-- <strong>Developed cross IT Business solutions collaborating with 150+ associates from 20 different departments for <br> empowering in-house innovation and tech development worth USD 650k</strong>
+- <strong>Collaboration with 150+ associates from 20 different departments and developed cross-IT business solutions for enabling in-house innovation and technological advancement for USD $650k</strong>
 
 ### **[Tata Consultancy Services](https://www.tcs.com/){:target="_blank"}** `2015.6 - 2016.10`
 ```
