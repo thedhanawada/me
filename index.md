@@ -41,7 +41,7 @@ Supported arguments:
 
 ## Career Objective
 
-An information technology graduate student who can contribute significantly to the creation of software processes and tools that facilitate innovative marketing possibilities for enterprises. Through my experience in Python, C#, and other programming languages, I am able to design and test applications efficiently to ensure organizations deliver quality products. I am adept at opening communication channels with third parties and participating in team decision-making. In seeking challenging opportunities within an organization, I hope to contribute to accomplishing the organization's goals by applying my skills and knowledge.
+A seasoned Information Technology professional with over five years of experience developing software tools and helping organizations manage technology delivery. As a result of my graduate education in software delivery, I am able to immensely benefit organizations by helping them identify a delivery framework that allows them to increase performance and improve outcomes. I am adept at opening communication channels with third parties and participating in team decision-making. In seeking challenging opportunities within an organization, I hope to contribute to accomplishing the organization's goals by applying my skills and knowledge.
 
 ## Education
 
@@ -52,7 +52,7 @@ Melbourne, AU
 ```
 - <i class="fas fa-award"></i> Recipient of [Melbourne School of Engineering Scholarship](https://scholarships.unimelb.edu.au/awards/melbourne-school-of-engineering-foundation-scholarship)
 - Graduate Study (Master Program), [Information Technology](https://handbook.unimelb.edu.au/2021/courses/mc-it) ([Computing](https://handbook.unimelb.edu.au/2021/components/mc-it-spec-1))
-- Enterprise Architecture, ICT Infrastructure, Digital Ethics and Technology Equity & Management
+- Software Project Management, Enterprise Architecture, ICT Infrastructure, Digital Ethics and Technology Equity & Management
 - Expected to graduate in December 2021
 
 ### **Pondicherry University** `2011.08 - 2015.05`
