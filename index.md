@@ -121,7 +121,7 @@ Bangalore, IN
 _Senior Technology Analyst_<br>
 - <i class="fas fa-award"></i> Recipient of Individual Achievement Award
 - Assisted 100+ startups in their market assessment, technology feasibility, and consumer interest and led collaborations <br> with over 10 startups in developing use cases, wireframing proof of concepts, developing prototypes, and helping the organization adopt technology 
-- Developed prototypes, solutions, and product ideas with 150+ associates from 20 different departments for <br> empowering in-house innovation and tech development worth USD 650k
+- <strong>Developed cross IT Business solutions collaborating with 150+ associates from 20 different departments for <br> empowering in-house innovation and tech development worth USD 650k</strong>
 
 ### **[Tata Consultancy Services](https://www.tcs.com/){:target="_blank"}** `2015.6 - 2016.10`
 ```
