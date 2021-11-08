@@ -41,7 +41,7 @@ Supported arguments:
 
 ## Career Objective
 
-A seasoned Information Technology professional with over five years of experience developing software tools and helping organizations manage technology delivery. As a result of my graduate education in software delivery, I am able to immensely benefit organizations by helping them identify a delivery framework that allows them to increase performance and improve outcomes. I am adept at opening communication channels with third parties and participating in team decision-making. In seeking challenging opportunities within an organization, I hope to contribute to accomplishing the organization's goals by applying my skills and knowledge.
+A seasoned Information Technology professional with over five years of experience developing software tools and helping organizations manage technology delivery. As a result of my graduate education in software delivery, I can immensely benefit organizations by identifying a delivery framework that allows them to increase performance and improve outcomes. I am adept at opening communication channels with third parties and participating in team decision-making. In seeking challenging opportunities within an organization, I hope to accomplish the organization’s goals by applying my skills and knowledge.
 
 ## Education
 
