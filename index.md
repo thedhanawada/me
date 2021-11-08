@@ -177,14 +177,6 @@ Melbourne, AU
 
 ## References
 
-### **[Ms. Olga Pilipenets](https://infrastructure.eng.unimelb.edu.au/people/research-students){:target="_blank"}**
-```
-Contact details available on request
-```
-- Doctoral Student, Civil Engineering
-- Department of Infrastructure Engineering
-- The University of Melbourne
-
 ### **[Dr. Jarny Choi](https://findanexpert.unimelb.edu.au/profile/14179-jarny-choi){:target="_blank"}**
 ```
 Contact details available on request
