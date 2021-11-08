@@ -41,7 +41,7 @@ Supported arguments:
 
 ## Career Objective
 
-A graduate student of Information Technology positioned to contribute significantly in generating innovative market possibilities in enterprises and solve technological challenges. Expertise in collaborating with academia, in-house growth teams, open-source technology stacks, early-stage startups, and legacy enterprises
+Postgraduate student of information technology with over five years of experience developing new processes and solutions to help organizations scale their technological delivery of work in the retail and supply chain industry. Positioned to contribute significantly in generating innovative market possibilities in enterprises and solving technological challenges. Proficiency in collaborating with academia, internal growth teams, open-source technology stacks, early-stage startups, and legacy enterprises
 
 ## Education
 
@@ -53,6 +53,7 @@ Melbourne, AU
 - <i class="fas fa-award"></i> Recipient of [Melbourne School of Engineering Scholarship](https://scholarships.unimelb.edu.au/awards/melbourne-school-of-engineering-foundation-scholarship)
 - Graduate Study (Master Program), [Information Technology](https://handbook.unimelb.edu.au/2021/courses/mc-it) ([Computing](https://handbook.unimelb.edu.au/2021/components/mc-it-spec-1))
 - Enterprise Architecture, ICT Infrastructure, Digital Ethics and Technology Equity & Management
+- Expected to graduate in December 2021
 
 ### **Pondicherry University** `2011.08 - 2015.05`
 
