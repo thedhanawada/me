@@ -171,10 +171,6 @@ _[Running Board Member, 2021](https://gsa.unimelb.edu.au/profile/nirmala-rao-dha
 Melbourne, AU
 ```
 <br>
-### **[Melbourne Bioinnovation Student Initiative](https://www.mbsi.org.au/){:target="_blank"}** `Present Member`
-```
-Melbourne, AU
-```
 
 ## References
 
