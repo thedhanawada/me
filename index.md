@@ -41,7 +41,7 @@ Supported arguments:
 
 ## Career Objective
 
-Postgraduate student of information technology with over five years of experience developing new processes and solutions to help organizations scale their technological delivery of work in the retail and supply chain industry. Positioned to contribute significantly in generating innovative market possibilities in enterprises and solving technological challenges. Proficiency in collaborating with academia, internal growth teams, open-source technology stacks, early-stage startups, and legacy enterprises
+A graduate student of Information Technology with a strong focus on marketing who will provide marketing strategies through a variety of new-age marketing tools and technologies to promote an organization's outreach. Because of my passion for technology and understanding of technology, I am equipped with the skillset to translate technology into the language end users understand and utilize.
 
 ## Education
 
