@@ -2,8 +2,8 @@
 layout: cv
 title: About Nirmal
 email:
-  url: mailto:thedhanawada@gmail.com
-  text: thedhanawada@gmail.com
+  url: mailto:ndhanawada@hotmail.com
+  text: ndhanawada@hotmail.com
 homepage:
   url: https://en.wikipedia.org/wiki/Sydney
   text: Sydney, Australia
