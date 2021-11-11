@@ -2,8 +2,8 @@
 layout: cv
 title: About Nirmal
 email:
-  url: mailto:NDhanawada@teachingforimpact.org
-  text: NDhanawada@teachingforimpact.org
+  url: mailto:wep.proto@gmail.com
+  text: wep.proto@gmail.com
 homepage:
   url: https://en.wikipedia.org/wiki/Sydney
   text: Sydney, Australia
