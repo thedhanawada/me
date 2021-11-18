@@ -23,8 +23,8 @@ twitter:
   url: https://twitter.com/thedhanawada
   text: Twitter Profile
 phone:
-  url: tel:0478864823
-  text: 0478864823
+  url: tel:+61478864823
+  text: +61478864823
 ---
 
 # Nirmala Rao Dhanawada
