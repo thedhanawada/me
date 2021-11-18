@@ -45,7 +45,7 @@ A seasoned Information Technology professional with over five years of experienc
 
 ## Education
 
-### **University of Melbourne** `2020.2 - Currently Pursuing`
+### **University of Melbourne** `2020.2 - Graduating in December 2021`
 
 ```
 Melbourne, AU
@@ -54,7 +54,6 @@ Melbourne, AU
 - <i class="fas fa-award"></i> Recipient of [Leaders in Communities Award](https://students.unimelb.edu.au/careers/get-career-ready/leadership-and-employability-programs/leaders-in-communities-award-lica)
 - Graduate Study (Master Program), [Information Technology](https://handbook.unimelb.edu.au/2021/courses/mc-it) ([Computing](https://handbook.unimelb.edu.au/2021/components/mc-it-spec-1))
 - Software Project Management, Enterprise Architecture, ICT Infrastructure, Digital Ethics and Technology Equity & Management
-- Expected to graduate in December 2021
 
 ### **Pondicherry University** `2011.08 - 2015.05`
 
