@@ -2,8 +2,8 @@
 layout: cv
 title: About Nirmal
 email:
-  url: mailto:ndhanawada@hotmail.com
-  text: ndhanawada@hotmail.com
+  url: mailto:wep.proto@gmail.com
+  text: wep.proto@gmail.com
 homepage:
   url: https://en.wikipedia.org/wiki/Sydney
   text: Sydney, Australia
@@ -18,7 +18,7 @@ github:
   text: Github Profile
 linkedin:
   url: https://www.linkedin.com/in/thedhanawada/
-  text: LinkedIn Profile
+  text: LinkedIn
 twitter:
   url: https://twitter.com/thedhanawada
   text: Twitter Profile
