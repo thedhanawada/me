@@ -51,6 +51,7 @@ A seasoned Information Technology professional with over five years of experienc
 Melbourne, AU
 ```
 - <i class="fas fa-award"></i> Recipient of [Melbourne School of Engineering Scholarship](https://scholarships.unimelb.edu.au/awards/melbourne-school-of-engineering-foundation-scholarship)
+- <i class="fas fa-award"></i> Recipient of [Leaders in Communities Award](https://students.unimelb.edu.au/careers/get-career-ready/leadership-and-employability-programs/leaders-in-communities-award-lica)
 - Graduate Study (Master Program), [Information Technology](https://handbook.unimelb.edu.au/2021/courses/mc-it) ([Computing](https://handbook.unimelb.edu.au/2021/components/mc-it-spec-1))
 - Software Project Management, Enterprise Architecture, ICT Infrastructure, Digital Ethics and Technology Equity & Management
 - Expected to graduate in December 2021
