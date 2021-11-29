@@ -177,6 +177,7 @@ Melbourne, AU
 ```
 Melbourne, AU
 ```
+<br>
 ### **[Equity Research Association](https://eraunimelb.org.au/){:target="_blank"}** `Present Member`
 ```
 Melbourne, AU
