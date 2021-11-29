@@ -201,8 +201,8 @@ Contact details available on request
 
 
 <br><br>
-{% include cv-contact-footer.html %}
 
 <!-- ### Footer
+{% include cv-contact-footer.html %}
 
 Last updated: May 2013 -->
