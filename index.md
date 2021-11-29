@@ -41,7 +41,7 @@ Supported arguments:
 
 ## Career Objective
 
-A seasoned Information Technology professional with over five years of experience developing software tools and helping organizations manage technology delivery. I am trained and experienced in assessing enterprise IT infrastructure and process delivery and optimizing them to enhance performance and delivery. Through my experience, I have helped bootstrap technology infrastructure and built technology services for not-for-profit organizations that enabled the organization to achieve its business objectives. I am seeking challenging opportunities within an organization so that I may apply my skills and knowledge to achieve the organization's goals
+A seasoned Information Technology professional with over five years of experience developing software tools and helping organizations manage technology delivery. I am trained and experienced in assessing enterprise IT infrastructure and process delivery and optimizing them to enhance performance and delivery. Through my knowledge and experience, I have helped bootstrap technology infrastructure and built technology services for not-for-profit organizations that enabled the organization to achieve its business objectives. I am seeking challenging opportunities within an organization so that I may apply my skills and knowledge to achieve the organization's goals
 
 ## Education
 
@@ -86,8 +86,7 @@ Pondicherry, IN
 ```
 Melbourne, AU
 ```
-_Director of Information Technology_<br>
-_Director of Marketing and Communications_<br>
+_Director of IT, Marketing and Communications_<br>
 _Not for Profit_<br>
 - Assist the organization with building the web infrastructure and web services that allow smooth operation
 - Developed partnerships with Google, Salesforce, and Canva, and obtained technology grants <br> to enable the organization to take advantage of these tools to develop new content more effectively
