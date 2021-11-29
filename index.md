@@ -41,7 +41,7 @@ Supported arguments:
 
 ## Career Objective
 
-A seasoned Information Technology professional with over five years of experience developing software tools and helping organizations manage technology delivery. As a result of my graduate education in software delivery, I can immensely benefit organizations by identifying a delivery framework that allows them to increase performance and improve outcomes. I am adept at opening communication channels with third parties and participating in team decision-making. In seeking challenging opportunities within an organization, I hope to accomplish the organization’s goals by applying my skills and knowledge.
+A seasoned Information Technology professional with over five years of experience developing software tools and helping organizations manage technology delivery. I am trained and experienced in assessing enterprise IT infrastructure and process delivery and optimizing them to enhance performance and delivery. Through my experience, I have helped bootstrap technology infrastructure and built technology services for not-for-profit organizations that enabled the organization to achieve its business objectives. I am seeking challenging opportunities within an organization so that I may apply my skills and knowledge to achieve the organization's goals
 
 ## Education
 
@@ -86,12 +86,15 @@ Pondicherry, IN
 ```
 Melbourne, AU
 ```
+_Director of Information Technology_<br>
 _Director of Marketing and Communications_<br>
 _Not for Profit_<br>
+- Assist the organization with building the web infrastructure and web services that allow smooth operation
+- Developed partnerships with Google, Salesforce, and Canva, and obtained technology grants <br> to enable the organization to take advantage of these tools to develop new content more effectively
+- Implemented an end-to-end technology workflow process based on Salesforce and Microsoft to help manage the organization's internal processes efficiently
 - Developed a marketing and brand strategy to promote Teaching for Impact in Australia and globally. 
 - Developed and maintained Teaching for Impact's website, which resulted in a higher engagement rate at events 
 - Managed an advertisement budget of 120k AUD through Google Ads, as well as developed marketing strategies that enhanced brand awareness 
-- Developed partnerships with Google, Salesforce, and Canva, and obtained technology grants <br> to enable the organization to take advantage of these tools to develop new content more effectively 
 - Responsible for motivating and directing over 30 volunteers to achieve the goals and strategies of the organization
 
 ### **[Australian Red Cross](https://www.redcross.org.au/){:target="_blank"}** `Currenty Serving`
