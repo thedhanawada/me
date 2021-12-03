@@ -81,31 +81,6 @@ Pondicherry, IN
 4. Proficiency in Intercultural Communication 
 
 ## Experience
-
-### **[Teaching for Impact](https://www.teachingforimpact.org/){:target="_blank"}** `Currenty Serving`
-```
-Melbourne, AU
-```
-_Director of IT, Marketing and Communications_<br>
-_Not for Profit_<br>
-- Assist the organization with building the web infrastructure and web services that allow smooth operation
-- Developed partnerships with Google, Salesforce, and Canva, and obtained technology grants <br> to enable the organization to take advantage of these tools to develop new content more effectively
-- Implemented an end-to-end technology workflow process based on Salesforce and Microsoft to help manage the organization's internal processes efficiently
-- Developed a marketing and brand strategy to promote Teaching for Impact in Australia and globally. 
-- Developed and maintained Teaching for Impact's website, which resulted in a higher engagement rate at events 
-- Managed an advertisement budget of 120k AUD through Google Ads, as well as developed marketing strategies that enhanced brand awareness 
-- Responsible for motivating and directing over 30 volunteers to achieve the goals and strategies of the organization
-
-### **[Australian Red Cross](https://www.redcross.org.au/){:target="_blank"}** `Currenty Serving`
-```
-Melbourne, AU
-```
-_Store Coordinator_<br>
-_Not for Profit_<br>
-- Volunteered to serve customers, which led to an increase in sales and increased customer engagement
-- Created window displays and visual merchandising displays that led to the interest of customers in the merchandise 
-- Assisted in the preparation of donations to be sold, which helped raise capital for the organization's projects and operations
-
 ### **[Walter and Eliza Hall Institute of Medical Research](https://www.wehi.edu.au/){:target="_blank"}** `2021.07 - 2021.10`
 ```
 Melbourne, AU
@@ -135,6 +110,32 @@ _Assistant System Engineer_<br>
 - Identified emerging trends, solutions, products, and startup opportunities in retail technologies and provided the organization with the tools it needs to stay on top of the industry
 - Applied new technologies to existing problems to create disruptive competitive advantages for retail enterprises 
 - Ensured that the technology was always operational, maintained the network code, managed enterprise sandboxes, <br> coordinated the regular activities in the innovation space, and managed the enterprise sandboxes
+
+## Volunteering
+
+### **[Teaching for Impact](https://www.teachingforimpact.org/){:target="_blank"}** `Currenty Serving`
+```
+Melbourne, AU
+```
+_Director of IT, Marketing and Communications_<br>
+_Not for Profit_<br>
+- Assist the organization with building the web infrastructure and web services that allow smooth operation
+- Developed partnerships with Google, Salesforce, and Canva, and obtained technology grants <br> to enable the organization to take advantage of these tools to develop new content more effectively
+- Implemented an end-to-end technology workflow process based on Salesforce and Microsoft to help manage the organization's internal processes efficiently
+- Developed a marketing and brand strategy to promote Teaching for Impact in Australia and globally. 
+- Developed and maintained Teaching for Impact's website, which resulted in a higher engagement rate at events 
+- Managed an advertisement budget of 120k AUD through Google Ads, as well as developed marketing strategies that enhanced brand awareness 
+- Responsible for motivating and directing over 30 volunteers to achieve the goals and strategies of the organization
+
+### **[Australian Red Cross](https://www.redcross.org.au/){:target="_blank"}** `Currenty Serving`
+```
+Melbourne, AU
+```
+_Store Coordinator_<br>
+_Not for Profit_<br>
+- Volunteered to serve customers, which led to an increase in sales and increased customer engagement
+- Created window displays and visual merchandising displays that led to the interest of customers in the merchandise 
+- Assisted in the preparation of donations to be sold, which helped raise capital for the organization's projects and operations
 
 ## Research & Projects
 
