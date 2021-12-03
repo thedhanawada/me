@@ -45,7 +45,7 @@ A seasoned Information Technology professional with over five years of experienc
 
 ## Education
 
-### **University of Melbourne** `2020.2 - Graduating in December 2021`
+### **University of Melbourne** `2020.2 - 2021.12`
 
 ```
 Melbourne, AU
