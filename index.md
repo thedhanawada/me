@@ -50,6 +50,7 @@ A seasoned Information Technology professional with over five years of experienc
 ```
 Melbourne, AU
 ```
+- <i class="fas fa-award"></i> Graduated with [Distinction](https://policy.unimelb.edu.au/MPF1327)
 - <i class="fas fa-award"></i> Recipient of [Melbourne School of Engineering Scholarship](https://scholarships.unimelb.edu.au/awards/melbourne-school-of-engineering-foundation-scholarship)
 - <i class="fas fa-award"></i> Recipient of [Leaders in Communities Award](https://students.unimelb.edu.au/careers/get-career-ready/leadership-and-employability-programs/leaders-in-communities-award-lica)
 - Graduate Study (Master Program), [Information Technology](https://handbook.unimelb.edu.au/2021/courses/mc-it) ([Computing](https://handbook.unimelb.edu.au/2021/components/mc-it-spec-1))
@@ -98,8 +99,7 @@ Bangalore, IN
 _Senior Technology Analyst_<br>
 - <i class="fas fa-award"></i> Recipient of Individual Achievement Award
 - Assisted 100+ startups in their market assessment, technology feasibility, and consumer interest and led collaborations <br> with over 10 startups in developing use cases, wireframing proof of concepts, developing prototypes, and helping the organization adopt technology 
-- <strong>Collaboration with 150+ associates from 20 different departments and developed cross-IT business solutions for enabling in-house innovation and technological advancement for USD $650k</strong>
-
+- Collaboration with 150+ associates from 20 different departments and developed cross-IT business solutions for enabling in-house innovation and technological advancement for USD $650k
 ### **[Tata Consultancy Services](https://www.tcs.com/){:target="_blank"}** `2015.6 - 2016.10`
 ```
 Chennai, IN
