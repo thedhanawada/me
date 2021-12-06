@@ -100,11 +100,11 @@ _Senior Technology Analyst_<br>
 - <i class="fas fa-award"></i> Recipient of Individual Achievement Award
 - Assisted 100+ startups in their market assessment, technology feasibility, and consumer interest and led collaborations <br> with over 10 startups in developing use cases, wireframing proof of concepts, developing prototypes, and helping the organization adopt technology 
 - Collaboration with 150+ associates from 20 different departments and developed cross-IT business solutions for enabling in-house innovation and technological advancement for USD $650k
+### **[Mast Global, L Brands](https://www.lb.com/){:target="_blank"}** `2016.10 - 2020.2`
 ### **[Tata Consultancy Services](https://www.tcs.com/){:target="_blank"}** `2015.6 - 2016.10`
 ```
 Chennai, IN
 ```
-
 _Assistant System Engineer_<br>
 - <i class="fas fa-award"></i> Recipient of Star of the Learners Group
 - Identified emerging trends, solutions, products, and startup opportunities in retail technologies and provided the organization with the tools it needs to stay on top of the industry
