@@ -55,16 +55,6 @@ Melbourne, AU
 - <i class="fas fa-award"></i> Recipient of [Leaders in Communities Award, 2021](https://students.unimelb.edu.au/careers/get-career-ready/leadership-and-employability-programs/leaders-in-communities-award-lica){:target="_blank"}
 - Graduate Study (Master Program), [Information Technology](https://handbook.unimelb.edu.au/2021/courses/mc-it) ([Computing](https://handbook.unimelb.edu.au/2021/components/mc-it-spec-1){:target="_blank"})
 - Software Project Management, Enterprise Architecture, ICT Infrastructure, Digital Ethics and Technology Equity & Management
-<!--
-### **Pondicherry University** `2011.08 - 2015.05`
-
-```
-Pondicherry, IN
-```
-
-- Undergraduate Study (Bachelor Program), Computer Science and Engineering
-- Data Structures, Automata Languages and Computation, <br> Object-Oriented Programming Languages and Design and Analysis of Algorithms
--->
 
 ## Skills and Competencies
 
