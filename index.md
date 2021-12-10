@@ -41,7 +41,7 @@ Supported arguments:
 
 ## Career Objective
 
-A seasoned Information Technology professional with over five years of experience developing software tools and helping organizations manage technology delivery. I am trained and experienced in assessing enterprise IT infrastructure and process delivery and optimizing them to enhance performance and delivery. Through my knowledge and experience, I have helped bootstrap technology infrastructure and built technology services for not-for-profit organizations that enabled the organization to achieve its business objectives. I am seeking challenging opportunities within an organization so that I may apply my skills and knowledge to achieve the organization's goals
+A seasoned Information Technology professional with over five years of experience developing software tools and helping organizations manage technology delivery. I have experience in developing desktop and web applications and scaling them to large volumes of users. As a result of my knowledge and experience, I have helped organizations bootstrap technology and create services to enable them to achieve their business objectives. I am seeking challenging opportunities within an organization so that I may apply my skills and knowledge to achieve the organization's goals
 
 ## Education
 
@@ -71,15 +71,10 @@ Pondicherry, IN
 
 1. Front End (**Bootstrap**, **Vue.js** and **Javascript**)
 2. Backend (**Python** and **MySQL**)
+3. Generic Programming (**C#**, **JAVA**)
 3. Enterprise Packaged Solutions [**Salesforce**, **SAP**, **Oracle HCM**, **Zoho** and **Google Workspace**]
 4. Tools and Systems [DevOps (**Git** and **Docker**), CI/CD & Version Control System (**Azure**, **Travis** and **Github**)]
 5. Enterprise Architecture and ICT Infrastructure Evaluation
-
-### **Soft Skills**
-1. Excellent written and verbal communication skills 
-2. Innovative and Design Thinker 
-3. Adaptive and Collaborative 
-4. Proficiency in Intercultural Communication 
 
 ## Experience
 ### **[Walter and Eliza Hall Institute of Medical Research](https://www.wehi.edu.au/){:target="_blank"}** `2021.07 - 2021.10`
