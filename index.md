@@ -39,9 +39,9 @@ Supported arguments:
 
 {% include cv-contact.html %}
 
-## Career Objective
+## Career Summary
 
-A seasoned Information Technology professional with over five years of experience developing software tools and helping organizations manage technology delivery. I have experience in developing desktop and web applications and scaling them to large volumes of users. As a result of my knowledge and experience, I have helped organizations bootstrap technology and create services to enable them to achieve their business objectives. I am seeking challenging opportunities within an organization so that I may apply my skills and knowledge to achieve the organization's goals
+A seasoned Information Technology professional with over five years of experience developing software tools and helping organizations manage technology delivery. An established technology leader who oversees the technology ecosystem in an organization and integrates it to achieve efficiency and business objectives. Delivered large-scale projects within the organization in conjunction with cross-functional teams and technical partners. 
 
 ## Education
 
@@ -94,9 +94,9 @@ Bangalore, IN
 ```
 _Senior Technology Analyst_<br>
 - <i class="fas fa-award"></i> Recipient of Individual Achievement Award
-- Assisted 100+ startups in their market assessment, technology feasibility, and consumer interest and led collaborations <br> with over 10 startups in developing use cases, wireframing proof of concepts, developing prototypes, and helping the organization adopt technology 
-- Collaboration with 150+ associates from 20 different departments and developed cross-IT business solutions for enabling in-house innovation and technological advancement for USD $650k
-
+- Responsible for implementing and facilitating an internal corporate accelerator program that worked with over 150 startups to validate the technology's feasibility and integration. Led the collaboration with 12 startups in developing use cases for the prototype and managed the project to deliver the prototype to the organization successfully.
+- Managed the integration of technology within the organization, working with a diverse range of partners to ensure successful implementation of the technology
+- Development of a framework to enable internal innovation and technology advancement with 200+ associates from 10 business verticals worth USD 650k in collaboration with 200+ associates from 10 verticals within the organization
 ### **[Tata Consultancy Services](https://www.tcs.com/){:target="_blank"}** `2015.6 - 2016.10`
 ```
 Chennai, IN
