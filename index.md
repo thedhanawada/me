@@ -168,7 +168,6 @@ _[Running Board Member, 2021](https://gsa.unimelb.edu.au/profile/nirmala-rao-dha
 ```
 Melbourne, AU
 ```
-<br><br>
 {% include cv-contact-footer.html %}
 
 ## References
