@@ -144,7 +144,7 @@ _Melbourne BioInnovation Student Initiative, Biodesign Competition 2021_
 <br>October 2021, Team 2<br>
 [[PDF](https://github.com/thedhanawada/docs-public/raw/master/Pitch%20Deck%20-%20BioDesign%20Competition%20.pdf){:target="_blank"}][[PITCH](https://fb.watch/94tni7HeYl/)]
 
-### [**Resident Profiles**](https://github.com/thedhanawada/docs-public/blob/master/Pitch%20Deck%20-%20BioDesign%20Competition%20.pdf){:target="_blank"}
+### **Resident Profiles**
 Sewwandi Perera, **Dhanawada Nirmala Rao** and Daniel Gray at University of Melbourne<br>
 _In Collaboration with the School of Design and Architecture, Swinburne University of Technology_
 <br>June 2020<br>
@@ -167,26 +167,8 @@ _[Running Board Member, 2021](https://gsa.unimelb.edu.au/profile/nirmala-rao-dha
 ```
 Melbourne, AU
 ```
-<br>
-### **[Melbourne BioInnovation Student Initiative](https://www.mbsi.org.au/){:target="_blank"}** `Present Member`
-```
-Melbourne, AU
-```
-<br>
-### **[Equity Research Association](https://eraunimelb.org.au/){:target="_blank"}** `Present Member`
-```
-Melbourne, AU
-```
-_Director of Marketing, 2020_<br>
-
-<br>
-
-
-
 <br><br>
 {% include cv-contact-footer.html %}
-
-<!-- ### Footer
 
 ## References
 
@@ -212,4 +194,17 @@ Contact details available on request
 ```
 - Senior Research Computing Engineer, Research Computing Platform
 - Walter and Eliza Hall Institute of Medical Research
-Last updated: May 2013 -->
+<!--Last updated: May 2013 
+### **[Melbourne BioInnovation Student Initiative](https://www.mbsi.org.au/){:target="_blank"}** `Present Member`
+```
+Melbourne, AU
+```
+<br>
+### **[Equity Research Association](https://eraunimelb.org.au/){:target="_blank"}** `Present Member`
+```
+Melbourne, AU
+```
+_Director of Marketing, 2020_<br>
+
+<br>
+### Footer-->
