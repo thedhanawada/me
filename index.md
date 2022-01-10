@@ -69,12 +69,13 @@ Pondicherry, IN
 
 ### **Technology**
 
-1. Front End (**Bootstrap**, **Vue.js** and **Javascript**)
-2. Backend (**Python** and **MySQL**)
+1. Frameworks (**Bootstrap**, **Vue.js**, **Angular**, **Pyramid**, **.NET**, **Selenium**)
+2. Frontend (**HTML**, **CSS** and **Javascript**) and Backend (**Python** and **MySQL**)
 3. Generic Programming (**C#**, **JAVA**)
+4. Content Management System (**Drupal**, **Wordpress** and **Wiki.js**)
 3. Enterprise Packaged Solutions [**Salesforce**, **SAP**, **Oracle HCM**, **Zoho** and **Google Workspace**]
 4. Tools and Systems [DevOps (**Git** and **Docker**), CI/CD & Version Control System (**Azure**, **Travis** and **Github**)]
-5. Enterprise Architecture and ICT Infrastructure Evaluation
+5. Enterprise Architecture (**TOGAF**) and ICT Infrastructure Evaluation(**ITIL** and **COBIT**)
 
 ## Experience
 ### **[Walter and Eliza Hall Institute of Medical Research](https://www.wehi.edu.au/){:target="_blank"}** `2021.07 - 2021.10`
