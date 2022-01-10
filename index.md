@@ -194,20 +194,4 @@ Contact details available on request
 ```
 - Senior Research Computing Engineer, Research Computing Platform
 - Walter and Eliza Hall Institute of Medical Research
-<!--Last updated: May 2013 
-### **[Melbourne BioInnovation Student Initiative](https://www.mbsi.org.au/){:target="_blank"}** `Present Member`
-```
-Melbourne, AU
-```
-<br>
-### **[Equity Research Association](https://eraunimelb.org.au/){:target="_blank"}** `Present Member`
-```
-Melbourne, AU
-```
-_Director of Marketing, 2020_<br>
-
-<br>
-### Footer
-
-  -->
 
