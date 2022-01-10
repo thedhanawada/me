@@ -97,6 +97,7 @@ _Senior Technology Analyst_<br>
 - Responsible for implementing and facilitating an internal corporate accelerator program that worked with over 150 startups to validate the technology's feasibility and integration. Led the collaboration with 12 startups in developing use cases for the prototype and managed the project to deliver the prototype to the organization successfully.
 - Managed the integration of technology within the organization, working with a diverse range of partners to ensure successful implementation of the technology
 - Development of a framework to enable internal innovation and technology advancement with 200+ associates from 10 business verticals worth USD 650k in collaboration with 200+ associates from 10 verticals within the organization
+
 ### **[Tata Consultancy Services](https://www.tcs.com/){:target="_blank"}** `2015.6 - 2016.10`
 ```
 Chennai, IN
@@ -186,12 +187,3 @@ Contact details available on request
 ```
 - Senior Research Computing Engineer, Research Computing Platform
 - Walter and Eliza Hall Institute of Medical Research
-
-
-### **[Dr. Julie Iskander](https://scholar.google.com.au/citations?user=eL3zBpIAAAAJ&hl=en){:target="_blank"}**
-```
-Contact details available on request
-```
-- Senior Research Computing Engineer, Research Computing Platform
-- Walter and Eliza Hall Institute of Medical Research
-
