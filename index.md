@@ -6,7 +6,7 @@ email:
   text: wep.proto@gmail.com
 homepage:
   url: https://en.wikipedia.org/wiki/Sydney
-  text: Sydney, Australia (open to relocate)
+  text: Sydney, Australia (open to relocating)
 country:
   url: https://www.iso.org/iso-3166-country-codes.html
   text: ISO 3166 Country Code
