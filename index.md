@@ -78,6 +78,17 @@ Pondicherry, IN
 5. Enterprise Architecture (**TOGAF**) and ICT Infrastructure Evaluation (**ITIL** and **COBIT**)
 
 ## Experience
+### **[MTC Australia](https://www.wehi.edu.au/){:target="_blank"}** `2022.02 - Present`
+```
+Sydney, NSW
+```
+_IT Solutions Analyst_<br>
+- Working closely with stakeholders to assess new business requirements or identify opportunities where technology can improve efficiencies in business operations and/or the customer experience.
+- Requirements analysis, solution design and hands-on implementation of business applications and platforms.
+- Automating existing business and system processes.
+- Designing and building systems/data integration flows using ETL techniques
+
+
 ### **[Walter and Eliza Hall Institute of Medical Research](https://www.wehi.edu.au/){:target="_blank"}** `2021.07 - 2021.10`
 ```
 Melbourne, AU
