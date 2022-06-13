@@ -78,7 +78,7 @@ Pondicherry, IN
 5. Enterprise Architecture (**TOGAF**) and ICT Infrastructure Evaluation (**ITIL** and **COBIT**)
 
 ## Experience
-### **[MTC Australia](https://www.wehi.edu.au/){:target="_blank"}** `2022.02 - Present`
+### **[MTC Australia](https://mtcaustralia.com.au/){:target="_blank"}** `2022.02 - Present`
 ```
 Sydney, NSW
 ```
