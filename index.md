@@ -166,17 +166,3 @@ J. Amudhavel, D. Sathian, R. S. Raghav, **Dhanawada Nirmala Rao**, P. Dhavachelv
 _ICARCSET '15: Proceedings of the 2015 International Conference on Advanced Research in Computer Science Engineering & Technology (ICARCSET 2015)_
 <br>March 2015 Article No.: 56,ages 1–5<br>
 [[PDF](https://doi.org/10.1145/2743065.2743121){:target="_blank"}]
-
-## Association
-
-### **[Graduate Student Association](https://gsa.unimelb.edu.au/){:target="_blank"}** `Present Member`
-```
-Melbourne, AU
-```
-_[Running Board Member, 2021](https://gsa.unimelb.edu.au/profile/nirmala-rao-dhanawada/)_<br>
-
-### **[University of Melbourne Student Union](https://umsu.unimelb.edu.au/){:target="_blank"}** `Present Member`
-```
-Melbourne, AU
-```
-{% include cv-contact-footer.html %}
