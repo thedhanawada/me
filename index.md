@@ -180,20 +180,3 @@ _[Running Board Member, 2021](https://gsa.unimelb.edu.au/profile/nirmala-rao-dha
 Melbourne, AU
 ```
 {% include cv-contact-footer.html %}
-
-## References
-
-### **[Dr. Jarny Choi](https://findanexpert.unimelb.edu.au/profile/14179-jarny-choi){:target="_blank"}**
-```
-Contact details available on request
-```
-- Bioinformatics and Systems Biology, Centre for Stem Cell Systems
-- Faculty of Medicine, Dentistry and Health Sciences
-- The University of Melbourne
-
-### **[Mr. Rowland Mosbergen](https://au.linkedin.com/in/rowlandm-gaicd){:target="_blank"}**
-```
-Contact details available on request
-```
-- Senior Research Computing Engineer, Research Computing Platform
-- Walter and Eliza Hall Institute of Medical Research
