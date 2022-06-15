@@ -6,7 +6,7 @@ email:
   text: wep.proto@gmail.com
 homepage:
   url: https://en.wikipedia.org/wiki/Sydney
-  text: Sydney, Australia (open to relocating)
+  text: Sydney, Australia
 country:
   url: https://www.iso.org/iso-3166-country-codes.html
   text: ISO 3166 Country Code
@@ -73,7 +73,7 @@ Pondicherry, IN
 2. Frontend (**HTML**, **CSS** and **Javascript**) and Backend (**Python** and **MySQL**)
 3. Generic Programming (**C#**, **JAVA**)
 4. Content Management System (**Drupal**, **Wordpress** and **Wiki.js**)
-3. Enterprise Packaged Solutions *(**Salesforce**, **SAP**, **Oracle HCM**, **Zoho** and **Google Workspace**)
+3. Enterprise Packaged Solutions (**Salesforce**, **SAP**, **Oracle HCM**, **Zoho** and **Google Workspace**)
 4. Tools and Systems [DevOps (**Git** and **Docker**), CI/CD & Version Control System (**Azure**, **Travis** and **Github**)]
 5. Enterprise Architecture (**TOGAF**) and ICT Infrastructure Evaluation (**ITIL** and **COBIT**)
 
