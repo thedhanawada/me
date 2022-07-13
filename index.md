@@ -170,14 +170,8 @@ _ICARCSET '15: Proceedings of the 2015 International Conference on Advanced Rese
 ## Organizations
 
 ### **[Australian Computer Society](https://www.acs.org.au/){:target="_blank"}** `2022.06 - Present`
-```
-Associate Membership
-```
+IT Solutions Analyst_<br>
 ### **[University of Melbourne Student Union](https://umsu.unimelb.edu.au/){:target="_blank"}** `2020.03-2021.12`
-```
-Member
-```
+_IT Solutions Analyst_<br>
 ### **[University of Melbourne Graduate Student Association](https://umsu.unimelb.edu.au/){:target="_blank"}** `2020.03-2021.12`
-```
-Member
-```
+_IT Solutions Analyst_<br>
