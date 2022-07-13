@@ -50,7 +50,7 @@ A seasoned Information Technology professional with over five years of experienc
 ```
 Melbourne, AU
 ```
-- <i class="fas fa-award"></i>[Distinction](https://policy.unimelb.edu.au/MPF1327){:target="_blank"} Awardee, [2021 Dean's Honours List](https://eng.unimelb.edu.au/students/coursework/life-beyond/deans-award){:target="_blank"}.
+- <i class="fas fa-award"></i> [Distinction](https://policy.unimelb.edu.au/MPF1327){:target="_blank"} Awardee, [2021 Dean's Honours List](https://eng.unimelb.edu.au/students/coursework/life-beyond/deans-award){:target="_blank"}.
 - <i class="fas fa-award"></i> Recipient of [Melbourne School of Engineering Scholarship, 2020](https://scholarships.unimelb.edu.au/awards/melbourne-school-of-engineering-foundation-scholarship){:target="_blank"}
 - <i class="fas fa-award"></i> Recipient of [Leaders in Communities Award, 2021](https://students.unimelb.edu.au/careers/get-career-ready/leadership-and-employability-programs/leaders-in-communities-award-lica){:target="_blank"}
 - Graduate Study (Master Program), [Information Technology](https://handbook.unimelb.edu.au/2021/courses/mc-it) ([Computing](https://handbook.unimelb.edu.au/2021/components/mc-it-spec-1){:target="_blank"})
@@ -166,3 +166,18 @@ J. Amudhavel, D. Sathian, R. S. Raghav, **Dhanawada Nirmala Rao**, P. Dhavachelv
 _ICARCSET '15: Proceedings of the 2015 International Conference on Advanced Research in Computer Science Engineering & Technology (ICARCSET 2015)_
 <br>March 2015 Article No.: 56,ages 1–5<br>
 [[PDF](https://doi.org/10.1145/2743065.2743121){:target="_blank"}]
+
+## Organizations
+
+### **[Australian Computer Society](https://www.acs.org.au/){:target="_blank"}** `2022.06 - Present`
+```
+Associate Membership
+```
+### **[University of Melbourne Student Union](https://umsu.unimelb.edu.au/){:target="_blank"}** `2020.03-2021.12`
+```
+Member
+```
+### **[University of Melbourne Graduate Student Association](https://umsu.unimelb.edu.au/){:target="_blank"}** `2020.03-2021.12`
+```
+Member
+```
