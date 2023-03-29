@@ -85,6 +85,7 @@ Pondicherry, IN
 Sydney, NSW
 ```
 _IT Solutions Analyst_<br>
+- <i class="fas fa-award"></i> Recipient of MTC Applause Award
 - **Stakeholder Collaboration**: Worked closely with stakeholders to assess new business requirements and identify opportunities for technology to enhance business operations and customer experience.
 - **Solution Design & Implementation**: Conducted requirements analysis, designed solutions, and performed hands-on implementation of business applications and platforms.
 - **Process Automation**: Automated existing business and system processes for increased efficiency.
