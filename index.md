@@ -109,9 +109,9 @@ Bangalore, IN
 ```
 _Senior Technology Analyst_<br>
 - <i class="fas fa-award"></i> Recipient of Individual Achievement Award
-- Responsible for implementing and facilitating an internal corporate accelerator program that worked with over 150 startups to validate the technology's feasibility and integration. Led the collaboration with 12 startups in developing use cases for the prototype and managed the project to deliver the prototype to the organization successfully.
-- Managed the integration of technology within the organization, working with a diverse range of partners to ensure successful implementation of the technology
-- Development of a framework to enable internal innovation and technology advancement with 200+ associates from 10 business verticals worth USD 650k in collaboration with 200+ associates from 10 verticals within the organization
+- **Accelerator Program**: Implemented and facilitated an internal corporate accelerator program, working with over 150 startups to validate technology feasibility and integration. Led collaboration with 12 startups in developing use cases for prototypes and successfully delivered them to the organization.
+- **Technology Integration**: Managed the integration of technology within the organization, partnering with a diverse range of stakeholders to ensure successful implementation.
+- **Innovation Framework**: Developed a framework to enable internal innovation and technology advancement, collaborating with 200+ associates from 10 business verticals and a project worth USD 650k.
 
 ### **[Tata Consultancy Services](https://www.tcs.com/){:target="_blank"}** `2015.6 - 2016.10`
 ```
@@ -119,9 +119,10 @@ Chennai, IN
 ```
 _Assistant System Engineer_<br>
 - <i class="fas fa-award"></i> Recipient of Star of the Learners Group
-- Identified emerging trends, solutions, products, and startup opportunities in retail technologies and provided the organization with the tools it needs to stay on top of the industry
-- Applied new technologies to existing problems to create disruptive competitive advantages for retail enterprises 
-- Ensured that the technology was always operational, maintained the network code, managed enterprise sandboxes, <br> coordinated the regular activities in the innovation space, and managed the enterprise sandboxes
+- **Technology Research**: Conducted research on emerging solutions, products, and startup opportunities in retail technologies and provided the organization with the necessary tools to stay ahead in the industry.
+- **Technology Implementation**: Applied new technologies to existing problems to create disruptive competitive advantages for retail enterprises.
+- **Technology Maintenance**: Ensured that the technology was always operational, maintained network code, managed enterprise sandboxes, coordinated regular activities in the innovation space, and managed enterprise sandboxes.
+
 
 ## Volunteering
 
@@ -144,15 +145,14 @@ _Director of IT, Marketing and Communications_<br>
 Melbourne, AU
 ```
 _Store Coordinator_<br>
-- Volunteered to serve customers, which led to an increase in sales and increased customer engagement
-- Created window displays and visual merchandising displays that led to the interest of customers in the merchandise 
-- Assisted in the preparation of donations to be sold, which helped raise capital for the organization's projects and operations
+- **Customer Service**: Volunteered to serve customers, leading to increased sales and higher customer engagement.
+- **Visual Merchandising**: Created window displays and visual merchandising displays that piqued customers' interest in merchandise.
+- **Donation Management**: Assisted in the preparation of donations for sale, raising capital for the organization's projects and operations.
 
 ## Research & Projects
 
-### [**JMO Companion**](https://jmocap.ml/){:target="_blank"}
+### [**JMO Companion**](https://teachingforimpact.org/jmo-companion/){:target="_blank"}
 Dr. Winston	Dzau, **Dhanawada Nirmala Rao**, Dr. Victor Lin  at Teaching for Impact<br>
-_In Partnership with [JMO Victoria](https://www.pmcv.com.au/jmo-victoria){:target="_blank"}, JMO Victoria is a part of the [Postgraduate Medical Council of Victoria](https://www.pmcv.com.au/){:target="_blank"}_
 <br>Ongoing Project<br>
 
 ### [**Smartoma**](https://github.com/thedhanawada/docs-public/blob/master/Pitch%20Deck%20-%20BioDesign%20Competition%20.pdf){:target="_blank"}
