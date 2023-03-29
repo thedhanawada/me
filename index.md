@@ -97,10 +97,11 @@ _IT Solutions Analyst_<br>
 Melbourne, AU
 ```
 _University Research Placement Student_<br>
-- Identified the needs of the Blood Cells and Blood Cancer Division at WEHI and the Centre for Stem Cell Systems<br> at the University of Melbourne and carried out the implementation that allowed the application's functionality to be expanded. 
-- Documented granular technical details of the implementation to facilitate future understanding and use for the researchers 
-- Engaged in constructive discussions with the client to offer ideas and areas for improvement, which led to the application's expansion
-- Compiled and published the new implementation on NECTAR Research Cloud to make the application available to researchers
+- **Requirements Assessment**: Determined the requirements of the Blood Cells and Blood Cancer Division at WEHI and the Centre for Stem Cell Systems at the University of Melbourne.
+- **Implementation**: Executed the implementation, enabling the expansion of the application's functionality.
+- **Documentation**: Provided detailed technical documentation to facilitate future understanding and use by researchers.
+- **Client Collaboration**: Engaged in constructive discussions with the client to suggest ideas and improvements, leading to the application's expansion.
+- **Publication**: Compiled and published the new implementation on NECTAR Research Cloud, making the application accessible to researchers.
 
 ### **[Mast Global, L Brands](https://www.lb.com/){:target="_blank"}** `2016.10 - 2020.2`
 ```
