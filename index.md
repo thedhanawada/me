@@ -64,17 +64,23 @@ Pondicherry, IN
 - Undergraduate Study (Bachelor Program), Computer Science and Engineering
 - Data Structures, Automata Languages and Computation, <br> Object-Oriented Programming Languages and Design and Analysis of Algorithms
 
-## Skills and Competencies
+## Technology Competencies:
 
-### **Technology**
+1. **Frameworks**: Bootstrap, Vue.js, Angular, Pyramid, .NET, Selenium
+2. **Web Development**: 
+   - **Frontend**: HTML, CSS, JavaScript
+   - **Backend**: Python, MySQL
+3. **Programming Languages**: C#, Java
+4. **Content Management Systems**: Drupal, WordPress, Wiki.js
+5. **Enterprise Solutions**: Salesforce, SAP, Oracle HCM, Zoho, Google Workspace
+6. **Tools and Systems**:
+   - **DevOps**: Git, Docker
+   - **CI/CD & Version Control**: Azure, Travis, GitHub
+7. **Enterprise Architecture & IT Governance**:
+   - **TOGAF** (The Open Group Architecture Framework)
+   - **ITIL** (Information Technology Infrastructure Library)
+   - **COBIT** (Control Objectives for Information and Related Technologies)
 
-1. Frameworks (**Bootstrap**, **Vue.js**, **Angular**, **Pyramid**, **.NET**, **Selenium**)
-2. Frontend (**HTML**, **CSS** and **Javascript**) and Backend (**Python** and **MySQL**)
-3. Generic Programming (**C#**, **JAVA**)
-4. Content Management System (**Drupal**, **Wordpress** and **Wiki.js**)
-3. Enterprise Packaged Solutions (**Salesforce**, **SAP**, **Oracle HCM**, **Zoho** and **Google Workspace**)
-4. Tools and Systems [DevOps (**Git** and **Docker**), CI/CD & Version Control System (**Azure**, **Travis** and **Github**)]
-5. Enterprise Architecture (**TOGAF**) and ICT Infrastructure Evaluation (**ITIL** and **COBIT**)
 
 ## Experience
 ### **[MTC Australia](https://mtcaustralia.com.au/){:target="_blank"}** `2022.02 - Present`
