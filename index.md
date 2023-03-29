@@ -128,13 +128,14 @@ _Assistant System Engineer_<br>
 Melbourne, AU
 ```
 _Director of IT, Marketing and Communications_<br>
-- Assist the organization with building the web infrastructure and web services that allow smooth operation
-- Developed partnerships with Google, Salesforce, and Canva, and obtained technology grants <br> to enable the organization to take advantage of these tools to develop new content more effectively
-- Implemented an end-to-end technology workflow process based on Salesforce and Microsoft to help manage the organization's internal processes efficiently
-- Developed a marketing and brand strategy to promote Teaching for Impact in Australia and globally. 
-- Developed and maintained Teaching for Impact's website, which resulted in a higher engagement rate at events 
-- Managed an advertisement budget of 120k AUD through Google Ads, as well as developed marketing strategies that enhanced brand awareness 
-- Responsible for motivating and directing over 30 volunteers to achieve the goals and strategies of the organization
+- **Web Infrastructure & Services**: Assisted the organization in establishing web infrastructure and services for seamless operations.
+- **Partnerships & Grants**: Fostered partnerships with Google, Salesforce, and Canva, securing technology grants to enable more efficient content development.
+- **Technology Workflow**: Implemented an end-to-end technology workflow process utilizing Salesforce and Microsoft to streamline internal processes.
+- **Marketing & Brand Strategy**: Developed a marketing and brand strategy to promote Teaching for Impact, both in Australia and globally.
+- **Website Management**: Created and maintained the organization's website, resulting in increased engagement at events.
+- **Advertising & Marketing**: Managed a 120k AUD advertisement budget through Google Ads, and devised marketing strategies to enhance brand awareness.
+- **Volunteer Coordination**: Motivated and directed over 30 volunteers to achieve the organization's goals and strategies.
+
 
 ### **[Australian Red Cross](https://www.redcross.org.au/){:target="_blank"}** `Currenty Serving`
 ```
