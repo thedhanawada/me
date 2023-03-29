@@ -85,10 +85,11 @@ Pondicherry, IN
 Sydney, NSW
 ```
 _IT Solutions Analyst_<br>
-- Working closely with stakeholders to assess new business requirements or identify opportunities where technology can improve efficiencies in business operations and/or the customer experience.
-- Requirements analysis, solution design and hands-on implementation of business applications and platforms.
-- Automating existing business and system processes.
-- Designing and building systems/data integration flows using ETL technique
+- **Stakeholder Collaboration**: Worked closely with stakeholders to assess new business requirements and identify opportunities for technology to enhance business operations and customer experience.
+- **Solution Design & Implementation**: Conducted requirements analysis, designed solutions, and performed hands-on implementation of business applications and platforms.
+- **Process Automation**: Automated existing business and system processes for increased efficiency.
+- **Systems & Data Integration**: Designed and built data integration flows using ETL techniques.
+
 
 
 ### **[Walter and Eliza Hall Institute of Medical Research](https://www.wehi.edu.au/){:target="_blank"}** `2021.07 - 2021.10`
