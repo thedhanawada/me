@@ -41,8 +41,7 @@ Supported arguments:
 
 ## Career Summary
 
-A seasoned Information Technology professional with over five years of experience developing software tools and helping organizations manage technology delivery. An established technology leader who oversees the technology ecosystem in an organization and integrates it to achieve efficiency and business objectives. Delivered large-scale projects within the organization in conjunction with cross-functional teams and technical partners. 
-
+With five years of experience in the Information Technology field, I specialize in developing software solutions and assisting organizations with technology management. As a technology aficionado, my efforts focus on the smooth integration of systems to enhance efficiency and attain business goals. I have collaborated with a variety of teams and technical stakeholders to execute projects for a wide range of organizations, encompassing non-profit entities as well. Driven by a passion for community service, I am dedicated to applying my expertise in a manner that fosters significant, positive change.
 ## Education
 
 ### **University of Melbourne** `2020.2 - 2021.12`
