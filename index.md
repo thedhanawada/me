@@ -77,10 +77,7 @@ Pondicherry, IN
    - **DevOps**: Git, Docker
    - **CI/CD & Version Control**: Azure, Travis, GitHub
 7. **Enterprise Architecture & IT Governance**:
-   - **TOGAF** (The Open Group Architecture Framework)
-   - **ITIL** (Information Technology Infrastructure Library)
-   - **COBIT** (Control Objectives for Information and Related Technologies)
-
+   - TOGAF, ITIL, COBIT
 
 ## Experience
 ### **[MTC Australia](https://mtcaustralia.com.au/){:target="_blank"}** `2022.02 - Present`
