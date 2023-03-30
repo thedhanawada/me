@@ -66,21 +66,18 @@ Pondicherry, IN
 
 ## Technology Competencies:
 
+- **Frameworks:** Bootstrap, Vue.js, Angular, .NET, Selenium
+- **Web Development:**
+  - **Frontend:** HTML, CSS, JavaScript
+  - **Backend:** Python, MySQL, MS SQL Server
+- **Programming Languages:** C#, Java
+- **Content Management Systems:** Drupal, WordPress, Wiki.js
+- **Enterprise Solutions:** Salesforce, SAP, Oracle HCM, Zoho, Google Workspace
+- **Tools and Systems:**
+  - **DevOps:** Git, Docker
+  - **CI/CD & Version Control:** Azure, Travis, GitHub
+- **Enterprise Architecture & IT Governance:** TOGAF, ITIL, COBIT
 
-### Frameworks
-- Bootstrap, Vue.js, Angular, .NET, Selenium
-
-* Frameworks: Bootstrap, Vue.js, Angular, .NET, Selenium
-* Web Development: 
-  * Frontend: HTML, CSS, JavaScript
-  * Backend: Python, MySQL, MS SQL Server
-* Programming Languages: C#, Java
-* Content Management Systems: Drupal, WordPress, Wiki.js
-* Enterprise Solutions: Salesforce, SAP, Oracle HCM, Zoho, Google Workspace
-* Tools and Systems:
-  * DevOps: Git, Docker
-  * CI/CD & Version Control: Azure, Travis, GitHub
-* Enterprise Architecture & IT Governance: TOGAF, ITIL, COBIT
 
 ## Experience
 ### **[MTC Australia](https://mtcaustralia.com.au/){:target="_blank"}** `2022.02 - Present`
