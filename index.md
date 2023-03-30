@@ -154,6 +154,7 @@ _Store Coordinator_<br>
 
 ### [**JMO Companion**](https://teachingforimpact.org/jmo-companion/){:target="_blank"}
 Dr. Winston	Dzau, **Dhanawada Nirmala Rao**, Dr. Victor Lin  at Teaching for Impact<br>
+The JMO Companion App is a practical and accessible resource designed to address the challenges faced by junior doctors (JMOs) working in busy inpatient settings. Our app provides JMOs with optimized resources that are tailored to their needs, with a focus on pragmatic solutions that can be easily accessed and navigated
 <br>Ongoing Project<br>
 
 ### [**Smartoma**](https://github.com/thedhanawada/docs-public/blob/master/Pitch%20Deck%20-%20BioDesign%20Competition%20.pdf){:target="_blank"}
