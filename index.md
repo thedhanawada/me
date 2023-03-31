@@ -43,8 +43,7 @@ Supported arguments:
 
 With five years of experience in the Information Technology field, I specialize in developing software solutions and assisting organizations with technology management. As a technology aficionado, my efforts focus on the smooth integration of systems to enhance efficiency and attain business goals. I have collaborated with a variety of teams and technical stakeholders to execute projects for a wide range of organizations, encompassing non-profit entities as well. Driven by a passion for community service, I am dedicated to applying my expertise in a manner that fosters significant, positive change.
 ## Education
-
-### **University of Melbourne** `2020.2 - 2021.12`
+### **[University of Melbourne](https://www.unimelb.edu.au/){:target="_blank"}** `2020.2 - 2021.12`
 
 ```
 Melbourne, AU
