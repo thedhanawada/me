@@ -150,7 +150,7 @@ _Store Coordinator_<br>
 - **Visual Merchandising**: Created window displays and visual merchandising displays that piqued customers' interest in merchandise.
 - **Donation Management**: Assisted in the preparation of donations for sale, raising capital for the organization's projects and operations.
 
-## Research & Projects
+## Research & Project
 
 ### [**JMO Companion**](https://teachingforimpact.org/jmo-companion/){:target="_blank"}
 Dr. Winston	Dzau, **Dhanawada Nirmala Rao**, Dr. Victor Lin  at Teaching for Impact<br>
