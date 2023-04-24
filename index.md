@@ -171,7 +171,7 @@ The JMO Companion App is a practical and accessible resource designed to address
 <br>Ongoing Project<br>
 
 ### **Resident Profiles**
-Sewwandi Perera, **Dhanawada Nirmala Rao** and Daniel Gray at University of Melbourne<br>
+Sewwandi Perera, **Nirmala Rao Dhanawada** and Daniel Gray at University of Melbourne<br>
 _In Collaboration with the School of Design and Architecture, Swinburne University of Technology_
 <br>June 2020<br>
 
