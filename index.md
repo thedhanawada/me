@@ -149,29 +149,36 @@ _Store Coordinator_<br>
 - **Visual Merchandising**: Created window displays and visual merchandising displays that piqued customers' interest in merchandise.
 - **Donation Management**: Assisted in the preparation of donations for sale, raising capital for the organization's projects and operations.
 
-## Research & Project
+## Research 
 
-### [**JMO Companion**](https://teachingforimpact.org/jmo-companion/){:target="_blank"}
-Dr. Winston	Dzau, **Dhanawada Nirmala Rao**, Dr. Victor Lin  at Teaching for Impact<br>
-The JMO Companion App is a practical and accessible resource designed to address the challenges faced by junior doctors (JMOs) working in busy inpatient settings. Our app provides JMOs with optimized resources that are tailored to their needs, with a focus on pragmatic solutions that can be easily accessed and navigated
-<br>Ongoing Project<br>
+### [**Big Data Scalability, Methods and its Implications: A Survey of Current Practice**](https://dl.acm.org/doi/10.1145/2743065.2743121){:target="_blank"}
+J. Amudhavel, D. Sathian, R. S. Raghav, **Nirmala Rao Dhanawada**, P. Dhavachelvan, and K. Prem Kumar<br>
+_ICARCSET '15: Proceedings of the 2015 International Conference on Advanced Research in Computer Science Engineering & Technology (ICARCSET 2015)_
+<br>March 2015 Article No.: 56,ages 1–5<br>
+[[PDF](https://doi.org/10.1145/2743065.2743121){:target="_blank"}]
 
 ### [**Smartoma**](https://github.com/thedhanawada/docs-public/blob/master/Pitch%20Deck%20-%20BioDesign%20Competition%20.pdf){:target="_blank"}
-Laura Harman, Smriti Hosur, Praghashkumar Thanasegeren, **Dhanawada Nirmala Rao** and Sarina Moshfegh<br>
+Laura Harman, Smriti Hosur, Praghashkumar Thanasegeren, **Nirmala Rao Dhanawada** and Sarina Moshfegh<br>
 _Melbourne BioInnovation Student Initiative, Biodesign Competition 2021_
 <br>October 2021, Team 2<br>
 [[PDF](https://github.com/thedhanawada/docs-public/raw/master/Pitch%20Deck%20-%20BioDesign%20Competition%20.pdf){:target="_blank"}][[PITCH](https://fb.watch/94tni7HeYl/)]
+
+## Projects
+
+### [**JMO Companion**](https://teachingforimpact.org/jmo-companion/){:target="_blank"}
+Dr. Winston	Dzau, **Nirmala Rao Dhanawada** and Dr. Victor Lin  at Teaching for Impact<br>
+The JMO Companion App is a practical and accessible resource designed to address the challenges faced by junior doctors (JMOs) working in busy inpatient settings. Our app provides JMOs with optimized resources that are tailored to their needs, with a focus on pragmatic solutions that can be easily accessed and navigated
+<br>Ongoing Project<br>
 
 ### **Resident Profiles**
 Sewwandi Perera, **Dhanawada Nirmala Rao** and Daniel Gray at University of Melbourne<br>
 _In Collaboration with the School of Design and Architecture, Swinburne University of Technology_
 <br>June 2020<br>
 
-### [**Big Data Scalability, Methods and its Implications: A Survey of Current Practice**](https://dl.acm.org/doi/10.1145/2743065.2743121){:target="_blank"}
-J. Amudhavel, D. Sathian, R. S. Raghav, **Dhanawada Nirmala Rao**, P. Dhavachelvan, and K. Prem Kumar<br>
-_ICARCSET '15: Proceedings of the 2015 International Conference on Advanced Research in Computer Science Engineering & Technology (ICARCSET 2015)_
-<br>March 2015 Article No.: 56,ages 1–5<br>
-[[PDF](https://doi.org/10.1145/2743065.2743121){:target="_blank"}]
+### **Resident Profiles**
+Nirmala Rao Dhanawada <br>
+LiveValidateJS is a lightweight JavaScript library that provides real-time form validation and input checking for HTML forms. With LiveValidateJS, you can easily create custom validation rules for each input field and receive instant feedback on the input's validity as the user types
+<br>Ongoing Project<br>
 
 ## Organizations
 
