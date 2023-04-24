@@ -175,7 +175,7 @@ _In Collaboration with the School of Design and Architecture, Swinburne Universi
 
 ### [**LiveValidateJS**](https://github.com/Formu8JS/LiveValidateJS){:target="_blank"}`Ongoing Project`
 Independent Contributor<br>
-LiveValidateJS is a lightweight JavaScript library that provides real-time form validation and input checking for HTML forms. With LiveValidateJS, you can easily create custom validation rules for each input field and receive instant feedback on the input's validity as the user types
+LiveValidateJS is a lightweight open-source JavaScript library that provides real-time form validation and input checking for HTML forms. With LiveValidateJS, you can easily create custom validation rules for each input field and receive instant feedback on the input's validity as the user types
 
 ## Organizations
 
