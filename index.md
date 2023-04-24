@@ -165,20 +165,17 @@ _Melbourne BioInnovation Student Initiative, Biodesign Competition 2021_
 
 ## Projects
 
-### [**JMO Companion**](https://teachingforimpact.org/jmo-companion/){:target="_blank"}
+### [**JMO Companion**](https://teachingforimpact.org/jmo-companion/){:target="_blank"}`Ongoing Project`
 Dr. Winston	Dzau, **Nirmala Rao Dhanawada** and Dr. Victor Lin  at Teaching for Impact<br>
 The JMO Companion App is a practical and accessible resource designed to address the challenges faced by junior doctors (JMOs) working in busy inpatient settings. Our app provides JMOs with optimized resources that are tailored to their needs, with a focus on pragmatic solutions that can be easily accessed and navigated
-<br>Ongoing Project<br>
 
-### **Resident Profiles**
+### **Resident Profiles**`June 2020`
 Sewwandi Perera, **Nirmala Rao Dhanawada** and Daniel Gray at University of Melbourne<br>
 _In Collaboration with the School of Design and Architecture, Swinburne University of Technology_
-<br>June 2020<br>
 
-### [**LiveValidateJS**](https://github.com/Formu8JS/LiveValidateJS){:target="_blank"}
+### [**LiveValidateJS**](https://github.com/Formu8JS/LiveValidateJS){:target="_blank"}`Ongoing Project`
 Nirmala Rao Dhanawada<br>
 LiveValidateJS is a lightweight JavaScript library that provides real-time form validation and input checking for HTML forms. With LiveValidateJS, you can easily create custom validation rules for each input field and receive instant feedback on the input's validity as the user types
-<br>Ongoing Project<br>
 
 ## Organizations
 
