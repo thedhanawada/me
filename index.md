@@ -174,7 +174,7 @@ Sewwandi Perera, **Nirmala Rao Dhanawada** and Daniel Gray at University of Melb
 _In Collaboration with the School of Design and Architecture, Swinburne University of Technology_
 
 ### [**LiveValidateJS**](https://github.com/Formu8JS/LiveValidateJS){:target="_blank"}`Ongoing Project`
-Nirmala Rao Dhanawada<br>
+Independent Contributor<br>
 LiveValidateJS is a lightweight JavaScript library that provides real-time form validation and input checking for HTML forms. With LiveValidateJS, you can easily create custom validation rules for each input field and receive instant feedback on the input's validity as the user types
 
 ## Organizations
