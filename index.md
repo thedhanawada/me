@@ -39,10 +39,9 @@ Supported arguments:
 
 {% include cv-contact.html %}
 
-## Career Summary
+<!--## Career Summary
 
-With a career spanning six years in the Information Technology sector, my specialization focuses on the development of software solutions and the provision of technology management services to organizations. As an active member of the open-source community, I am deeply committed to giving back and have dedicated a significant portion of my career to supporting and collaborating with various open-source initiatives. As a technology enthusiast, my efforts are oriented towards the seamless integration of systems in order to optimize efficiency and achieve strategic business objectives. I have collaborated with diverse teams and technical stakeholders to successfully execute projects for a variety of organizations, including non-profit entities. Motivated by a deep-rooted commitment to community service, I am resolute in my pursuit of utilizing my technical expertise to drive meaningful and positive impact.
-
+With a career spanning six years in the Information Technology sector, my specialization focuses on the development of software solutions and the provision of technology management services to organizations. As an active member of the open-source community, I am deeply committed to giving back and have dedicated a significant portion of my career to supporting and collaborating with various open-source initiatives. As a technology enthusiast, my efforts are oriented towards the seamless integration of systems in order to optimize efficiency and achieve strategic business objectives. I have collaborated with diverse teams and technical stakeholders to successfully execute projects for a variety of organizations, including non-profit entities. Motivated by a deep-rooted commitment to community service, I am resolute in my pursuit of utilizing my technical expertise to drive meaningful and positive impact.-->
 
 ## Education
 ### **[University of Melbourne](https://www.unimelb.edu.au/){:target="_blank"}** `2020.2 - 2021.12`
