@@ -166,7 +166,7 @@ _Melbourne BioInnovation Student Initiative, Biodesign Competition 2021_
 
 ## Projects
 
-### [**SpinOnSubmitJS**]([https://github.com/Formu8JS/LiveValidateJS](https://github.com/thedhanawada/SpinOnSubmitJS)){:target="_blank"}`Ongoing Project`
+### [**SpinOnSubmitJS**]([https://github.com/thedhanawada/SpinOnSubmitJS](https://github.com/thedhanawada/SpinOnSubmitJS)){:target="_blank"}`Ongoing Project`
 Independent Contributor<br>
 A compact JavaScript library that enhances your form submit buttons with a visual loading spinner, providing immediate and intuitive feedback to users upon submission
 
