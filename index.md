@@ -141,7 +141,7 @@ _Director of IT, Marketing and Communications_<br>
 - **Volunteer Coordination**: Motivated and directed over 30 volunteers to achieve the organization's goals and strategies.
 
 
-### **[Australian Red Cross](https://www.redcross.org.au/){:target="_blank"}** `Currenty Serving`
+### **[Australian Red Cross](https://www.redcross.org.au/){:target="_blank"}** `2021.01 - 2022.05`
 ```
 Melbourne, AU
 ```
