@@ -15,7 +15,7 @@ author:
   text: nimo-markdown-cv
 github:
   url: https://github.com/thedhanawada/
-  text: Github Profile
+  text: Github
 linkedin:
   url: https://www.linkedin.com/in/thedhanawada/
   text: LinkedIn
