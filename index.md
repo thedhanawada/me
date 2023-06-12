@@ -64,20 +64,28 @@ Pondicherry, IN
 - Undergraduate Study (Bachelor Program), Computer Science and Engineering
 - Data Structures, Automata Languages and Computation, Object-Oriented Programming Languages and Design and Analysis of Algorithms
 
-## Technology Competencies:
+## Technology Competencies
 
-- **Frameworks:** Bootstrap, Vue.js, Angular, .NET, Selenium
-- **Web Development:**
-  - **Frontend:** HTML, CSS, JavaScript
-  - **Backend:** Python, MySQL, MS SQL Server
-- **Programming Languages:** C#, Java
-- **Content Management Systems:** Drupal, WordPress, Wiki.js
-- **Enterprise Solutions:** Salesforce, SAP, Oracle HCM, Zoho, Google Workspace
-- **Tools and Systems:**
-  - **DevOps:** Git, Docker
-  - **CI/CD & Version Control:** Azure, Travis, GitHub
 - **Enterprise Architecture & IT Governance:** TOGAF, ITIL, COBIT
-
+- **Enterprise IT Solutions:** 
+  - Salesforce (APEX, Lightning, Visualforce; Integration with Marketo, AskNicely, and FormAssembly for email campaigns, customer surveys, and data collection)
+  - SAP, Oracle HCM, Zoho
+  - Google Workspace: User and access management, configuration of security protocols, implementation and enforcement of compliance policies
+- **Microsoft Power Platform:** PowerApps, Power Automate
+- **Integration and Data Management:** 
+  - Marketo, AskNicely, FormAssembly (Integration with Salesforce)
+  - Talend (Cross-platform data integration)
+  - Social Media Campaigns (Integration with Marketo and Salesforce)
+- **Web Accessibility & Compliance:** Monsido
+- **Web Development:** 
+  - **Frontend:** HTML, CSS, JavaScript (Library creation), Bootstrap, Vue.js, Angular
+  - **Backend:** .NET, MySQL, MS SQL Server
+- **Content Management Systems (CMS):** WordPress, Wiki.js
+- **Programming Languages:** Java, C#, Python
+- **Version Control Systems:** Git
+- **Cloud-Based Solutions:** Azure (Infrastructure management, provisioning and configuring of virtual machines)
+- **Continuous Integration & Continuous Deployment (CI/CD):** Azure DevOps, Travis CI, GitHub Actions
+- **Containerization:** Docker
 
 ## Experience
 ### **[MTC Australia](https://mtcaustralia.com.au/){:target="_blank"}** `2022.02 - Present`
