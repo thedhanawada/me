@@ -158,11 +158,7 @@ Article No.: 56,ages 1–5
 ```
 J. Amudhavel, D. Sathian, R. S. Raghav, **Nirmala Rao Dhanawada**, P. Dhavachelvan, and K. Prem Kumar<br>
 _ICARCSET '15: Proceedings of the 2015 International Conference on Advanced Research in Computer Science Engineering & Technology (ICARCSET 2015)_
-```
-### [**Smartoma**](https://github.com/thedhanawada/docs-public/blob/master/Pitch%20Deck%20-%20BioDesign%20Competition%20.pdf){:target="_blank"} [[PDF](https://github.com/thedhanawada/docs-public/raw/master/Pitch%20Deck%20-%20BioDesign%20Competition%20.pdf){:target="_blank"}]`October 2021`
-Laura Harman, Smriti Hosur, Praghashkumar Thanasegeren, **Nirmala Rao Dhanawada** and Sarina Moshfegh<br>
-_Melbourne BioInnovation Student Initiative, Biodesign Competition 2021_
-```
+
 ## Projects
 
 ### [**SpinOnSubmitJS**](https://spinonsubmit.js.org/){:target="_blank"}`Ongoing Project`
