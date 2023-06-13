@@ -166,7 +166,7 @@ _ICARCSET '15: Proceedings of the 2015 International Conference on Advanced Rese
 ### <sub>_Independent Developer_ at </sub>[**SpinOnSubmitJS**](https://spinonsubmit.js.org/){:target="_blank"} Project`Ongoing Project`
 A compact JavaScript library that enhances your form submit buttons with a visual loading spinner, providing immediate and intuitive feedback to users upon submission
 
-### [**JMO Companion**](https://teachingforimpact.org/jmo-companion/){:target="_blank"}`Ongoing Project`
+### <sub> _Head of Technology Development_ at </sub>[**JMO Companion**](https://teachingforimpact.org/jmo-companion/){:target="_blank"}`Ongoing Project`
 Dr. Winston	Dzau, **Nirmala Rao Dhanawada** and Dr. Victor Lin  at Teaching for Impact<br>
 The JMO Companion App is a practical and accessible resource designed to address the challenges faced by junior doctors (JMOs) working in busy inpatient settings. Our app provides JMOs with optimized resources that are tailored to their needs, with a focus on pragmatic solutions that can be easily accessed and navigated
 
