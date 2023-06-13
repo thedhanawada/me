@@ -88,11 +88,10 @@ Pondicherry, IN
 - **Containerization:** Docker
 
 ## Experience
-### **[MTC Australia](https://mtcaustralia.com.au/){:target="_blank"}** `2022.02 - Present`
+### <sub>_IT Solutions Analyst_ at </sub>**[MTC Australia](https://mtcaustralia.com.au/){:target="_blank"}** `2022.02 - Present`
 ```
 Sydney, NSW
 ```
-_IT Solutions Analyst_<br>
 - <i class="fas fa-award"></i> Recipient of MTC Applause Award
 - **Stakeholder Collaboration**: Worked closely with stakeholders to assess new business requirements and identify opportunities for technology to enhance business operations and customer experience.
 - **Solution Design & Implementation**: Conducted requirements analysis, designed solutions, and performed hands-on implementation of business applications and platforms.
@@ -101,32 +100,29 @@ _IT Solutions Analyst_<br>
 
 
 
-### **[Walter and Eliza Hall Institute of Medical Research](https://www.wehi.edu.au/){:target="_blank"}** `2021.07 - 2021.10`
+### <sub>_University Research Placement Student_ at </sub> **[Walter and Eliza Hall Institute of Medical Research](https://www.wehi.edu.au/){:target="_blank"}** `2021.07 - 2021.10`
 ```
 Melbourne, AU
 ```
-_University Research Placement Student_<br>
 - **Requirements Assessment**: Determined the requirements of the Blood Cells and Blood Cancer Division at WEHI and the Centre for Stem Cell Systems at the University of Melbourne.
 - **Implementation**: Executed the implementation, enabling the expansion of the application's functionality.
 - **Documentation**: Provided detailed technical documentation to facilitate future understanding and use by researchers.
 - **Client Collaboration**: Engaged in constructive discussions with the client to suggest ideas and improvements, leading to the application's expansion.
 - **Publication**: Compiled and published the new implementation on NECTAR Research Cloud, making the application accessible to researchers.
 
-### **[Mast Global, L Brands](https://www.lb.com/){:target="_blank"}** `2016.10 - 2020.2`
+### <sub>_Senior Technology Analyst_ at </sub> **[Mast Global, L Brands](https://www.lb.com/){:target="_blank"}** `2016.10 - 2020.2`
 ```
 Bangalore, IN
 ```
-_Senior Technology Analyst_<br>
 - <i class="fas fa-award"></i> Recipient of Individual Achievement Award
 - **Accelerator Program**: Implemented and facilitated an internal corporate accelerator program, working with over 150 startups to validate technology feasibility and integration. Led collaboration with 12 startups in developing use cases for prototypes and successfully delivered them to the organization.
 - **Technology Integration**: Managed the integration of technology within the organization, partnering with a diverse range of stakeholders to ensure successful implementation.
 - **Innovation Framework**: Developed a framework to enable internal innovation and technology advancement, collaborating with 200+ associates from 10 business verticals and a project worth USD 650k.
 
-### **[Tata Consultancy Services](https://www.tcs.com/){:target="_blank"}** `2015.6 - 2016.10`
+### <sub>_Assistant System Engineer_ at </sub> **[Tata Consultancy Services](https://www.tcs.com/){:target="_blank"}** `2015.6 - 2016.10`
 ```
 Chennai, IN
 ```
-_Assistant System Engineer_<br>
 - <i class="fas fa-award"></i> Recipient of Star of the Learners Group
 - **Technology Research**: Conducted research on emerging solutions, products, and startup opportunities in retail technologies and provided the organization with the necessary tools to stay ahead in the industry.
 - **Technology Implementation**: Applied new technologies to existing problems to create disruptive competitive advantages for retail enterprises.
