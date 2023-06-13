@@ -93,12 +93,11 @@ Pondicherry, IN
 Sydney, NSW
 ```
 - <i class="fas fa-award"></i> Recipient of MTC Applause Award
-- **Stakeholder Collaboration**: Worked closely with stakeholders to assess new business requirements and identify opportunities for technology to enhance business operations and customer experience.
-- **Solution Design & Implementation**: Conducted requirements analysis, designed solutions, and performed hands-on implementation of business applications and platforms.
-- **Process Automation**: Automated existing business and system processes for increased efficiency.
-- **Systems & Data Integration**: Designed and built data integration flows using ETL techniques.
-
-
+- **Stakeholder Engagement and Solution Architecture**: Engage regularly with a diverse set of stakeholders to gather unique business needs. Specialize in architecting Salesforce solutions, customizing Salesforce with Apex, Lightning, and Visualforce. Implemented integration with AskNicely and FormAssembly to improve email campaigns and customer surveys.
+- **Data Management and Integration**: Conduct ETL operations using Talend, extract data from private subscriptions via MS SQL Server, and load it into Salesforce efficiently for enhanced analytics and decision-making processes.
+- **Web Development and Management**: Lead the technical aspect of publishing data from Salesforce to WordPress using custom plugins, and perform site-wide CSS and JS updates to improve uniformity and user experience.
+- **Web Accessibility and Compliance**: Collaborate with the marketing team using Monsido to ensure web accessibility and compliance. Extensively worked on the technical aspects of Marketo, contributing significantly to its successful integration with Salesforce and subsequent enhancement of marketing processes.
+- **Process Automation**: Drive automation of business and system processes, leveraging tools like Salesforce and Power Automate, resulting in significant improvements in operational efficiency.
 
 ### <sub>_University Research Placement Student_ at </sub> **[Walter and Eliza Hall Institute of Medical Research](https://www.wehi.edu.au/){:target="_blank"}** `2021.07 - 2021.10`
 ```
