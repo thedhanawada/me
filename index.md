@@ -169,8 +169,7 @@ _ICARCSET '15: Proceedings of the 2015 International Conference on Advanced Rese
 
 ## Projects
 
-### [**SpinOnSubmitJS**](https://spinonsubmit.js.org/){:target="_blank"}`Ongoing Project`
-Independent Contributor<br>
+### <sub>_Independent Developer_ at </sub>[**SpinOnSubmitJS**](https://spinonsubmit.js.org/){:target="_blank"} Project`Ongoing Project`
 A compact JavaScript library that enhances your form submit buttons with a visual loading spinner, providing immediate and intuitive feedback to users upon submission
 
 ### [**JMO Companion**](https://teachingforimpact.org/jmo-companion/){:target="_blank"}`Ongoing Project`
