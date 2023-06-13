@@ -187,8 +187,7 @@ LiveValidateJS is a lightweight open-source JavaScript library that provides rea
 
 ## Organizations
 
-### **[Australian Computer Society](https://www.acs.org.au/){:target="_blank"}** `2022.06 - Present`
-_Associate Membership_<br>
+### **[Australian Computer Society](https://www.acs.org.au/){:target="_blank"}** <sub>_Associate Membership_</sub> `2022.06 - Present`
 ### **[University of Melbourne Student Union](https://umsu.unimelb.edu.au/){:target="_blank"}** `2020.03-2021.12`
 _Member_<br>
 ### **[University of Melbourne Graduate Student Association](https://umsu.unimelb.edu.au/){:target="_blank"}** `2020.03-2021.12`
