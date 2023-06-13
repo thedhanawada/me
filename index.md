@@ -135,11 +135,10 @@ _Assistant System Engineer_<br>
 
 ## Volunteering
 
-### **[Teaching for Impact](https://www.teachingforimpact.org/){:target="_blank"}** `Currenty Serving`
+### <sub>_Director of IT, Marketing and Communications_ at </sub> **[Teaching for Impact](https://www.teachingforimpact.org/){:target="_blank"}** `Currenty Serving`
 ```
 Melbourne, AU
 ```
-_Director of IT, Marketing and Communications_<br>
 - **Web Infrastructure & Services**: Assisted the organization in establishing web infrastructure and services for seamless operations.
 - **Partnerships & Grants**: Fostered partnerships with Google, Salesforce, and Canva, securing technology grants to enable more efficient content development.
 - **Technology Workflow**: Implemented an end-to-end technology workflow process utilizing Salesforce and Microsoft to streamline internal processes.
@@ -149,11 +148,10 @@ _Director of IT, Marketing and Communications_<br>
 - **Volunteer Coordination**: Motivated and directed over 30 volunteers to achieve the organization's goals and strategies.
 
 
-### **[Australian Red Cross](https://www.redcross.org.au/){:target="_blank"}** `2021.01 - 2022.05`
+### <sub>_Store Coordinator_ at </sub>**[Australian Red Cross](https://www.redcross.org.au/){:target="_blank"}** `2021.01 - 2022.05`
 ```
 Melbourne, AU
 ```
-_Store Coordinator_<br>
 - **Customer Service**: Volunteered to serve customers, leading to increased sales and higher customer engagement.
 - **Visual Merchandising**: Created window displays and visual merchandising displays that piqued customers' interest in merchandise.
 - **Donation Management**: Assisted in the preparation of donations for sale, raising capital for the organization's projects and operations.
@@ -187,4 +185,4 @@ LiveValidateJS is a lightweight open-source JavaScript library that provides rea
 
 ### <sub>_Associate Membership_ at </sub>**[Australian Computer Society](https://www.acs.org.au/){:target="_blank"}** `2022.06 - Present`
 ### <sub>_Member_ at </sub>**[University of Melbourne Student Union](https://umsu.unimelb.edu.au/){:target="_blank"}** `2020.03-2021.12`
-### <sub>_Member, Candidate for GSA Board Membership_ at </sub>**[University of Melbourne Graduate Student Association](https://umsu.unimelb.edu.au/){:target="_blank"}** `2020.03-2021.12`
+### <sub>_Member, Candidate for GSA Board Membership_ at </sub>**[University of Melbourne, Graduate Student Association](https://gsa.unimelb.edu.au/){:target="_blank"}** `2020.03-2021.12`
