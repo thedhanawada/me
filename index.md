@@ -181,8 +181,7 @@ The JMO Companion App is a practical and accessible resource designed to address
 Sewwandi Perera, **Nirmala Rao Dhanawada** and Daniel Gray at University of Melbourne<br>
 _In Collaboration with the School of Design and Architecture, Swinburne University of Technology_
 
-### [**LiveValidateJS**](https://github.com/Formu8JS/LiveValidateJS){:target="_blank"}`Ongoing Project`
-Independent Contributor<br>
+### <sub>_Independent Developer_ at </sub>[**LiveValidateJS**](https://github.com/Formu8JS/LiveValidateJS){:target="_blank"} Project`Ongoing Project`
 LiveValidateJS is a lightweight open-source JavaScript library that provides real-time form validation and input checking for HTML forms. With LiveValidateJS, you can easily create custom validation rules for each input field and receive instant feedback on the input's validity as the user types
 
 ## Organizations
