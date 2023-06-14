@@ -67,16 +67,17 @@ Pondicherry, IN
 ## Technical Competencies
 
 - **Enterprise Architecture:** TOGAF, ITIL, COBIT
-- **CRM and ERP Systems:** 
+- **CRM Systems:** 
   - Salesforce:
     - Frameworks: APEX, Lightning, Visualforce
     - Integration: Marketo, AskNicely, FormAssembly, SMS Magic (SMS Converse)
     - Campaigns: Email (via Marketo), Customer surveys (via AskNicely), Data Collection (via FormAssembly)
-  - SAP, Oracle HCM, Zoho
 - **Data Management & Integration:** Talend, Salesforce/Marketo/AskNicely/FormAssembly integration
 - **Cloud & IT Management:** Azure, Google Workspace
-- **Microsoft Power Platform:** PowerApps, Power Automate
-- **Web Technologies:** HTML, CSS, JavaScript (incl. Vue.js, Angular), .NET, SQL
+- **Business Solution Architecture:** 
+  - PowerApps: Custom business application development and deployment
+  - Power Automate: Business process automation and workflow optimization
+- **Web Technologies:** JavaScript, .NET, SQL
 - **Programming:** Java, C#, Python
 - **Version Control:** Git
 - **CI/CD:** Azure DevOps, Travis CI, GitHub Actions
