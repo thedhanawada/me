@@ -64,28 +64,25 @@ Pondicherry, IN
 - Undergraduate Study (Bachelor Program), Computer Science and Engineering
 - Data Structures, Automata Languages and Computation, Object-Oriented Programming Languages and Design and Analysis of Algorithms
 
-## Technology Competencies
+## Technical Competencies
 
-- **Enterprise Architecture & IT Governance:** TOGAF, ITIL, COBIT
-- **Enterprise IT Solutions:** 
-  - Salesforce (APEX, Lightning, Visualforce; Integration with Marketo, AskNicely, and FormAssembly for email campaigns, customer surveys, and data collection)
+- **Enterprise Architecture:** TOGAF, ITIL, COBIT
+- **CRM and ERP Systems:** 
+  - Salesforce:
+    - Frameworks: APEX, Lightning, Visualforce
+    - Integration: Marketo, AskNicely, FormAssembly, SMS Magic (SMS Converse)
+    - Campaigns: Email (via Marketo), Customer surveys (via AskNicely), Data Collection (via FormAssembly)
   - SAP, Oracle HCM, Zoho
-  - Google Workspace: User and access management, configuration of security protocols, implementation and enforcement of compliance policies
+- **Data Management & Integration:** Talend, Salesforce/Marketo/AskNicely/FormAssembly integration
+- **Cloud & IT Management:** Azure, Google Workspace
 - **Microsoft Power Platform:** PowerApps, Power Automate
-- **Integration and Data Management:** 
-  - Marketo, AskNicely, FormAssembly (Integration with Salesforce)
-  - Talend (Cross-platform data integration)
-  - Social Media Campaigns (Integration with Marketo and Salesforce)
-- **Web Accessibility & Compliance:** Monsido
-- **Web Development:** 
-  - **Frontend:** HTML, CSS, JavaScript (Library creation), Bootstrap, Vue.js, Angular
-  - **Backend:** .NET, MySQL, MS SQL Server
-- **Content Management Systems (CMS):** WordPress, Wiki.js
-- **Programming Languages:** Java, C#, Python
-- **Version Control Systems:** Git
-- **Cloud-Based Solutions:** Azure (Infrastructure management, provisioning and configuring of virtual machines)
-- **Continuous Integration & Continuous Deployment (CI/CD):** Azure DevOps, Travis CI, GitHub Actions
+- **Web Technologies:** HTML, CSS, JavaScript (incl. Vue.js, Angular), .NET, SQL
+- **Programming:** Java, C#, Python
+- **Version Control:** Git
+- **CI/CD:** Azure DevOps, Travis CI, GitHub Actions
 - **Containerization:** Docker
+- **CMS:** WordPress, Wiki.js
+- **Compliance:** Monsido (Web Accessibility)
 
 ## Experience
 ### <sub>_IT Solutions Analyst_ at </sub>**[MTC Australia](https://mtcaustralia.com.au/){:target="_blank"}** `2022.02 - Present`
