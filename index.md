@@ -29,14 +29,6 @@ phone:
 
 # Nirmala Rao Dhanawada
 
-<!--
-include contact information from the front matter
-Supported arguments:
-    - homepage: url, text
-    - phone
-    - email
--->
-
 {% include cv-contact.html %}
 
 <!--## Career Summary
