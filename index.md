@@ -99,7 +99,7 @@ Melbourne, AU
 - **Client Collaboration**: Engaged in constructive discussions with the client to suggest ideas and improvements, leading to the application's expansion.
 - **Publication**: Compiled and published the new implementation on NECTAR Research Cloud, making the application accessible to researchers.
 
-### <sub>_Senior Technology Analyst_ at </sub> **[Mast Global, L Brands](https://www.lb.com/){:target="_blank"}** `2016.10 - 2020.2`
+### <sub>_Senior Technology Analyst_ at </sub> **[Victoria’s Secret & Co.](https://www.victoriassecretandco.com/){:target="_blank"}** `2016.10 - 2020.2`
 ```
 Bangalore, IN
 ```
