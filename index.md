@@ -58,75 +58,24 @@ Pondicherry, IN
 
 ## Technical Competencies
 
----
-
-**Cloud & Systems**  
-- Azure
-- Google Workspace
-- Canvas LMS
-
----
-
-**Web & Frameworks**  
-- JavaScript
-- ReactJS
-- .NET
-- APEX
-- Lightning Web Components
-- Visualforce
-
----
-
-**Databases**  
-- MS SQL
-- SQL
-
----
-
-**DevOps & CI/CD**  
-- Git
-- Docker
-- Azure DevOps
-- Travis CI
-- GitHub Actions
-
----
-
-**Enterprise Architecture**  
-- TOGAF
-- ITIL
-- COBIT
-
----
-
-**Programming**  
-- Java
-- C#
-- Python
-
----
-
-**CRM Systems & Integration**  
-- Salesforce
-    - Frameworks: APEX, LWC, Visualforce
-    - Integration: Marketo, AskNicely, FormAssembly, SMS Magic
-- Talend
-
----
-
-**Business Solutions**  
-- PowerApps
-- Power Automate
-
----
-
-**CMS & Compliance**  
-- WordPress
-- Wiki.js
-- Monsido (Web Accessibility)
-
----
-
+- **Enterprise Architecture:** TOGAF, ITIL, COBIT
+- **CRM Systems:** 
+  - Salesforce:
+    - Frameworks: APEX, Lightning, Visualforce
+    - Integration: Marketo, AskNicely, FormAssembly, SMS Magic (SMS Converse)
+    - Campaigns: Email (via Marketo), Customer surveys (via AskNicely), Data Collection (via FormAssembly)
+- **Data Management & Integration:** Talend, Salesforce/Marketo/AskNicely/FormAssembly integration
+- **Cloud & IT Management:** Azure, Google Workspace
+- **Business Solution Architecture:** 
+  - PowerApps: Custom business application development and deployment
+  - Power Automate: Business process automation and workflow optimization
+- **Web Technologies:** JavaScript, .NET, SQL
+- **Programming:** Java, C#, Python
+- **Version Control:** Git
+- **CI/CD:** Azure DevOps, Travis CI, GitHub Actions
+- **Containerization:** Docker
+- **CMS:** WordPress, Wiki.js
+- **Compliance:** Monsido (Web Accessibility)
 
 ## Experience
 ### <sub>_IT Solutions Analyst_ at </sub>**[MTC Australia](https://mtcaustralia.com.au/){:target="_blank"}** `2022.02 - Present`
