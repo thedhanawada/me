@@ -58,26 +58,66 @@ Pondicherry, IN
 
 ## Technical Competencies
 
-- **Cloud & IT Management:** Azure, Google Workspace
-- **Enterprise Architecture:** TOGAF, ITIL, COBIT
-- **Web Technologies:** JavaScript, ReactJS
-- **Frameworks & Platforms:** .NET
-- **Database Management:** MS SQL, SQL
-- **Programming:** Java, C#, Python
-- **Version Control:** Git
-- **CI/CD:** Azure DevOps, Travis CI, GitHub Actions
-- **Containerization:** Docker
-- **CRM Systems:** 
-  - Salesforce:
-    - Frameworks: APEX, Lightning Web Components, Visualforce
-    - Integration: Marketo, AskNicely, FormAssembly, SMS Magic (SMS Converse)
-    - Campaigns: Email (via Marketo), Customer surveys (via AskNicely), Data Collection (via FormAssembly)
-- **Data Management & Integration:** Talend, Various CRM integrations
-- **Business Solution Architecture:** 
-  - PowerApps: Custom business application development and deployment
-  - Power Automate: Business process automation and workflow optimization
-- **CMS & LMS:** WordPress, Wiki.js, Canvas LMS
-- **Compliance:** Monsido (Web Accessibility)
+<table>
+<tr>
+<td>
+
+### Cloud & Systems
+- Azure
+- Google Workspace
+- Canvas LMS
+
+### Web & Frameworks
+- JavaScript
+- ReactJS
+- .NET
+- APEX
+- Lightning Web Components
+- Visualforce
+
+### Databases
+- MS SQL
+- SQL
+
+### DevOps & CI/CD
+- Git
+- Docker
+- Azure DevOps
+- Travis CI
+- GitHub Actions
+
+</td>
+<td>
+
+### Enterprise Architecture
+- TOGAF
+- ITIL
+- COBIT
+
+### Programming
+- Java
+- C#
+- Python
+
+### CRM Systems & Integration
+- Salesforce
+  - Frameworks: APEX, LWC, Visualforce
+  - Integration: Marketo, AskNicely, FormAssembly, SMS Magic
+- Talend
+
+### Business Solutions
+- PowerApps
+- Power Automate
+
+### CMS & Compliance
+- WordPress
+- Wiki.js
+- Monsido (Web Accessibility)
+
+</td>
+</tr>
+</table>
+
 
 ## Experience
 ### <sub>_IT Solutions Analyst_ at </sub>**[MTC Australia](https://mtcaustralia.com.au/){:target="_blank"}** `2022.02 - Present`
