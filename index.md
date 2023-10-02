@@ -58,86 +58,69 @@ Pondicherry, IN
 
 ## Technical Competencies
 
-<table>
+<table width="100%">
 <tr>
-<td valign="top">
+<td valign="top" style="padding-right: 40px;">
 
-<h3>Cloud & Systems</h3>
-<ul>
-    <li>Azure</li>
-    <li>Google Workspace</li>
-    <li>Canvas LMS</li>
-</ul>
+<dl>
+    <dt><strong>CLOUD & SYSTEMS</strong></dt>
+    <dd>Azure</dd>
+    <dd>Google Workspace</dd>
+    <dd>Canvas LMS</dd>
 
-<h3>Web & Frameworks</h3>
-<ul>
-    <li>JavaScript</li>
-    <li>ReactJS</li>
-    <li>.NET</li>
-    <li>APEX</li>
-    <li>Lightning Web Components</li>
-    <li>Visualforce</li>
-</ul>
+    <dt><strong>WEB & FRAMEWORKS</strong></dt>
+    <dd>JavaScript</dd>
+    <dd>ReactJS</dd>
+    <dd>.NET</dd>
+    <dd>APEX</dd>
+    <dd>Lightning Web Components</dd>
+    <dd>Visualforce</dd>
 
-<h3>Databases</h3>
-<ul>
-    <li>MS SQL</li>
-    <li>SQL</li>
-</ul>
+    <dt><strong>DATABASES</strong></dt>
+    <dd>MS SQL</dd>
+    <dd>SQL</dd>
 
-<h3>DevOps & CI/CD</h3>
-<ul>
-    <li>Git</li>
-    <li>Docker</li>
-    <li>Azure DevOps</li>
-    <li>Travis CI</li>
-    <li>GitHub Actions</li>
-</ul>
+    <dt><strong>DEVOPS & CI/CD</strong></dt>
+    <dd>Git</dd>
+    <dd>Docker</dd>
+    <dd>Azure DevOps</dd>
+    <dd>Travis CI</dd>
+    <dd>GitHub Actions</dd>
+</dl>
 
 </td>
 <td valign="top">
 
-<h3>Enterprise Architecture</h3>
-<ul>
-    <li>TOGAF</li>
-    <li>ITIL</li>
-    <li>COBIT</li>
-</ul>
+<dl>
+    <dt><strong>ENTERPRISE ARCHITECTURE</strong></dt>
+    <dd>TOGAF</dd>
+    <dd>ITIL</dd>
+    <dd>COBIT</dd>
 
-<h3>Programming</h3>
-<ul>
-    <li>Java</li>
-    <li>C#</li>
-    <li>Python</li>
-</ul>
+    <dt><strong>PROGRAMMING</strong></dt>
+    <dd>Java</dd>
+    <dd>C#</dd>
+    <dd>Python</dd>
 
-<h3>CRM Systems & Integration</h3>
-<ul>
-    <li>Salesforce</li>
-    <ul>
-        <li>Frameworks: APEX, LWC, Visualforce</li>
-        <li>Integration: Marketo, AskNicely, FormAssembly, SMS Magic</li>
-    </ul>
-    <li>Talend</li>
-</ul>
+    <dt><strong>CRM SYSTEMS & INTEGRATION</strong></dt>
+    <dd>Salesforce</dd>
+    <dd style="padding-left:20px;">Frameworks: APEX, LWC, Visualforce</dd>
+    <dd style="padding-left:20px;">Integration: Marketo, AskNicely, FormAssembly, SMS Magic</dd>
+    <dd>Talend</dd>
 
-<h3>Business Solutions</h3>
-<ul>
-    <li>PowerApps</li>
-    <li>Power Automate</li>
-</ul>
+    <dt><strong>BUSINESS SOLUTIONS</strong></dt>
+    <dd>PowerApps</dd>
+    <dd>Power Automate</dd>
 
-<h3>CMS & Compliance</h3>
-<ul>
-    <li>WordPress</li>
-    <li>Wiki.js</li>
-    <li>Monsido (Web Accessibility)</li>
-</ul>
+    <dt><strong>CMS & COMPLIANCE</strong></dt>
+    <dd>WordPress</dd>
+    <dd>Wiki.js</dd>
+    <dd>Monsido (Web Accessibility)</dd>
+</dl>
 
 </td>
 </tr>
 </table>
-
 
 
 ## Experience
