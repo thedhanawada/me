@@ -62,62 +62,81 @@ Pondicherry, IN
 <tr>
 <td valign="top">
 
-### Cloud & Systems
-- Azure
-- Google Workspace
-- Canvas LMS
+<h3>Cloud & Systems</h3>
+<ul>
+    <li>Azure</li>
+    <li>Google Workspace</li>
+    <li>Canvas LMS</li>
+</ul>
 
-### Web & Frameworks
-- JavaScript
-- ReactJS
-- .NET
-- APEX
-- Lightning Web Components
-- Visualforce
+<h3>Web & Frameworks</h3>
+<ul>
+    <li>JavaScript</li>
+    <li>ReactJS</li>
+    <li>.NET</li>
+    <li>APEX</li>
+    <li>Lightning Web Components</li>
+    <li>Visualforce</li>
+</ul>
 
-### Databases
-- MS SQL
-- SQL
+<h3>Databases</h3>
+<ul>
+    <li>MS SQL</li>
+    <li>SQL</li>
+</ul>
 
-### DevOps & CI/CD
-- Git
-- Docker
-- Azure DevOps
-- Travis CI
-- GitHub Actions
+<h3>DevOps & CI/CD</h3>
+<ul>
+    <li>Git</li>
+    <li>Docker</li>
+    <li>Azure DevOps</li>
+    <li>Travis CI</li>
+    <li>GitHub Actions</li>
+</ul>
 
 </td>
 <td valign="top">
 
-### Enterprise Architecture
-- TOGAF
-- ITIL
-- COBIT
+<h3>Enterprise Architecture</h3>
+<ul>
+    <li>TOGAF</li>
+    <li>ITIL</li>
+    <li>COBIT</li>
+</ul>
 
-### Programming
-- Java
-- C#
-- Python
+<h3>Programming</h3>
+<ul>
+    <li>Java</li>
+    <li>C#</li>
+    <li>Python</li>
+</ul>
 
-### CRM Systems & Integration
-- Salesforce
-  - Frameworks: APEX, LWC, Visualforce
-  - Integration: Marketo, AskNicely, FormAssembly, SMS Magic
-- Talend
+<h3>CRM Systems & Integration</h3>
+<ul>
+    <li>Salesforce</li>
+    <ul>
+        <li>Frameworks: APEX, LWC, Visualforce</li>
+        <li>Integration: Marketo, AskNicely, FormAssembly, SMS Magic</li>
+    </ul>
+    <li>Talend</li>
+</ul>
 
-### Business Solutions
-- PowerApps
-- Power Automate
+<h3>Business Solutions</h3>
+<ul>
+    <li>PowerApps</li>
+    <li>Power Automate</li>
+</ul>
 
-### CMS & Compliance
-- WordPress
-- Wiki.js
-- Monsido (Web Accessibility)
+<h3>CMS & Compliance</h3>
+<ul>
+    <li>WordPress</li>
+    <li>Wiki.js</li>
+    <li>Monsido (Web Accessibility)</li>
+</ul>
 
 </td>
 </tr>
 </table>
-
 
 
 
