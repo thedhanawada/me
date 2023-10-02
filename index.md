@@ -58,69 +58,74 @@ Pondicherry, IN
 
 ## Technical Competencies
 
-<table width="100%">
-<tr>
-<td valign="top" style="padding-right: 40px;">
+---
 
-<dl>
-    <dt><strong>CLOUD & SYSTEMS</strong></dt>
-    <dd>Azure</dd>
-    <dd>Google Workspace</dd>
-    <dd>Canvas LMS</dd>
+**Cloud & Systems**  
+- Azure
+- Google Workspace
+- Canvas LMS
 
-    <dt><strong>WEB & FRAMEWORKS</strong></dt>
-    <dd>JavaScript</dd>
-    <dd>ReactJS</dd>
-    <dd>.NET</dd>
-    <dd>APEX</dd>
-    <dd>Lightning Web Components</dd>
-    <dd>Visualforce</dd>
+---
 
-    <dt><strong>DATABASES</strong></dt>
-    <dd>MS SQL</dd>
-    <dd>SQL</dd>
+**Web & Frameworks**  
+- JavaScript
+- ReactJS
+- .NET
+- APEX
+- Lightning Web Components
+- Visualforce
 
-    <dt><strong>DEVOPS & CI/CD</strong></dt>
-    <dd>Git</dd>
-    <dd>Docker</dd>
-    <dd>Azure DevOps</dd>
-    <dd>Travis CI</dd>
-    <dd>GitHub Actions</dd>
-</dl>
+---
 
-</td>
-<td valign="top">
+**Databases**  
+- MS SQL
+- SQL
 
-<dl>
-    <dt><strong>ENTERPRISE ARCHITECTURE</strong></dt>
-    <dd>TOGAF</dd>
-    <dd>ITIL</dd>
-    <dd>COBIT</dd>
+---
 
-    <dt><strong>PROGRAMMING</strong></dt>
-    <dd>Java</dd>
-    <dd>C#</dd>
-    <dd>Python</dd>
+**DevOps & CI/CD**  
+- Git
+- Docker
+- Azure DevOps
+- Travis CI
+- GitHub Actions
 
-    <dt><strong>CRM SYSTEMS & INTEGRATION</strong></dt>
-    <dd>Salesforce</dd>
-    <dd style="padding-left:20px;">Frameworks: APEX, LWC, Visualforce</dd>
-    <dd style="padding-left:20px;">Integration: Marketo, AskNicely, FormAssembly, SMS Magic</dd>
-    <dd>Talend</dd>
+---
 
-    <dt><strong>BUSINESS SOLUTIONS</strong></dt>
-    <dd>PowerApps</dd>
-    <dd>Power Automate</dd>
+**Enterprise Architecture**  
+- TOGAF
+- ITIL
+- COBIT
 
-    <dt><strong>CMS & COMPLIANCE</strong></dt>
-    <dd>WordPress</dd>
-    <dd>Wiki.js</dd>
-    <dd>Monsido (Web Accessibility)</dd>
-</dl>
+---
 
-</td>
-</tr>
-</table>
+**Programming**  
+- Java
+- C#
+- Python
+
+---
+
+**CRM Systems & Integration**  
+- Salesforce
+    - Frameworks: APEX, LWC, Visualforce
+    - Integration: Marketo, AskNicely, FormAssembly, SMS Magic
+- Talend
+
+---
+
+**Business Solutions**  
+- PowerApps
+- Power Automate
+
+---
+
+**CMS & Compliance**  
+- WordPress
+- Wiki.js
+- Monsido (Web Accessibility)
+
+---
 
 
 ## Experience
