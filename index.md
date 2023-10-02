@@ -58,23 +58,25 @@ Pondicherry, IN
 
 ## Technical Competencies
 
-- **Enterprise Architecture:** TOGAF, ITIL, COBIT
-- **CRM Systems:** 
-  - Salesforce:
-    - Frameworks: APEX, Lightning, Visualforce
-    - Integration: Marketo, AskNicely, FormAssembly, SMS Magic (SMS Converse)
-    - Campaigns: Email (via Marketo), Customer surveys (via AskNicely), Data Collection (via FormAssembly)
-- **Data Management & Integration:** Talend, Salesforce/Marketo/AskNicely/FormAssembly integration
 - **Cloud & IT Management:** Azure, Google Workspace
-- **Business Solution Architecture:** 
-  - PowerApps: Custom business application development and deployment
-  - Power Automate: Business process automation and workflow optimization
-- **Web Technologies:** JavaScript, .NET, SQL
+- **Enterprise Architecture:** TOGAF, ITIL, COBIT
+- **Web Technologies:** JavaScript, ReactJS
+- **Frameworks & Platforms:** .NET
+- **Database Management:** MS SQL, SQL
 - **Programming:** Java, C#, Python
 - **Version Control:** Git
 - **CI/CD:** Azure DevOps, Travis CI, GitHub Actions
 - **Containerization:** Docker
-- **CMS:** WordPress, Wiki.js
+- **CRM Systems:** 
+  - Salesforce:
+    - Frameworks: APEX, Lightning Web Components, Visualforce
+    - Integration: Marketo, AskNicely, FormAssembly, SMS Magic (SMS Converse)
+    - Campaigns: Email (via Marketo), Customer surveys (via AskNicely), Data Collection (via FormAssembly)
+- **Data Management & Integration:** Talend, Various CRM integrations
+- **Business Solution Architecture:** 
+  - PowerApps: Custom business application development and deployment
+  - Power Automate: Business process automation and workflow optimization
+- **CMS & LMS:** WordPress, Wiki.js, Canvas LMS
 - **Compliance:** Monsido (Web Accessibility)
 
 ## Experience
