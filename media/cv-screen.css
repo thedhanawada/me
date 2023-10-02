@@ -240,3 +240,18 @@ hr {
   visibility: hidden;
   height: 0mm;
 }
+
+/* Adjustments for table content */
+table td h3, table td h4, table td h5 {
+    margin-top: 1em;
+    margin-bottom: 0.5em;
+}
+
+table td ul, table td ol {
+    padding-left: 1.5em;
+}
+
+table td li {
+    margin-bottom: 0.5em;
+}
+
