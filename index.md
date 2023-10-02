@@ -58,8 +58,9 @@ Pondicherry, IN
 
 ## Technical Competencies
 
-<div class="row">
-<div class="col-md-6">
+<table>
+<tr>
+<td valign="top">
 
 ### Cloud & Systems
 - Azure
@@ -85,8 +86,8 @@ Pondicherry, IN
 - Travis CI
 - GitHub Actions
 
-</div>
-<div class="col-md-6">
+</td>
+<td valign="top">
 
 ### Enterprise Architecture
 - TOGAF
@@ -113,8 +114,10 @@ Pondicherry, IN
 - Wiki.js
 - Monsido (Web Accessibility)
 
-</div>
-</div>
+</td>
+</tr>
+</table>
+
 
 
 
