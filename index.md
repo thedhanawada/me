@@ -78,7 +78,7 @@ Pondicherry, IN
 - **Compliance:** Monsido (Web Accessibility)
 
 ## Experience
-### <sub>_IT Solutions Analyst_ at </sub>**[MTC Australia](https://mtcaustralia.com.au/){:target="_blank"}** `2022.02 - Present`
+### <sub>_Senior IT Solutions Analyst_ at </sub>**[MTC Australia](https://mtcaustralia.com.au/){:target="_blank"}** `2022.02 - Present`
 ```
 Sydney, NSW
 ```
