@@ -47,7 +47,7 @@ Melbourne, AU
 - Graduate Study (Master Program), [Information Technology](https://handbook.unimelb.edu.au/2021/courses/mc-it) ([Computing](https://handbook.unimelb.edu.au/2021/components/mc-it-spec-1){:target="_blank"})
 - Software Project Management, Enterprise Architecture, ICT Infrastructure, Digital Ethics and Technology Equity & Management
 
-### **[Pondicherry University](https://www.pondiuni.edu.in/){:target="_blank"}** `2011.08 - 2015.05`
+### **[Sri Manakula Vinayagar Engineering College](https://smvec.ac.in/){:target="_blank"}, [Pondicherry University](https://www.pondiuni.edu.in/){:target="_blank"}** `2011.08 - 2015.05`
 
 ```
 Pondicherry, IN
