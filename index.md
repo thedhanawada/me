@@ -2,8 +2,8 @@
 layout: cv
 title: About Nirmal
 email:
-  url: mailto:wep.proto@gmail.com
-  text: wep.proto@gmail.com
+  url: mailto:nirmal@dhanawada.org
+  text: nirmal@dhanawada.org
 homepage:
   url: https://en.wikipedia.org/wiki/Sydney
   text: Sydney, NSW
