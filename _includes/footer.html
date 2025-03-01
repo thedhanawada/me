@@ -7,7 +7,7 @@
             hosted on <a href="https://thedhanawada.github.io/me" target="_blank">GitHub Pages</a>
         </p>
         <p class="last-modified">
-            Last updated: {% last_modified_at %B %Y %} • 
+            Last updated: {% if page.last_modified_at %}{{ page.last_modified_at | date: '%B %Y' }}{% else %}{{ 'now' | date: '%B %Y' }}{% endif %} • 
             <a href="/disclaimer">Disclaimer</a>
         </p>
     </div>

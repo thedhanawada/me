@@ -1,3 +1,7 @@
 markdown: kramdown
 plugins:
   - jekyll-last-modified-at
+  - jekyll-seo-tag
+  - jekyll-github-metadata
+whitelist:
+  - jekyll-last-modified-at
