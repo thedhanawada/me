@@ -193,6 +193,26 @@ h1 strong {
   line-height: 1em;
 }
 
+#contact-info {
+  font-family: "Helvetica", sans-serif;
+  margin-top: -1.5em;
+  margin-bottom: 3em;
+}
+
+#contact-info a {
+  color: #333;
+  text-decoration: none;
+}
+
+#contact-info a:hover {
+  color: #000;
+  text-decoration: underline;
+}
+
+#contact-info i {
+  color: #333;
+}
+
 /* Section headers */
 h2 {
   font-family: "Avenir Next", sans-serif;
