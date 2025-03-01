@@ -213,6 +213,47 @@ h1 strong {
   color: #333;
 }
 
+.skills-container {
+  margin: 2em 0;
+}
+
+.skills-container h3 {
+  font-family: "Avenir Next", sans-serif;
+  font-size: 1.2em;
+  color: #2c3e50;
+  margin-top: 1.5em;
+  margin-bottom: 0.8em;
+}
+
+.skills-container code {
+  display: inline-block;
+  padding: 0.2em 0.6em;
+  margin: 0.1em 0.2em;
+  background: #f8f9fa;
+  border: 1px solid #e9ecef;
+  border-radius: 3px;
+  font-family: "SF Mono", "Consolas", monospace;
+  font-size: 0.9em;
+  color: #495057;
+  transition: all 0.2s ease;
+}
+
+.skills-container code:hover {
+  background: #e9ecef;
+  border-color: #dee2e6;
+  transform: translateY(-1px);
+}
+
+.skills-container ul {
+  margin-left: 1.5em;
+  list-style-type: none;
+}
+
+.skills-container ul li {
+  margin: 0.5em 0;
+  line-height: 1.6;
+}
+
 /* Section headers */
 h2 {
   font-family: "Avenir Next", sans-serif;

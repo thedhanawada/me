@@ -59,24 +59,34 @@ Pondicherry, IN
 
 ## Technical Competencies
 
-- **Enterprise Architecture:** TOGAF, ITIL, COBIT
-- **CRM Systems:** 
-  - Salesforce:
-    - Frameworks: APEX, Lightning, Visualforce
-    - Integration: Marketo, AskNicely, FormAssembly, SMS Magic (SMS Converse)
-    - Campaigns: Email (via Marketo), Customer surveys (via AskNicely), Data Collection (via FormAssembly)
-- **Data Management & Integration:** Talend, Salesforce/Marketo/AskNicely/FormAssembly integration
-- **Cloud & IT Management:** Azure, Google Workspace
-- **Business Solution Architecture:** 
-  - PowerApps: Custom business application development and deployment
-  - Power Automate: Business process automation and workflow optimization
-- **Web Technologies:** JavaScript, .NET, SQL
-- **Programming:** Java, C#, Python
-- **Version Control:** Git
-- **CI/CD:** Azure DevOps, Travis CI, GitHub Actions
-- **Containerization:** Docker
-- **CMS:** WordPress, Wiki.js
-- **Compliance:** Monsido (Web Accessibility)
+<div class="skills-container">
+
+### 🏛 Enterprise & Architecture
+- **Enterprise Frameworks:** `TOGAF` `ITIL` `COBIT`
+- **Cloud Platforms:** `Azure` `Google Workspace`
+- **Solution Design:** `PowerApps` `Power Automate`
+
+### 💼 CRM & Business Systems
+- **Salesforce Ecosystem:**
+  - **Core:** `APEX` `Lightning` `Visualforce`
+  - **Integrations:** `Marketo` `AskNicely` `FormAssembly` `SMS Magic`
+  - **Campaign Tools:** `Email Marketing` `Customer Surveys` `Data Collection`
+
+### 💻 Development & DevOps
+- **Languages:** `Java` `C#` `Python` `JavaScript` `.NET` `SQL`
+- **Version Control:** `Git` `GitHub`
+- **CI/CD:** `Azure DevOps` `Travis CI` `GitHub Actions`
+- **Containers:** `Docker`
+
+### 🔄 Data & Integration
+- **ETL Tools:** `Talend`
+- **Integration Platforms:** `Salesforce` `Marketo` `AskNicely` `FormAssembly`
+
+### 🌐 Web & CMS
+- **Content Management:** `WordPress` `Wiki.js`
+- **Compliance:** `Monsido` `Web Accessibility`
+
+</div>
 
 ## Experience
 ### <sub>_Senior IT Solutions Analyst_ at </sub>**[MTC Australia](https://mtcaustralia.com.au/){:target="_blank"}** `2022.02 - Present`
