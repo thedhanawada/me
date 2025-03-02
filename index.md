@@ -32,15 +32,18 @@ phone:
 
 # Nirmala Rao Dhanawada
 
-<!--## Career Summary
+## Summary 
 
-With a career spanning six years in the Information Technology sector, my specialization focuses on the development of software solutions and the provision of technology management services to organizations. As an active member of the open-source community, I am deeply committed to giving back and have dedicated a significant portion of my career to supporting and collaborating with various open-source initiatives. As a technology enthusiast, my efforts are oriented towards the seamless integration of systems in order to optimize efficiency and achieve strategic business objectives. I have collaborated with diverse teams and technical stakeholders to successfully execute projects for a variety of organizations, including non-profit entities. Motivated by a deep-rooted commitment to community service, I am resolute in my pursuit of utilizing my technical expertise to drive meaningful and positive impact.-->
+MTC Australia empowers over 20,000 vulnerable individuals each year, providing them with the skills, confidence, and opportunities to transform their lives through vocational education and employment services. I play a crucial role in this mission by architecting and delivering the technology solutions that underpin these vital services.
 
+ 
+
+My current focus is building a robust and scalable Salesforce ecosystem that streamlines our service delivery. I'm passionate about creating solutions that are not only efficient but also user-friendly and accessible for everyone we serve. This involves collaborating closely with stakeholders to understand their needs, designing intuitive interfaces, and ensuring seamless integration with other essential systems. I'm equally committed to empowering our internal teams with the tools and workflows they need to maximize their impact. By optimizing our technology infrastructure, I aim to help MTC Australia extend its reach and create even more life-changing opportunities for the individuals we support
 ## Education
 ### **[University of Melbourne](https://www.unimelb.edu.au/){:target="_blank"}** `2020.2 - 2021.12`
 
 ```
-Melbourne, AU
+Melbourne
 ```
 - <i class="fas fa-award"></i> [Distinction](https://policy.unimelb.edu.au/MPF1327){:target="_blank"} Awardee, [2021 Dean's Honours List](https://eng.unimelb.edu.au/students/coursework/progress-your-career/sap/deans-honours-award#2021){:target="_blank"}.
 - <i class="fas fa-award"></i> Recipient of [Melbourne School of Engineering Scholarship, 2020](https://scholarships.unimelb.edu.au/awards/melbourne-school-of-engineering-foundation-scholarship){:target="_blank"}
@@ -51,7 +54,7 @@ Melbourne, AU
 ### **[Sri Manakula Vinayagar Engineering College](https://smvec.ac.in/){:target="_blank"}, [Pondicherry University](https://www.pondiuni.edu.in/){:target="_blank"}** `2011.08 - 2015.05`
 
 ```
-Pondicherry, IN
+Pondicherry
 ```
 
 - Undergraduate Study (Bachelor Program), Computer Science and Engineering
@@ -59,24 +62,32 @@ Pondicherry, IN
 
 ## Technical Competencies
 
-- **Enterprise Architecture:** TOGAF, ITIL, COBIT
-- **CRM Systems:** 
-  - Salesforce:
-    - Frameworks: APEX, Lightning, Visualforce
-    - Integration: Marketo, AskNicely, FormAssembly, SMS Magic (SMS Converse)
-    - Campaigns: Email (via Marketo), Customer surveys (via AskNicely), Data Collection (via FormAssembly)
-- **Data Management & Integration:** Talend, Salesforce/Marketo/AskNicely/FormAssembly integration
-- **Cloud & IT Management:** Azure, Google Workspace
-- **Business Solution Architecture:** 
-  - PowerApps: Custom business application development and deployment
-  - Power Automate: Business process automation and workflow optimization
-- **Web Technologies:** JavaScript, .NET, SQL
-- **Programming:** Java, C#, Python
-- **Version Control:** Git
-- **CI/CD:** Azure DevOps, Travis CI, GitHub Actions
-- **Containerization:** Docker
-- **CMS:** WordPress, Wiki.js
-- **Compliance:** Monsido (Web Accessibility)
+
+### **Core Expertise - Salesforce Ecosystem**
+
+
+- **Solution Architecture:** 
+  -  Extensive experience architecting and implementing end-to-end Salesforce solutions, including complex integrations, data migrations, and custom development.
+  - Proven ability to analyze business needs and translate them into scalable, secure, and high-performing technical solutions that optimize user experiences and data flows.
+  - Adept at leveraging managed packages and customizing them to meet unique organizational requirements.
+  - Skilled in extending Salesforce functionality through custom third-party applications and integrations with external platforms like WordPress, ensuring seamless data synchronization and user experiences.
+  - Expertise in utilizing Lightning Out to create engaging user interfaces and forms that interact with Salesforce data on external platforms.- 
+- **Development:** Apex, Lightning Web Components, Visualforce
+- **Configuration:** Security, Workflows, Process Builder
+- **Integrations:** Connecting Salesforce with external systems like Marketo, AskNicely, FormAssembly, SMS Magic (SMS Converse) using APIs and middleware.
+- **Data Management:**
+  - ETL processes with Talend to load data into Salesforce.
+  - Extracting data from Salesforce to MS SQL for Business Intelligence purposes.
+
+### **Broad Technical Expertise**
+
+* Cloud & Infrastructure: AWS (Lambda), Azure, Google Workspace, Docker, Heroku
+* Development & APIs: Node.js, JavaScript, .NET, C#, Python, Power Apps, Power Automate
+* Databases & ETL: MS SQL, Talend, Salesforce Connect
+* Web Technologies: JavaScript, .NET, SQL, WordPress, Wiki.js
+* Enterprise Architecture: TOGAF, ITIL, COBIT 
+* DevOps: Git, Azure DevOps, GitHub Actions, Salesforce DevOps
+* Compliance: Monsido (Web Accessibility)
 
 ## Experience
 ### <sub>_Senior IT Solutions Analyst_ at </sub>**[MTC Australia](https://mtcaustralia.com.au/){:target="_blank"}** `2022.02 - Present`
