@@ -132,7 +132,7 @@ Chennai, IN
 
 ## Volunteering
 
-### <sub>_Director of IT, Marketing and Communications_ at </sub> **[Teaching for Impact](https://www.teachingforimpact.org/){:target="_blank"}** `Currenty Serving`
+### <sub>_Head of Technology Development_ at </sub> **[Teaching for Impact](https://teachingforimpact.org/){:target="_blank"}** `2021.02 - 2024.04`
 ```
 Melbourne, AU
 ```
@@ -143,7 +143,6 @@ Melbourne, AU
 - **Website Management**: Created and maintained the organization's website, resulting in increased engagement at events.
 - **Advertising & Marketing**: Managed a 120k AUD advertisement budget through Google Ads, and devised marketing strategies to enhance brand awareness.
 - **Volunteer Coordination**: Motivated and directed over 30 volunteers to achieve the organization's goals and strategies.
-
 
 ### <sub>_Store Coordinator_ at </sub>**[Australian Red Cross](https://www.redcross.org.au/){:target="_blank"}** `2021.01 - 2022.05`
 ```
@@ -162,24 +161,24 @@ Article No.: 56,ages 1–5
 J. Amudhavel, D. Sathian, R. S. Raghav, **Nirmala Rao Dhanawada**, P. Dhavachelvan, and K. Prem Kumar<br>
 _ICARCSET '15: Proceedings of the 2015 International Conference on Advanced Research in Computer Science Engineering & Technology (ICARCSET 2015)_
 
-## Projects
+## Featured Personal Projects
 
-### <sub>_Independent Developer_ at </sub>[**SpinOnSubmitJS**](https://spinonsubmit.js.org/){:target="_blank"} Project`Ongoing Project`
-A compact JavaScript library that enhances your form submit buttons with a visual loading spinner, providing immediate and intuitive feedback to users upon submission
+### [**StandUp+**](https://github.com/thedhanawada/standupplus){:target="_blank"} ([Live Demo](https://standupplus.dhanawada.org/){:target="_blank"}) `Active`
+An open-source tool for effortless tracking and real results. StandUp+ helps teams streamline their daily standups and track progress effectively.
 
-### <sub> _Head of Technology Development_ at </sub>[**JMO Companion**](https://teachingforimpact.org/jmo-companion/){:target="_blank"}`Ongoing Project`
-Dr. Winston	Dzau, **Nirmala Rao Dhanawada** and Dr. Victor Lin  at Teaching for Impact<br>
-The JMO Companion App is a practical and accessible resource designed to address the challenges faced by junior doctors (JMOs) working in busy inpatient settings. Our app provides JMOs with optimized resources that are tailored to their needs, with a focus on pragmatic solutions that can be easily accessed and navigated
+**Technologies:** React, TypeScript, Node.js, MongoDB
 
-### **Resident Profiles**`June 2020`
-Sewwandi Perera, **Nirmala Rao Dhanawada** and Daniel Gray at University of Melbourne<br>
-_In Collaboration with the School of Design and Architecture, Swinburne University of Technology_
+### [**SpinOnSubmitJS**](https://github.com/thedhanawada/SpinOnSubmitJS){:target="_blank"} ([NPM](https://www.npmjs.com/package/spinonsubmitjs){:target="_blank"}) `Active`
+A compact JavaScript library that enhances form submit buttons with a visual loading spinner, providing immediate and intuitive feedback to users upon submission.
 
-### <sub>_Independent Developer_ at </sub>[**LiveValidateJS**](https://github.com/Formu8JS/LiveValidateJS){:target="_blank"} Project`Ongoing Project`
-LiveValidateJS is a lightweight open-source JavaScript library that provides real-time form validation and input checking for HTML forms. With LiveValidateJS, you can easily create custom validation rules for each input field and receive instant feedback on the input's validity as the user types
+**Technologies:** JavaScript, CSS, DOM API
 
-## Organizations
+### [**LiveValidateJS**](https://github.com/thedhanawada/LiveValidateJS){:target="_blank"} ([NPM](https://www.npmjs.com/package/livevalidatejs){:target="_blank"}) `Active`
+A lightweight JavaScript library that provides real-time form validation and input checking for HTML forms. Create custom validation rules for each input field and receive instant feedback as users type.
 
-### <sub>_Associate Membership_ at </sub>**[Australian Computer Society](https://www.acs.org.au/){:target="_blank"}** `2022.06 - Present`
-### <sub>_Member_ at </sub>**[University of Melbourne Student Union](https://umsu.unimelb.edu.au/){:target="_blank"}** `2020.03-2021.12`
-### <sub>_Member, Candidate for GSA Board Membership_ at </sub>**[Graduate Student Association, The University of Melbourne](https://gsa.unimelb.edu.au/){:target="_blank"}** `2020.03-2021.12`
+**Technologies:** JavaScript, Form Validation, DOM API
+
+### [**Timeless Veil**](https://github.com/thedhanawada/timeless-veil){:target="_blank"} ([Firefox Add-on](https://addons.mozilla.org/en-US/firefox/addon/timeless-veil/){:target="_blank"}) `Completed`
+A minimalist Firefox theme with an elegant color palette. Sometimes the simplest things catch on - this theme brings a touch of sophistication to your browsing experience.
+
+**Technologies:** Firefox Theme, Design, CSS
