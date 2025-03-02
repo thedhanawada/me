@@ -32,15 +32,18 @@ phone:
 
 # Nirmala Rao Dhanawada
 
-<!--## Career Summary
+## Summary 
 
-With a career spanning six years in the Information Technology sector, my specialization focuses on the development of software solutions and the provision of technology management services to organizations. As an active member of the open-source community, I am deeply committed to giving back and have dedicated a significant portion of my career to supporting and collaborating with various open-source initiatives. As a technology enthusiast, my efforts are oriented towards the seamless integration of systems in order to optimize efficiency and achieve strategic business objectives. I have collaborated with diverse teams and technical stakeholders to successfully execute projects for a variety of organizations, including non-profit entities. Motivated by a deep-rooted commitment to community service, I am resolute in my pursuit of utilizing my technical expertise to drive meaningful and positive impact.-->
+MTC Australia empowers over 20,000 vulnerable individuals each year, providing them with the skills, confidence, and opportunities to transform their lives through vocational education and employment services. I play a crucial role in this mission by architecting and delivering the technology solutions that underpin these vital services.
 
+ 
+
+My current focus is building a robust and scalable Salesforce ecosystem that streamlines our service delivery. I'm passionate about creating solutions that are not only efficient but also user-friendly and accessible for everyone we serve. This involves collaborating closely with stakeholders to understand their needs, designing intuitive interfaces, and ensuring seamless integration with other essential systems. I'm equally committed to empowering our internal teams with the tools and workflows they need to maximize their impact. By optimizing our technology infrastructure, I aim to help MTC Australia extend its reach and create even more life-changing opportunities for the individuals we support
 ## Education
 ### **[University of Melbourne](https://www.unimelb.edu.au/){:target="_blank"}** `2020.2 - 2021.12`
 
 ```
-Melbourne, AU
+Melbourne
 ```
 - <i class="fas fa-award"></i> [Distinction](https://policy.unimelb.edu.au/MPF1327){:target="_blank"} Awardee, [2021 Dean's Honours List](https://eng.unimelb.edu.au/students/coursework/progress-your-career/sap/deans-honours-award#2021){:target="_blank"}.
 - <i class="fas fa-award"></i> Recipient of [Melbourne School of Engineering Scholarship, 2020](https://scholarships.unimelb.edu.au/awards/melbourne-school-of-engineering-foundation-scholarship){:target="_blank"}
@@ -51,7 +54,7 @@ Melbourne, AU
 ### **[Sri Manakula Vinayagar Engineering College](https://smvec.ac.in/){:target="_blank"}, [Pondicherry University](https://www.pondiuni.edu.in/){:target="_blank"}** `2011.08 - 2015.05`
 
 ```
-Pondicherry, IN
+Pondicherry
 ```
 
 - Undergraduate Study (Bachelor Program), Computer Science and Engineering
@@ -59,24 +62,32 @@ Pondicherry, IN
 
 ## Technical Competencies
 
-- **Enterprise Architecture:** TOGAF, ITIL, COBIT
-- **CRM Systems:** 
-  - Salesforce:
-    - Frameworks: APEX, Lightning, Visualforce
-    - Integration: Marketo, AskNicely, FormAssembly, SMS Magic (SMS Converse)
-    - Campaigns: Email (via Marketo), Customer surveys (via AskNicely), Data Collection (via FormAssembly)
-- **Data Management & Integration:** Talend, Salesforce/Marketo/AskNicely/FormAssembly integration
-- **Cloud & IT Management:** Azure, Google Workspace
-- **Business Solution Architecture:** 
-  - PowerApps: Custom business application development and deployment
-  - Power Automate: Business process automation and workflow optimization
-- **Web Technologies:** JavaScript, .NET, SQL
-- **Programming:** Java, C#, Python
-- **Version Control:** Git
-- **CI/CD:** Azure DevOps, Travis CI, GitHub Actions
-- **Containerization:** Docker
-- **CMS:** WordPress, Wiki.js
-- **Compliance:** Monsido (Web Accessibility)
+
+### **Core Expertise - Salesforce Ecosystem**
+
+
+- **Solution Architecture:** 
+  -  Extensive experience architecting and implementing end-to-end Salesforce solutions, including complex integrations, data migrations, and custom development.
+  - Proven ability to analyze business needs and translate them into scalable, secure, and high-performing technical solutions that optimize user experiences and data flows.
+  - Adept at leveraging managed packages and customizing them to meet unique organizational requirements.
+  - Skilled in extending Salesforce functionality through custom third-party applications and integrations with external platforms like WordPress, ensuring seamless data synchronization and user experiences.
+  - Expertise in utilizing Lightning Out to create engaging user interfaces and forms that interact with Salesforce data on external platforms.- 
+- **Development:** Apex, Lightning Web Components, Visualforce
+- **Configuration:** Security, Workflows, Process Builder
+- **Integrations:** Connecting Salesforce with external systems like Marketo, AskNicely, FormAssembly, SMS Magic (SMS Converse) using APIs and middleware.
+- **Data Management:**
+  - ETL processes with Talend to load data into Salesforce.
+  - Extracting data from Salesforce to MS SQL for Business Intelligence purposes.
+
+### **Broad Technical Expertise**
+
+* Cloud & Infrastructure: AWS (Lambda), Azure, Google Workspace, Docker, Heroku
+* Development & APIs: Node.js, JavaScript, .NET, C#, Python, Power Apps, Power Automate
+* Databases & ETL: MS SQL, Talend, Salesforce Connect
+* Web Technologies: JavaScript, .NET, SQL, WordPress, Wiki.js
+* Enterprise Architecture: TOGAF, ITIL, COBIT 
+* DevOps: Git, Azure DevOps, GitHub Actions, Salesforce DevOps
+* Compliance: Monsido (Web Accessibility)
 
 ## Experience
 ### <sub>_Senior IT Solutions Analyst_ at </sub>**[MTC Australia](https://mtcaustralia.com.au/){:target="_blank"}** `2022.02 - Present`
@@ -121,7 +132,7 @@ Chennai, IN
 
 ## Volunteering
 
-### <sub>_Director of IT, Marketing and Communications_ at </sub> **[Teaching for Impact](https://www.teachingforimpact.org/){:target="_blank"}** `Currenty Serving`
+### <sub>_Head of Technology Development_ at </sub> **[Teaching for Impact](https://teachingforimpact.org/){:target="_blank"}** `2021.02 - 2024.04`
 ```
 Melbourne, AU
 ```
@@ -132,7 +143,6 @@ Melbourne, AU
 - **Website Management**: Created and maintained the organization's website, resulting in increased engagement at events.
 - **Advertising & Marketing**: Managed a 120k AUD advertisement budget through Google Ads, and devised marketing strategies to enhance brand awareness.
 - **Volunteer Coordination**: Motivated and directed over 30 volunteers to achieve the organization's goals and strategies.
-
 
 ### <sub>_Store Coordinator_ at </sub>**[Australian Red Cross](https://www.redcross.org.au/){:target="_blank"}** `2021.01 - 2022.05`
 ```
@@ -151,24 +161,24 @@ Article No.: 56,ages 1–5
 J. Amudhavel, D. Sathian, R. S. Raghav, **Nirmala Rao Dhanawada**, P. Dhavachelvan, and K. Prem Kumar<br>
 _ICARCSET '15: Proceedings of the 2015 International Conference on Advanced Research in Computer Science Engineering & Technology (ICARCSET 2015)_
 
-## Projects
+## Featured Personal Projects
 
-### <sub>_Independent Developer_ at </sub>[**SpinOnSubmitJS**](https://spinonsubmit.js.org/){:target="_blank"} Project`Ongoing Project`
-A compact JavaScript library that enhances your form submit buttons with a visual loading spinner, providing immediate and intuitive feedback to users upon submission
+### [**StandUp+**](https://github.com/thedhanawada/standupplus){:target="_blank"} ([Live Demo](https://standupplus.dhanawada.org/){:target="_blank"}) `Active`
+An open-source tool for effortless tracking and real results. StandUp+ helps teams streamline their daily standups and track progress effectively.
 
-### <sub> _Head of Technology Development_ at </sub>[**JMO Companion**](https://teachingforimpact.org/jmo-companion/){:target="_blank"}`Ongoing Project`
-Dr. Winston	Dzau, **Nirmala Rao Dhanawada** and Dr. Victor Lin  at Teaching for Impact<br>
-The JMO Companion App is a practical and accessible resource designed to address the challenges faced by junior doctors (JMOs) working in busy inpatient settings. Our app provides JMOs with optimized resources that are tailored to their needs, with a focus on pragmatic solutions that can be easily accessed and navigated
+**Technologies:** React, TypeScript, Node.js, MongoDB
 
-### **Resident Profiles**`June 2020`
-Sewwandi Perera, **Nirmala Rao Dhanawada** and Daniel Gray at University of Melbourne<br>
-_In Collaboration with the School of Design and Architecture, Swinburne University of Technology_
+### [**SpinOnSubmitJS**](https://github.com/thedhanawada/SpinOnSubmitJS){:target="_blank"} ([NPM](https://www.npmjs.com/package/spinonsubmitjs){:target="_blank"}) `Active`
+A compact JavaScript library that enhances form submit buttons with a visual loading spinner, providing immediate and intuitive feedback to users upon submission.
 
-### <sub>_Independent Developer_ at </sub>[**LiveValidateJS**](https://github.com/Formu8JS/LiveValidateJS){:target="_blank"} Project`Ongoing Project`
-LiveValidateJS is a lightweight open-source JavaScript library that provides real-time form validation and input checking for HTML forms. With LiveValidateJS, you can easily create custom validation rules for each input field and receive instant feedback on the input's validity as the user types
+**Technologies:** JavaScript, CSS, DOM API
 
-## Organizations
+### [**LiveValidateJS**](https://github.com/thedhanawada/LiveValidateJS){:target="_blank"} ([NPM](https://www.npmjs.com/package/livevalidatejs){:target="_blank"}) `Active`
+A lightweight JavaScript library that provides real-time form validation and input checking for HTML forms. Create custom validation rules for each input field and receive instant feedback as users type.
 
-### <sub>_Associate Membership_ at </sub>**[Australian Computer Society](https://www.acs.org.au/){:target="_blank"}** `2022.06 - Present`
-### <sub>_Member_ at </sub>**[University of Melbourne Student Union](https://umsu.unimelb.edu.au/){:target="_blank"}** `2020.03-2021.12`
-### <sub>_Member, Candidate for GSA Board Membership_ at </sub>**[Graduate Student Association, The University of Melbourne](https://gsa.unimelb.edu.au/){:target="_blank"}** `2020.03-2021.12`
+**Technologies:** JavaScript, Form Validation, DOM API
+
+### [**Timeless Veil**](https://github.com/thedhanawada/timeless-veil){:target="_blank"} ([Firefox Add-on](https://addons.mozilla.org/en-US/firefox/addon/timeless-veil/){:target="_blank"}) `Completed`
+A minimalist Firefox theme with an elegant color palette. Sometimes the simplest things catch on - this theme brings a touch of sophistication to your browsing experience.
+
+**Technologies:** Firefox Theme, Design, CSS

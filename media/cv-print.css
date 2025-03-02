@@ -156,8 +156,7 @@ em {
 h1 {
   font-family: "Avenir Next", sans-serif;
   text-align: center;
-  /* font-size: 50pt; */
-  font-size: 400%;
+  font-size: 250%;
   font-weight: lighter;
   position: relative;
   line-height: 1.2em;
@@ -260,4 +259,27 @@ tr:nth-child(even) {
 th {
     background-color: #4CAF50;
     color: white;
+}
+
+/* Print Styles */
+@page {
+  margin: 0;
+  size: auto;
+  marks: none;
+}
+
+@page :footer {
+  display: none;
+}
+
+@page :first {
+  margin-top: 0;
+}
+
+header {
+  display: none;
+}
+
+p {
+  font-size: 90%;
 }
