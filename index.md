@@ -51,6 +51,7 @@ Melbourne
 - Graduate Study (Master Program), [Information Technology](https://handbook.unimelb.edu.au/2021/courses/mc-it) ([Computing](https://handbook.unimelb.edu.au/2021/components/mc-it-spec-1){:target="_blank"})
 - Software Project Management, Enterprise Architecture, ICT Infrastructure, Digital Ethics and Technology Equity & Management
 
+
 ### **[Sri Manakula Vinayagar Engineering College](https://smvec.ac.in/){:target="_blank"}, [Pondicherry University](https://www.pondiuni.edu.in/){:target="_blank"}** `2011.08 - 2015.05`
 
 ```
@@ -94,13 +95,15 @@ Pondicherry
 ```
 Sydney, NSW
 ```
-- <i class="fas fa-award"></i> Recipient of MTC Applause Award (2022)
-- **Stakeholder Engagement and Solution Architecture**: Engage regularly with a diverse set of stakeholders to gather unique business needs. Specialize in architecting Salesforce solutions, customizing Salesforce with Apex, Lightning, and Visualforce. Implemented integration with AskNicely and FormAssembly to improve email campaigns and customer surveys.
-- **Data Management and Integration**: Conduct ETL operations using Talend, extract data from private subscriptions via MS SQL Server, and load it into Salesforce efficiently for enhanced analytics and decision-making processes.
-- **Web Development and Management**: Lead the technical aspect of publishing data from Salesforce to WordPress using custom plugins, and perform site-wide CSS and JS updates to improve uniformity and user experience.
-- **Web Accessibility and Compliance**: Collaborate with the marketing team using Monsido to ensure web accessibility and compliance. Extensively worked on the technical aspects of Marketo, contributing significantly to its successful integration with Salesforce and subsequent enhancement of marketing processes.
-- **Process Automation**: Drive automation of business and system processes, leveraging tools like Salesforce and Power Automate, resulting in significant improvements in operational efficiency.
+### **Flagship Project: Skills for Education and Employment (SEE) Student Management System (SMS)**  
+- **Architected and delivered a service delivery platform** using **Apex**, **Salesforce Flow**, **custom Lightning components**, and **Visualforce** to digitize enrollment, compliance, attendance tracking, AVETMISS reporting, and program management.  
+  - **Business Impact**: Reduced manual work for trainers/assessors by **60%** by replacing fragmented Excel/Email processes.  
+  - **Scale**: Supports **5,000+ participants** and **200+ staff** with real-time dashboards for compliance, referrals, and program performance.  
+  - **Integrations**: **Marketo** (Outreach Campaigns) and **Third-party SMS services** for assessment reminders and surveys.  
+  - **Data Infrastructure**: Built **ETL pipelines** to feed Salesforce data into BI tools for **forecasting** and **revenue analysis**.  
 
+**Spearheaded the technical design and implementation of mission-critical Salesforce solutions** for a diverse portfolio of educational and employment programs, including Skills for Education and Employment (SEE), Employability Skills Training (EST), Career Transition Assistance (CTA), VET training programs, Workforce Australia, Self Employment Assistance, National Disability Insurance Scheme (NDIS), and No Interest Loans Scheme (NILS). These solutions are used by 90% of the organization's staff, demonstrating their widespread impact and adoption.
+    
 ### <sub>_University Research Placement Student_ at </sub> **[Walter and Eliza Hall Institute of Medical Research](https://www.wehi.edu.au/){:target="_blank"}** `2021.07 - 2021.10`
 ```
 Melbourne, AU
