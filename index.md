@@ -65,30 +65,20 @@ Pondicherry
 
 
 ### **Core Expertise - Salesforce Ecosystem**
-
-
-- **Solution Architecture:** 
-  -  Extensive experience architecting and implementing end-to-end Salesforce solutions, including complex integrations, data migrations, and custom development.
-  - Proven ability to analyze business needs and translate them into scalable, secure, and high-performing technical solutions that optimize user experiences and data flows.
-  - Adept at leveraging managed packages and customizing them to meet unique organizational requirements.
-  - Skilled in extending Salesforce functionality through custom third-party applications and integrations with external platforms like WordPress, ensuring seamless data synchronization and user experiences.
-  - Expertise in utilizing Lightning Out to create engaging user interfaces and forms that interact with Salesforce data on external platforms.- 
+- **Solution Architecture:** Architecting comprehensive Salesforce solutions spanning integrations, migrations, and custom development. Transforming business requirements into scalable, secure technical solutions that optimize user experiences. Extending core functionality through managed package customization and third-party application integration. Developing cross-platform solutions with seamless data synchronization between Salesforce and external systems.
 - **Development:** Apex, Lightning Web Components, Visualforce
-- **Configuration:** Security, Workflows, Process Builder
-- **Integrations:** Connecting Salesforce with external systems like Marketo, AskNicely, FormAssembly, SMS Magic (SMS Converse) using APIs and middleware.
-- **Data Management:**
-  - ETL processes with Talend to load data into Salesforce.
-  - Extracting data from Salesforce to MS SQL for Business Intelligence purposes.
+- **Configuration:** Security, Flows, and declarative automation tools
+- **Integrations:** Salesforce connections with Marketo, AskNicely, FormAssembly, SMS Magic using APIs, middleware, and Node.js
+- **Data Management:** ETL with Talend for Salesforce loading; MS SQL extractions for BI purposes; implementing data backup solutions
 
-### **Broad Technical Expertise**
-
-* Cloud & Infrastructure: AWS (Lambda), Azure, Google Workspace, Docker, Heroku
-* Development & APIs: Node.js, JavaScript, .NET, C#, Python, Power Apps, Power Automate
-* Databases & ETL: MS SQL, Talend, Salesforce Connect
-* Web Technologies: JavaScript, .NET, SQL, WordPress, Wiki.js
-* Enterprise Architecture: TOGAF, ITIL, COBIT 
-* DevOps: Git, Azure DevOps, GitHub Actions, Salesforce DevOps
-* Compliance: Monsido (Web Accessibility)
+### **Technical Solution Domains**
+* **Cloud & Infrastructure:** AWS (Lambda), Azure, Google Workspace, Docker, Heroku
+* **Development & APIs:** Node.js, JavaScript, .NET, C#, Python, Power Apps, Power Automate
+* **Databases & ETL:** MS SQL, Talend, Salesforce Connect
+* **Web Technologies:** JavaScript, .NET, SQL, WordPress
+* **Enterprise Architecture:** TOGAF, ITIL, COBIT
+* **DevOps:** Git, Azure DevOps, GitHub Actions, Salesforce DevOps
+* **Compliance:** Monsido (Web Accessibility)
 
 ## Experience
 ### <sub>_Senior IT Solutions Analyst_ at </sub>**[MTC Australia](https://mtcaustralia.com.au/){:target="_blank"}** `2022.02 - Present`
@@ -98,7 +88,7 @@ Sydney, NSW
 ### **Flagship Project: Skills for Education and Employment (SEE) Student Management System (SMS)**  
 - **Architected and delivered a service delivery platform** using **Apex**, **Salesforce Flow**, **custom Lightning components**, and **Visualforce** to digitize enrollment, compliance, attendance tracking, AVETMISS reporting, and program management.  
   - **Business Impact**: Reduced manual work for trainers/assessors by **60%** by replacing fragmented Excel/Email processes.  
-  - **Scale**: Supports **5,000+ participants** and **200+ staff** with real-time dashboards for compliance, referrals, and program performance.  
+  - **Scale**: Supports **5,000+ participants** and **200+ staff** with real-time dashboards for attendance marking, compliance and referrals.
   - **Integrations**: **Marketo** (Outreach Campaigns) and **Third-party SMS services** for assessment reminders and surveys.  
   - **Data Infrastructure**: Built **ETL pipelines** to feed Salesforce data into BI tools for **forecasting** and **revenue analysis**.  
 
