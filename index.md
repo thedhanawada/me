@@ -65,40 +65,30 @@ Pondicherry
 
 
 ### **Core Expertise - Salesforce Ecosystem**
-
-
-- **Solution Architecture:** 
-  -  Extensive experience architecting and implementing end-to-end Salesforce solutions, including complex integrations, data migrations, and custom development.
-  - Proven ability to analyze business needs and translate them into scalable, secure, and high-performing technical solutions that optimize user experiences and data flows.
-  - Adept at leveraging managed packages and customizing them to meet unique organizational requirements.
-  - Skilled in extending Salesforce functionality through custom third-party applications and integrations with external platforms like WordPress, ensuring seamless data synchronization and user experiences.
-  - Expertise in utilizing Lightning Out to create engaging user interfaces and forms that interact with Salesforce data on external platforms.- 
+- **Solution Architecture:** Architecting comprehensive Salesforce solutions spanning integrations, migrations, and custom development. Transforming business requirements into scalable, secure technical solutions that optimize user experiences. Extending core functionality through managed package customization and third-party application integration. Developing cross-platform solutions with seamless data synchronization between Salesforce and external systems.
 - **Development:** Apex, Lightning Web Components, Visualforce
-- **Configuration:** Security, Workflows, Process Builder
-- **Integrations:** Connecting Salesforce with external systems like Marketo, AskNicely, FormAssembly, SMS Magic (SMS Converse) using APIs and middleware.
-- **Data Management:**
-  - ETL processes with Talend to load data into Salesforce.
-  - Extracting data from Salesforce to MS SQL for Business Intelligence purposes.
+- **Configuration:** Security, Flows, and declarative automation tools
+- **Integrations:** Salesforce connections with Marketo, AskNicely, FormAssembly, SMS Magic using APIs, middleware, and Node.js
+- **Data Management:** ETL with Talend for Salesforce loading; MS SQL extractions for BI purposes; implementing data backup solutions
 
-### **Broad Technical Expertise**
-
-* Cloud & Infrastructure: AWS (Lambda), Azure, Google Workspace, Docker, Heroku
-* Development & APIs: Node.js, JavaScript, .NET, C#, Python, Power Apps, Power Automate
-* Databases & ETL: MS SQL, Talend, Salesforce Connect
-* Web Technologies: JavaScript, .NET, SQL, WordPress, Wiki.js
-* Enterprise Architecture: TOGAF, ITIL, COBIT 
-* DevOps: Git, Azure DevOps, GitHub Actions, Salesforce DevOps
-* Compliance: Monsido (Web Accessibility)
+### **Technical Solution Domains**
+* **Cloud & Infrastructure:** AWS (Lambda), Azure, Google Workspace, Docker, Heroku
+* **Development & APIs:** Node.js, JavaScript, .NET, C#, Python, Power Apps, Power Automate
+* **Databases & ETL:** MS SQL, Talend, Salesforce Connect
+* **Web Technologies:** JavaScript, .NET, SQL, WordPress
+* **Enterprise Architecture:** TOGAF, ITIL, COBIT
+* **DevOps:** Git, Azure DevOps, GitHub Actions, Salesforce DevOps
+* **Compliance:** Monsido (Web Accessibility)
 
 ## Experience
 ### <sub>_Senior IT Solutions Analyst_ at </sub>**[MTC Australia](https://mtcaustralia.com.au/){:target="_blank"}** `2022.02 - Present`
 ```
-Sydney, NSW
+Sydney
 ```
 ### **Flagship Project: Skills for Education and Employment (SEE) Student Management System (SMS)**  
 - **Architected and delivered a service delivery platform** using **Apex**, **Salesforce Flow**, **custom Lightning components**, and **Visualforce** to digitize enrollment, compliance, attendance tracking, AVETMISS reporting, and program management.  
   - **Business Impact**: Reduced manual work for trainers/assessors by **60%** by replacing fragmented Excel/Email processes.  
-  - **Scale**: Supports **5,000+ participants** and **200+ staff** with real-time dashboards for compliance, referrals, and program performance.  
+  - **Scale**: Supports **5,000+ participants** and **200+ staff** with real-time dashboards for attendance marking, compliance and referrals.
   - **Integrations**: **Marketo** (Outreach Campaigns) and **Third-party SMS services** for assessment reminders and surveys.  
   - **Data Infrastructure**: Built **ETL pipelines** to feed Salesforce data into BI tools for **forecasting** and **revenue analysis**.  
 
@@ -106,7 +96,7 @@ Sydney, NSW
     
 ### <sub>_University Research Placement Student_ at </sub> **[Walter and Eliza Hall Institute of Medical Research](https://www.wehi.edu.au/){:target="_blank"}** `2021.07 - 2021.10`
 ```
-Melbourne, AU
+Melbourne
 ```
 - **Requirements Assessment**: Determined the requirements of the Blood Cells and Blood Cancer Division at WEHI and the Centre for Stem Cell Systems at the University of Melbourne.
 - **Implementation**: Executed the implementation, enabling the expansion of the application's functionality.
@@ -116,7 +106,7 @@ Melbourne, AU
 
 ### <sub>_Senior Technology Analyst_ at </sub> **[Victoria’s Secret & Co.](https://www.victoriassecretandco.com/){:target="_blank"}** `2016.10 - 2020.2`
 ```
-Bangalore, IN
+Bangalore
 ```
 - <i class="fas fa-award"></i> Recipient of Individual Achievement Award
 - **Accelerator Program**: Implemented and facilitated an internal corporate accelerator program, working with over 150 startups to validate technology feasibility and integration. Led collaboration with 12 startups in developing use cases for prototypes and successfully delivered them to the organization.
@@ -125,7 +115,7 @@ Bangalore, IN
 
 ### <sub>_Assistant System Engineer_ at </sub> **[Tata Consultancy Services](https://www.tcs.com/){:target="_blank"}** `2015.6 - 2016.10`
 ```
-Chennai, IN
+Chennai
 ```
 - <i class="fas fa-award"></i> Recipient of Star of the Learners Group
 - **Technology Research**: Conducted research on emerging solutions, products, and startup opportunities in retail technologies and provided the organization with the necessary tools to stay ahead in the industry.
@@ -137,7 +127,7 @@ Chennai, IN
 
 ### <sub>_Head of Technology Development_ at </sub> **[Teaching for Impact](https://teachingforimpact.org/){:target="_blank"}** `2021.02 - 2024.04`
 ```
-Melbourne, AU
+Melbourne
 ```
 - **Web Infrastructure & Services**: Assisted the organization in establishing web infrastructure and services for seamless operations.
 - **Partnerships & Grants**: Fostered partnerships with Google, Salesforce, and Canva, securing technology grants to enable more efficient content development.
@@ -149,7 +139,7 @@ Melbourne, AU
 
 ### <sub>_Store Coordinator_ at </sub>**[Australian Red Cross](https://www.redcross.org.au/){:target="_blank"}** `2021.01 - 2022.05`
 ```
-Melbourne, AU
+Melbourne
 ```
 - **Customer Service**: Volunteered to serve customers, leading to increased sales and higher customer engagement.
 - **Visual Merchandising**: Created window displays and visual merchandising displays that piqued customers' interest in merchandise.
@@ -159,7 +149,7 @@ Melbourne, AU
 
 ### [**Big Data Scalability, Methods and its Implications: A Survey of Current Practice**](https://dl.acm.org/doi/10.1145/2743065.2743121){:target="_blank"} [[PDF](https://doi.org/10.1145/2743065.2743121){:target="_blank"}]`March 2015`
 ```
-Article No.: 56,ages 1–5
+Article No.: 56,pages 1–5
 ```
 J. Amudhavel, D. Sathian, R. S. Raghav, **Nirmala Rao Dhanawada**, P. Dhavachelvan, and K. Prem Kumar<br>
 _ICARCSET '15: Proceedings of the 2015 International Conference on Advanced Research in Computer Science Engineering & Technology (ICARCSET 2015)_
