@@ -83,7 +83,7 @@ Pondicherry
 ## Experience
 ### <sub>_Senior IT Solutions Analyst_ at </sub>**[MTC Australia](https://mtcaustralia.com.au/){:target="_blank"}** `2022.02 - Present`
 ```
-Sydney, NSW
+Sydney
 ```
 ### **Flagship Project: Skills for Education and Employment (SEE) Student Management System (SMS)**  
 - **Architected and delivered a service delivery platform** using **Apex**, **Salesforce Flow**, **custom Lightning components**, and **Visualforce** to digitize enrollment, compliance, attendance tracking, AVETMISS reporting, and program management.  
@@ -96,7 +96,7 @@ Sydney, NSW
     
 ### <sub>_University Research Placement Student_ at </sub> **[Walter and Eliza Hall Institute of Medical Research](https://www.wehi.edu.au/){:target="_blank"}** `2021.07 - 2021.10`
 ```
-Melbourne, AU
+Melbourne
 ```
 - **Requirements Assessment**: Determined the requirements of the Blood Cells and Blood Cancer Division at WEHI and the Centre for Stem Cell Systems at the University of Melbourne.
 - **Implementation**: Executed the implementation, enabling the expansion of the application's functionality.
@@ -106,7 +106,7 @@ Melbourne, AU
 
 ### <sub>_Senior Technology Analyst_ at </sub> **[Victoria’s Secret & Co.](https://www.victoriassecretandco.com/){:target="_blank"}** `2016.10 - 2020.2`
 ```
-Bangalore, IN
+Bangalore
 ```
 - <i class="fas fa-award"></i> Recipient of Individual Achievement Award
 - **Accelerator Program**: Implemented and facilitated an internal corporate accelerator program, working with over 150 startups to validate technology feasibility and integration. Led collaboration with 12 startups in developing use cases for prototypes and successfully delivered them to the organization.
@@ -115,7 +115,7 @@ Bangalore, IN
 
 ### <sub>_Assistant System Engineer_ at </sub> **[Tata Consultancy Services](https://www.tcs.com/){:target="_blank"}** `2015.6 - 2016.10`
 ```
-Chennai, IN
+Chennai
 ```
 - <i class="fas fa-award"></i> Recipient of Star of the Learners Group
 - **Technology Research**: Conducted research on emerging solutions, products, and startup opportunities in retail technologies and provided the organization with the necessary tools to stay ahead in the industry.
@@ -127,7 +127,7 @@ Chennai, IN
 
 ### <sub>_Head of Technology Development_ at </sub> **[Teaching for Impact](https://teachingforimpact.org/){:target="_blank"}** `2021.02 - 2024.04`
 ```
-Melbourne, AU
+Melbourne
 ```
 - **Web Infrastructure & Services**: Assisted the organization in establishing web infrastructure and services for seamless operations.
 - **Partnerships & Grants**: Fostered partnerships with Google, Salesforce, and Canva, securing technology grants to enable more efficient content development.
@@ -139,7 +139,7 @@ Melbourne, AU
 
 ### <sub>_Store Coordinator_ at </sub>**[Australian Red Cross](https://www.redcross.org.au/){:target="_blank"}** `2021.01 - 2022.05`
 ```
-Melbourne, AU
+Melbourne
 ```
 - **Customer Service**: Volunteered to serve customers, leading to increased sales and higher customer engagement.
 - **Visual Merchandising**: Created window displays and visual merchandising displays that piqued customers' interest in merchandise.
@@ -149,7 +149,7 @@ Melbourne, AU
 
 ### [**Big Data Scalability, Methods and its Implications: A Survey of Current Practice**](https://dl.acm.org/doi/10.1145/2743065.2743121){:target="_blank"} [[PDF](https://doi.org/10.1145/2743065.2743121){:target="_blank"}]`March 2015`
 ```
-Article No.: 56,ages 1–5
+Article No.: 56,pages 1–5
 ```
 J. Amudhavel, D. Sathian, R. S. Raghav, **Nirmala Rao Dhanawada**, P. Dhavachelvan, and K. Prem Kumar<br>
 _ICARCSET '15: Proceedings of the 2015 International Conference on Advanced Research in Computer Science Engineering & Technology (ICARCSET 2015)_

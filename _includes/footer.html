@@ -1,13 +1,76 @@
 <div id="footer">
     <div class="footer-content">
-        <p>
-            Built with <a href="https://jekyllrb.com/" target="_blank">Jekyll</a>, 
-            inspired by <a href="https://github.com/wodeni/nimo-markdown-cv" target="_blank">nimo-markdown-cv</a>. 
-            <a href="https://github.com/thedhanawada/me" target="_blank"><i class="fab fa-github"></i> Source code</a> 
-            hosted on <a href="https://thedhanawada.github.io/me" target="_blank">GitHub Pages</a>
+      <div class="footer-primary">
+        <a href="http://about.dhanawada.org" target="_blank" class="site-link">about.dhanawada.org</a>
+      </div>
+      
+      <div class="footer-info">
+        <p class="build-info">
+          Built with <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> · 
+          Inspired by <a href="https://github.com/wodeni/nimo-markdown-cv" target="_blank">nimo-markdown-cv</a> · 
+          <a href="https://github.com/thedhanawada/me" target="_blank"><i class="fab fa-github"></i> Source</a> on 
+          <a href="https://thedhanawada.github.io/me" target="_blank">GitHub Pages</a>
         </p>
+        
         <p class="last-modified">
-            Last updated: {% if page.last_modified_at %}{{ page.last_modified_at | date: '%B %Y' }}{% else %}{{ 'now' | date: '%B %Y' }}{% endif %}
+          Last updated: {% if page.last_modified_at %}{{ page.last_modified_at | date: '%B %Y' }}{% else %}{{ 'now' | date: '%B %Y' }}{% endif %}
         </p>
+      </div>
     </div>
-</div>
+  </div>
+  
+  <style>
+  #footer {
+    margin-top: 40px;
+    padding: 20px 0;
+    border-top: 1px solid #eaeaea;
+    font-size: 14px;
+    color: #666;
+  }
+  
+  .footer-content {
+    max-width: 900px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  .footer-primary {
+    margin-bottom: 15px;
+  }
+  
+  .site-link {
+    font-size: 18px;
+    font-weight: 500;
+    color: #333;
+    text-decoration: none;
+    transition: color 0.2s;
+  }
+  
+  .site-link:hover {
+    color: #0077cc;
+  }
+  
+  .footer-info {
+    line-height: 1.6;
+  }
+  
+  .build-info {
+    margin-bottom: 8px;
+  }
+  
+  .build-info a, .last-modified a {
+    color: #0077cc;
+    text-decoration: none;
+    transition: color 0.2s;
+  }
+  
+  .build-info a:hover, .last-modified a:hover {
+    color: #005599;
+    text-decoration: underline;
+  }
+  
+  .last-modified {
+    font-style: italic;
+    color: #888;
+  }
+  </style>
