@@ -125,7 +125,7 @@ Chennai
 
 ## Volunteering
 
-### <sub>_Head of Technology Development_ at </sub> **[Teaching for Impact](https://teachingforimpact.org/){:target="_blank"}** `2021.02 - 2024.04`
+### <sub>_Head of Technology_ at </sub> **[Teaching for Impact](https://teachingforimpact.org/){:target="_blank"}** `2021.02 - 2024.04`
 ```
 Melbourne
 ```
